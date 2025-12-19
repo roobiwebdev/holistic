@@ -7,7 +7,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, ChevronDown, ChevronRight } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/Button";
-import { ModeToggle } from "@/components/ui/mode-toggle";
+import { ModeToggle } from "@/components/ui/ModeToggle";
 
 // Navigation Data Configuration
 const NAV_GROUPS = [
@@ -38,7 +38,7 @@ const NAV_GROUPS = [
     href: "/clinics",
     items: [
       { label: "London", href: "/dr-hr-sports-london" },
-      { label: "Dubai", href: "/dr-sports-clinic-dubai" },
+      { label: "Dubai", href: "https://drsportsclinic.co.uk/" },
       { label: "Find Us", href: "/find-us" },
     ],
   },
@@ -143,21 +143,26 @@ export function Navbar() {
                       className="absolute top-full left-1/2 -translate-x-1/2 min-w-[240px] pt-4"
                     >
                       <div className="bg-card/95 backdrop-blur-xl border border-white/10 p-2 rounded-sm shadow-2xl">
-                        {group.items.map((item, index) => (
-                          <motion.div
-                            key={item.href}
-                            initial={{ opacity: 0, x: -10 }}
-                            animate={{ opacity: 1, x: 0 }}
-                            transition={{ delay: index * 0.05, duration: 0.2 }} // Staggered fast animation
-                          >
-                            <Link
-                              href={item.href}
-                              className="block px-6 py-3 text-sm font-medium text-muted-foreground hover:text-primary hover:bg-white/5 transition-colors rounded-sm"
+                        {group.items.map((item, index) => {
+                          const isExternal = item.href.startsWith("http");
+                          return (
+                            <motion.div
+                              key={item.href}
+                              initial={{ opacity: 0, x: -10 }}
+                              animate={{ opacity: 1, x: 0 }}
+                              transition={{ delay: index * 0.05, duration: 0.2 }} // Staggered fast animation
                             >
-                              {item.label}
-                            </Link>
-                          </motion.div>
-                        ))}
+                              <Link
+                                href={item.href}
+                                className="block px-6 py-3 text-sm font-medium text-muted-foreground hover:text-primary hover:bg-white/5 transition-colors rounded-sm"
+                                target={isExternal ? "_blank" : undefined}
+                                rel={isExternal ? "noopener noreferrer" : undefined}
+                              >
+                                {item.label}
+                              </Link>
+                            </motion.div>
+                          );
+                        })}
                       </div>
                     </motion.div>
                   )}
@@ -273,16 +278,21 @@ function MobileDropdown({
             className="overflow-hidden"
           >
             <div className="flex flex-col gap-3 py-4 pl-4 border-l border-white/10 ml-2 mt-2">
-              {group.items.map((item: any) => (
-                <Link
-                  key={item.href}
-                  href={item.href}
-                  className="text-lg font-medium text-muted-foreground hover:text-primary transition-colors"
-                  onClick={onClose}
-                >
-                  {item.label}
-                </Link>
-              ))}
+              {group.items.map((item: any) => {
+                const isExternal = item.href.startsWith("http");
+                return (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    className="text-lg font-medium text-muted-foreground hover:text-primary transition-colors"
+                    onClick={onClose}
+                    target={isExternal ? "_blank" : undefined}
+                    rel={isExternal ? "noopener noreferrer" : undefined}
+                  >
+                    {item.label}
+                  </Link>
+                );
+              })}
             </div>
           </motion.div>
         )}

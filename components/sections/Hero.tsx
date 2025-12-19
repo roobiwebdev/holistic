@@ -32,18 +32,18 @@ export function Hero() {
         {/* Top Location Tag */}
         <div className="mb-6 animate-fade-in-up">
           <span className="text-xs md:text-sm uppercase tracking-[0.3em] text-white/70">
-            London • Essex • Dubai
+            London • Essex • South Woodford
           </span>
         </div>
 
         {/* Main Heading */}
-        <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-white mb-6 leading-tight max-w-5xl tracking-normal animate-fade-in-up delay-100">
+        <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-white mb-6 leading-tight max-w-5xl tracking-normal animate-fade-in-up delay-100 font-semibold">
           An Alternative <br />
-          Approach to <span className="italic text-primary">Healing</span>
+          Approach to <span className="italic text-primary font-bold">Healing</span>
         </h1>
 
         {/* Subheading Description */}
-        <p className="font-sans text-white/80 text-lg md:text-xl max-w-2xl mb-12 leading-relaxed animate-fade-in-up delay-200">
+        <p className="font-sans text-white text-lg md:text-xl max-w-2xl mb-12 leading-relaxed animate-fade-in-up delay-200">
           A sanctuary for the soul, mind, and body. Rooted in ancient wisdom,
           designed for modern healing.
         </p>
