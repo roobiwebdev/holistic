@@ -33,10 +33,10 @@ export function Footer() {
             <div className="space-y-6">
                 <h3 className="font-serif text-sm font-bold uppercase tracking-widest text-foreground">Services</h3>
                 <ul className="space-y-4 text-muted-foreground text-sm font-sans">
-                    <li><Link href="/services" className="hover:text-primary transition-colors">Holistic Therapies</Link></li>
-                    <li><Link href="/sports-clinic" className="hover:text-primary transition-colors">Sports Clinic</Link></li>
-                    <li><Link href="/energy-healing" className="hover:text-primary transition-colors">Energy Healing</Link></li>
-                    <li><Link href="/trauma-release" className="hover:text-primary transition-colors">Trauma Release</Link></li>
+                    <li><Link href="/services/holistic-therapies" className="hover:text-primary transition-colors">Holistic Therapies</Link></li>
+                    <li><Link href="/services/dr-hr-sports-london" className="hover:text-primary transition-colors">Sports Clinic</Link></li>
+                    <li><Link href="/services/energy-healing" className="hover:text-primary transition-colors">Energy Healing</Link></li>
+                    <li><Link href="/services/trauma-treatment" className="hover:text-primary transition-colors">Trauma Release</Link></li>
                 </ul>
             </div>
 
