@@ -23,7 +23,7 @@ export default function Home() {
       <OurServices />
       <CoreValues />
       <FrequencyMedicine />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <RelatedBlogs />
       <Faq />
       <VisitUs />

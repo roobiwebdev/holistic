@@ -18,11 +18,13 @@ async function ServicePageContent({ serviceSlug }: { serviceSlug: string }) {
   }
 
   // Transform subservices to cards with detail page URLs
+  // Use stable references to prevent unnecessary re-renders
   const cards = service.subservices.map((subservice) => ({
     title: subservice.title,
     description: subservice.description,
     image: subservice.image,
     link: getSubServiceDetailUrl(service.slug, subservice.slug),
+    ctaLabel: subservice.ctaLabel,
   }));
 
   return (

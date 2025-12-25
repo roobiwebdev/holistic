@@ -1,12 +1,12 @@
 "use client";
 
 import { Navbar } from "@/components/layout/Navbar";
-import { Button } from "@/components/ui/Button";
 import { motion } from "framer-motion";
 import { ArrowLeft, Check, Play } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 import { SubService } from "@/lib/services-data";
+import { VagaroBookButton } from "@/components/booking/VagaroBookButton";
 
 interface SubServiceDetailTemplateProps {
   serviceTitle: string;
@@ -27,7 +27,7 @@ export function SubServiceDetailTemplate({
     ? `https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1`
     : null;
 
-  const bookingUrl = `/services/${serviceSlug}/${subservice.slug}/book`;
+  // Booking now handled by Vagaro widget - no need for bookingUrl
 
   return (
     <main className="min-h-screen bg-background text-foreground flex flex-col">
@@ -178,14 +178,14 @@ export function SubServiceDetailTemplate({
                             </p>
                           </div>
                         </div>
-                        <Button
-                          asChild
+                        <VagaroBookButton
                           variant="premium"
                           size="lg"
                           className="w-full font-bold"
+                          bookingUrl={subservice.bookingUrl}
                         >
-                          <Link href={bookingUrl}>Book Now</Link>
-                        </Button>
+                          Book Now
+                        </VagaroBookButton>
                       </motion.div>
                     ))}
                   </div>
@@ -198,14 +198,14 @@ export function SubServiceDetailTemplate({
                   transition={{ duration: 0.4 }}
                   className="bg-card border border-white/10 rounded-2xl p-6 md:p-8"
                 >
-                  <Button
-                    asChild
+                  <VagaroBookButton
                     variant="premium"
                     size="lg"
                     className="w-full font-bold"
+                    bookingUrl={subservice.bookingUrl}
                   >
-                    <Link href={bookingUrl}>Book a Session</Link>
-                  </Button>
+                    Book a Session
+                  </VagaroBookButton>
                 </motion.div>
               )}
             </motion.div>

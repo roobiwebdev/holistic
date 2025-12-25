@@ -3,6 +3,8 @@ import { Playfair_Display, Inter } from "next/font/google"; // Import new fonts
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import { Footer } from "@/components/layout/Footer";
+import { VagaroScript } from "@/components/booking/VagaroScript";
+import { BookingModalProvider } from "@/components/booking/BookingModalProvider";
 
 const playfair = Playfair_Display({
   variable: "--font-playfair",
@@ -36,8 +38,11 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          {children}
-          <Footer />
+          <BookingModalProvider>
+            {children}
+            <Footer />
+            <VagaroScript />
+          </BookingModalProvider>
         </ThemeProvider>
       </body>
     </html>

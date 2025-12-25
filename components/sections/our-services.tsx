@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import { ArrowRight, Sparkles } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 
 const SERVICES = [
@@ -9,6 +10,7 @@ const SERVICES = [
     title: "Holistic Treatments",
     description:
       "Unique to Holistic Rising, these sessions combine multiple modalities into one experience. Created by Maria Sarmiento, they are intuitively layered to meet each client where they are — emotionally, physically, and spiritually — helping to reset the system and bring about a deep state of mental and energetic restoration.",
+    image: "/images/services/holistic-treatments.png",
     imageColor: "from-purple-500/20 to-blue-500/20",
     route: "/services/holistic-therapies",
   },
@@ -16,6 +18,7 @@ const SERVICES = [
     title: "2by4",
     description:
       "Experience the profound synergy of two therapists working fluidly with one client. This unique triad creates an energetic alchemy that allows for deep release and realignment. With skilled fascia stretching and an intuitive understanding of biomechanics and energetic balance, tension is gently eased from both agonist and antagonist muscles. The result is a decompressing, harmonising treatment that restores flow, space, and holistic wellbeing.",
+    image: "/images/services/2by4.png",
     imageColor: "from-pink-500/20 to-rose-500/20",
     route: "/services/2by4",
   },
@@ -23,6 +26,7 @@ const SERVICES = [
     title: "DR / HR Sports Clinic",
     description:
       "Designed by co-founder Diego Robinson, these high-performance, results-driven treatments aim to achieve measurable change in just one session. They combine elite-level sports therapy with biomechanical analysis, intuitive assessment, and functional movement expertise.",
+    image: "/images/services/sports-clinic.png",
     imageColor: "from-amber-500/20 to-orange-500/20",
     route: "/services/dr-hr-sports-london",
   },
@@ -33,6 +37,7 @@ It combines sports therapy, Thai massage, and Raynor massage to work deeply thro
 
 Sports massage is used to increase joint mobility and range of motion.
 Thai massage improves flexibility and works directly on the meridian system to clear energetic stagnation...`,
+    image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-emerald-500/20 to-teal-500/20",
     route: "/services/trauma-treatment",
   },
@@ -40,6 +45,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "Energy Healing",
     description:
       "Subtle, intuitive work that supports energetic alignment and emotional rebalancing. This therapy can help bring clarity, calm, and connection to those seeking spiritual or emotional restoration.",
+    image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-cyan-500/20 to-sky-500/20",
     route: "/services/energy-healing",
   },
@@ -47,6 +53,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "Maternity Massage (Prenatal & Postnatal)",
     description:
       "Tailored care for mothers before and after birth, focusing on the mental and emotional needs of this sacred transition while offering physical comfort and support.",
+    image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-violet-500/20 to-fuchsia-500/20",
     route: "/services/maternal-massage",
   },
@@ -54,6 +61,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "Natural Glow",
     description:
       "An integrative approach to skincare that nourishes both skin and spirit. Using all-natural products and conscious touch, these treatments aim to enhance your inner glow by supporting your body's natural beauty rhythms.",
+    image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-rose-500/20 to-pink-500/20",
     route: "/services/natural-glow",
   },
@@ -61,6 +69,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "Healing Movement",
     description:
       "A mindful practice combining breath, intuitive motion, and energy awareness. Designed to support nervous system regulation, emotional flow, and reconnection to the self through movement.",
+    image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-indigo-500/20 to-purple-500/20",
     route: "/services/healing-movement",
   },
@@ -110,21 +119,22 @@ export function OurServices() {
               >
                 {/* Image Placeholder area */}
                 <div
-                  className={`h-64 w-full bg-gradient-to-br ${service.imageColor} relative overflow-hidden`}
+                  className={`h-64 w-full bg-neutral-900 relative overflow-hidden`}
                 >
-                  <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors duration-500" />
-                  <Sparkles className="absolute top-4 right-4 w-6 h-6 text-white/50 group-hover:text-white transition-colors" />
-
-                  {/* More Info Overlay Button on Image Hover */}
-                  {/* <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-black/40 backdrop-blur-[1px]">
-                    <Button
-                      variant="outline"
-                      size="sm"
-                      className="border-white text-white hover:bg-white hover:text-black rounded-full font-bold"
-                    >
-                      More Info
-                    </Button>
-                  </div> */}
+                   {service.image ? (
+                    <Image
+                      src={service.image}
+                      alt={service.title}
+                      fill
+                      className="object-cover group-hover:scale-110 transition-transform duration-700"
+                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
+                    />
+                  ) : (
+                    <div className={`absolute inset-0 bg-gradient-to-br ${service.imageColor}`} />
+                  )}
+                  
+                  <div className="absolute inset-0 bg-black/30 group-hover:bg-black/10 transition-colors duration-500" />
+                  <Sparkles className="absolute top-4 right-4 w-6 h-6 text-white/70 group-hover:text-white transition-colors z-10" />
                 </div>
 
                 {/* Content */}
