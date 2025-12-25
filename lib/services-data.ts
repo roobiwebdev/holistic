@@ -205,7 +205,7 @@ export const SERVICES_DATA: Service[] = [
         videoId: "S_-e1AOuPug",
         ctaLabel: "Abdominal Treatment",
         bookingUrl:
-          "https://www.vagaro.com/cl/2X00qk4hI2slpxTXwG8p9im9DUnVV7wKg5VoBFuC5RU=",
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
         benefits: [
           "Relieves abdominal cramping and bloating",
           "Reduces excess fat and fluid build-up",
