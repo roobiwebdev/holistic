@@ -174,7 +174,7 @@ export function Navbar() {
           {/* Actions */}
           <div className="hidden lg:flex items-center gap-6">
             <ModeToggle />
-            <Button variant="premium" size="sm" className="font-bold">
+            <Button className="font-bold rounded-full shadow-[0_0_15px_rgba(234,88,12,0.5)] hover:shadow-[0_0_25px_rgba(234,88,12,0.7)] transition-shadow duration-300">
               Get in Touch
             </Button>
           </div>
@@ -231,7 +231,7 @@ export function Navbar() {
                 </div>
               ))}
               <div className="pt-8 flex flex-col gap-4">
-                <Button className="w-full font-bold" variant="premium">
+                <Button className="w-full font-bold rounded-full shadow-[0_0_15px_rgba(234,88,12,0.5)] hover:shadow-[0_0_25px_rgba(234,88,12,0.7)] transition-shadow duration-300">
                   Get in Touch
                 </Button>
               </div>

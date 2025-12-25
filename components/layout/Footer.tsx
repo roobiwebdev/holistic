@@ -154,7 +154,7 @@ export function Footer() {
                 className="rounded-full border-primary text-primary hover:bg-primary hover:text-white transition-colors gap-2"
               >
                 <a href="tel:+447726444360" className="flex">
-                  <Phone className="w-4 h-4" />
+                  <Phone className="w-4 h-4 mr-2" />
                   <span>Call Us</span>
                 </a>
               </Button>
