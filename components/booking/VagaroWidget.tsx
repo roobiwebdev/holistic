@@ -15,17 +15,17 @@ export function VagaroWidget({ bookingUrl }: VagaroWidgetProps) {
   const iframeUrl = bookingUrl || generalBookingUrl;
 
   return (
-    <div className="w-full h-full min-h-[600px]">
+    <div className="w-full h-full min-h-[750px]">
       {iframeUrl ? (
         <iframe
           src={iframeUrl}
-          className="w-full h-full min-h-[600px] border-0 rounded-lg"
+          className="w-full h-full min-h-[750px] border-0 rounded-lg"
           title="Book Appointment"
           allow="payment; fullscreen"
           loading="lazy"
         />
       ) : (
-        <div className="flex items-center justify-center h-full min-h-[600px] text-center">
+        <div className="flex items-center justify-center h-full min-h-[750px] text-center">
           <div className="space-y-4">
             <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 text-primary mb-4 mx-auto">
               <svg

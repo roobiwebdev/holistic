@@ -59,7 +59,7 @@ export function BookingModal({ isOpen, onClose, children }: BookingModalProps) {
                 damping: 25,
                 stiffness: 300,
               }}
-              className="relative w-full max-w-4xl max-h-[90vh] bg-background border border-white/10 rounded-2xl shadow-2xl pointer-events-auto overflow-hidden flex flex-col"
+              className="relative w-full max-w-7xl max-h-[95vh] bg-background border border-white/10 rounded-2xl shadow-2xl pointer-events-auto overflow-hidden flex flex-col"
             >
               {/* Header */}
               <div className="flex items-center justify-between p-6 border-b border-white/10">
