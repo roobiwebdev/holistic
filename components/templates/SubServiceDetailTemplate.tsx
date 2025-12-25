@@ -182,7 +182,7 @@ export function SubServiceDetailTemplate({
                           variant="premium"
                           size="lg"
                           className="w-full font-bold"
-                          bookingUrl={subservice.bookingUrl}
+                          bookingUrl={option.bookingUrl}
                         >
                           Book Now
                         </VagaroBookButton>
@@ -202,7 +202,6 @@ export function SubServiceDetailTemplate({
                     variant="premium"
                     size="lg"
                     className="w-full font-bold"
-                    bookingUrl={subservice.bookingUrl}
                   >
                     Book a Session
                   </VagaroBookButton>

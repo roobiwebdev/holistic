@@ -1,6 +1,7 @@
 export interface PricingOption {
   duration: string; // e.g., "60 minutes", "90 minutes"
   price: string; // e.g., "£70.00", "£100.00"
+  bookingUrl?: string; // Vagaro booking URL for this specific duration
 }
 
 export interface SubService {
@@ -77,8 +78,13 @@ export const SERVICES_DATA: Service[] = [
           "Releases trauma stored in the body",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "120 minutes",
+            price: "£180.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/EB7eqG6UKZ-FfAQdwrZjTqKAF96tYMkS3CM0Ugp9AK0=",
+          },
+          // { duration: "90 minutes", price: "£100.00", bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=" }
         ],
       },
       {
@@ -101,8 +107,18 @@ export const SERVICES_DATA: Service[] = [
           "Promotes holistic healing and balance",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "120 minutes",
+            price: "£180.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/-9DfDGftu3HBQOMcfbBVjsoWVRjDhuob065Uoq8TRy4=",
+          },
+          // {
+          //   duration: "90 minutes",
+          //   price: "£100.00",
+          //   bookingUrl:
+          //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          // },
         ],
       },
       {
@@ -126,8 +142,18 @@ export const SERVICES_DATA: Service[] = [
           "Works from body to soul",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "150 minutes",
+            price: "£250.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/2d5F3GGhax4e~ZXqKkwwqY6Uzd5JKpaW5Z4Vg-UxZDw=",
+          },
+          // {
+          //   duration: "120 minutes",
+          //   price: "£160.00",
+          //   bookingUrl:
+          //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          // },
         ],
       },
       {
@@ -151,8 +177,18 @@ export const SERVICES_DATA: Service[] = [
           "Deeply transformative healing experience",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "180 minutes",
+            price: "£300.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/VyWEyjx44I0mS4H~3pgPnKsDV9AQnK3rzzW2Ytuqwq0=",
+          },
+          // {
+          //   duration: "120 minutes",
+          //   price: "£160.00",
+          //   bookingUrl:
+          //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          // },
         ],
       },
       {
@@ -177,8 +213,18 @@ export const SERVICES_DATA: Service[] = [
           "Free from inherited patterns and programming",
         ],
         pricingOptions: [
-          { duration: "120 minutes", price: "£180.00" },
-          { duration: "150 minutes", price: "£220.00" },
+          {
+            duration: "240 minutes",
+            price: "£350.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/TY2hylutyWBgUoOdwqxPCYvaRXUyHkmiZcD2JXpzpaM=",
+          },
+          // {
+          //   duration: "150 minutes",
+          //   price: "£220.00",
+          //   bookingUrl:
+          //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          // },
         ],
       },
     ],
@@ -204,8 +250,6 @@ export const SERVICES_DATA: Service[] = [
           "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?q=80&w=1920&auto=format&fit=crop",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Abdominal Treatment",
-        bookingUrl:
-          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
         benefits: [
           "Relieves abdominal cramping and bloating",
           "Reduces excess fat and fluid build-up",
@@ -215,8 +259,18 @@ export const SERVICES_DATA: Service[] = [
           "Improves hip mobility and lung capacity",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -239,8 +293,18 @@ export const SERVICES_DATA: Service[] = [
           "Creates the perfect combination for you",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -263,8 +327,18 @@ export const SERVICES_DATA: Service[] = [
           "Restores natural function and flexibility",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -287,8 +361,18 @@ export const SERVICES_DATA: Service[] = [
           "Improves joint function",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -311,8 +395,18 @@ export const SERVICES_DATA: Service[] = [
           "Comprehensive treatment from hips to head",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -335,8 +429,18 @@ export const SERVICES_DATA: Service[] = [
           "Promotes holistic healing and balance",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -359,8 +463,18 @@ export const SERVICES_DATA: Service[] = [
           "Deeply restorative experience",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -383,8 +497,18 @@ export const SERVICES_DATA: Service[] = [
           "Helps with long-term poor posture",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -407,8 +531,18 @@ export const SERVICES_DATA: Service[] = [
           "Lifts energy and promotes well-being",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
     ],
@@ -443,8 +577,18 @@ export const SERVICES_DATA: Service[] = [
           "Holistic approach to transformation",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -467,8 +611,18 @@ export const SERVICES_DATA: Service[] = [
           "Balances subtle energy systems",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -491,8 +645,18 @@ export const SERVICES_DATA: Service[] = [
           "Creates lighter energetic state",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -515,8 +679,18 @@ export const SERVICES_DATA: Service[] = [
           "Rises above human mind limitations",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -539,8 +713,18 @@ export const SERVICES_DATA: Service[] = [
           "Rooted in Dharma and compassion",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
     ],
@@ -575,8 +759,18 @@ export const SERVICES_DATA: Service[] = [
           "Rooted in Ayurvedic tradition",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -599,8 +793,18 @@ export const SERVICES_DATA: Service[] = [
           "Rooted in ancient Indian traditions",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -623,8 +827,18 @@ export const SERVICES_DATA: Service[] = [
           "Promotes hormonal balance and inner harmony",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -649,8 +863,18 @@ export const SERVICES_DATA: Service[] = [
           "Works on head, face, neck and shoulders",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -673,8 +897,18 @@ export const SERVICES_DATA: Service[] = [
           "Activates vital marma points",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -697,8 +931,18 @@ export const SERVICES_DATA: Service[] = [
           "Deeply rejuvenating experience",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -721,8 +965,18 @@ export const SERVICES_DATA: Service[] = [
           "Luxury rose oil treatment",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -745,8 +999,18 @@ export const SERVICES_DATA: Service[] = [
           "Luxury treatment experience",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -769,8 +1033,18 @@ export const SERVICES_DATA: Service[] = [
           "Luxurious treatment experience",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -793,8 +1067,18 @@ export const SERVICES_DATA: Service[] = [
           "Gentle rhythmic strokes",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -817,8 +1101,18 @@ export const SERVICES_DATA: Service[] = [
           "Natural beauty enhancement",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -841,8 +1135,18 @@ export const SERVICES_DATA: Service[] = [
           "Non-painful and very gentle",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -865,8 +1169,18 @@ export const SERVICES_DATA: Service[] = [
           "Refines the silhouette",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -889,8 +1203,18 @@ export const SERVICES_DATA: Service[] = [
           "Uses natural essential oils",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -913,8 +1237,18 @@ export const SERVICES_DATA: Service[] = [
           "Brings balance back to your body",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -937,8 +1271,18 @@ export const SERVICES_DATA: Service[] = [
           "Full body basalt hot stone massage",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -961,8 +1305,18 @@ export const SERVICES_DATA: Service[] = [
           "Reveals natural luminosity",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
     ],
@@ -997,8 +1351,18 @@ export const SERVICES_DATA: Service[] = [
           "Developed by yoga specialist Georgia and founder Maria",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1021,8 +1385,18 @@ export const SERVICES_DATA: Service[] = [
           "Supports mental clarity and nervous system regulation",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1046,8 +1420,18 @@ export const SERVICES_DATA: Service[] = [
           "Rooted in root chakra principles",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
     ],
@@ -1083,8 +1467,18 @@ export const SERVICES_DATA: Service[] = [
           "Supports body's readiness to conceive",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1107,8 +1501,18 @@ export const SERVICES_DATA: Service[] = [
           "Promotes restful sleep and emotional balance",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1131,8 +1535,18 @@ export const SERVICES_DATA: Service[] = [
           "Nurturing space for transformation",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£70.00" },
-          { duration: "90 minutes", price: "£100.00" },
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
     ],
@@ -1167,8 +1581,18 @@ export const SERVICES_DATA: Service[] = [
           "Restores balance throughout the body",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1191,8 +1615,18 @@ export const SERVICES_DATA: Service[] = [
           "Promotes long-term musculoskeletal health",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1216,8 +1650,18 @@ export const SERVICES_DATA: Service[] = [
           "Addresses areas that carry tension",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1240,8 +1684,18 @@ export const SERVICES_DATA: Service[] = [
           "Ideal combination treatment",
         ],
         pricingOptions: [
-          { duration: "120 minutes", price: "£180.00" },
-          { duration: "150 minutes", price: "£220.00" },
+          {
+            duration: "120 minutes",
+            price: "£180.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "150 minutes",
+            price: "£220.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1264,8 +1718,18 @@ export const SERVICES_DATA: Service[] = [
           "Combined with Ayurvedic head massage",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1288,8 +1752,18 @@ export const SERVICES_DATA: Service[] = [
           "Personalised treatment experience",
         ],
         pricingOptions: [
-          { duration: "90 minutes", price: "£120.00" },
-          { duration: "120 minutes", price: "£160.00" },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
     ],
@@ -1323,7 +1797,14 @@ export const SERVICES_DATA: Service[] = [
           "Stimulates natural healing mechanisms",
           "Comprehensive full body approach",
         ],
-        pricingOptions: [{ duration: "90 minutes", price: "£120.00" }],
+        pricingOptions: [
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
       },
       {
         slug: "area-focused-sports-treatment",
@@ -1344,7 +1825,14 @@ export const SERVICES_DATA: Service[] = [
           "Increases mobility",
           "Reduces discomfort",
         ],
-        pricingOptions: [{ duration: "60 minutes", price: "£80.00" }],
+        pricingOptions: [
+          {
+            duration: "60 minutes",
+            price: "£80.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
       },
       {
         slug: "sports-massage",
@@ -1366,8 +1854,18 @@ export const SERVICES_DATA: Service[] = [
           "Suitable for athletes, gym-goers, dancers",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£80.00" },
-          { duration: "90 minutes", price: "£110.00" },
+          {
+            duration: "60 minutes",
+            price: "£80.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£110.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1390,8 +1888,18 @@ export const SERVICES_DATA: Service[] = [
           "Muscle-targeting techniques",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£80.00" },
-          { duration: "90 minutes", price: "£110.00" },
+          {
+            duration: "60 minutes",
+            price: "£80.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£110.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1414,8 +1922,18 @@ export const SERVICES_DATA: Service[] = [
           "Expert techniques",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£80.00" },
-          { duration: "90 minutes", price: "£110.00" },
+          {
+            duration: "60 minutes",
+            price: "£80.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£110.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
       {
@@ -1438,8 +1956,18 @@ export const SERVICES_DATA: Service[] = [
           "Focused therapy for running-specific issues",
         ],
         pricingOptions: [
-          { duration: "60 minutes", price: "£80.00" },
-          { duration: "90 minutes", price: "£110.00" },
+          {
+            duration: "60 minutes",
+            price: "£80.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£110.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
         ],
       },
     ],
