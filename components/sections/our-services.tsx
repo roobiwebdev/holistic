@@ -7,31 +7,7 @@ import Link from "next/link";
 
 const SERVICES = [
   {
-    title: "Holistic Treatments",
-    description:
-      "Unique to Holistic Rising, these sessions combine multiple modalities into one experience. Created by Maria Sarmiento, they are intuitively layered to meet each client where they are — emotionally, physically, and spiritually — helping to reset the system and bring about a deep state of mental and energetic restoration.",
-    image: "/images/services/holistic-treatments.png",
-    imageColor: "from-purple-500/20 to-blue-500/20",
-    route: "/services/holistic-therapies",
-  },
-  {
-    title: "2by4",
-    description:
-      "Experience the profound synergy of two therapists working fluidly with one client. This unique triad creates an energetic alchemy that allows for deep release and realignment. With skilled fascia stretching and an intuitive understanding of biomechanics and energetic balance, tension is gently eased from both agonist and antagonist muscles. The result is a decompressing, harmonising treatment that restores flow, space, and holistic wellbeing.",
-    image: "/images/services/2by4.png",
-    imageColor: "from-pink-500/20 to-rose-500/20",
-    route: "/services/2by4",
-  },
-  {
-    title: "DR / HR Sports Clinic",
-    description:
-      "Designed by co-founder Diego Robinson, these high-performance, results-driven treatments aim to achieve measurable change in just one session. They combine elite-level sports therapy with biomechanical analysis, intuitive assessment, and functional movement expertise.",
-    image: "/images/services/sports-clinic.png",
-    imageColor: "from-amber-500/20 to-orange-500/20",
-    route: "/services/dr-hr-sports-london",
-  },
-  {
-    title: "Healing / Trauma Release",
+    title: "Trauma Healing",
     description: `This treatment, designed by founder Maria Sarmiento, creates a profound release of trauma throughout the body.
 It combines sports therapy, Thai massage, and Raynor massage to work deeply through the body's physical and energetic systems.
 
@@ -42,6 +18,14 @@ Thai massage improves flexibility and works directly on the meridian system to c
     route: "/services/trauma-treatment",
   },
   {
+    title: "DR / HR Sports Clinic",
+    description:
+      "Designed by co-founder Diego Robinson, these high-performance, results-driven treatments aim to achieve measurable change in just one session. They combine elite-level sports therapy with biomechanical analysis, intuitive assessment, and functional movement expertise.",
+    image: "/images/services/sports-clinic.png",
+    imageColor: "from-amber-500/20 to-orange-500/20",
+    route: "/services/dr-hr-sports-london",
+  },
+  {
     title: "Energy Healing",
     description:
       "Subtle, intuitive work that supports energetic alignment and emotional rebalancing. This therapy can help bring clarity, calm, and connection to those seeking spiritual or emotional restoration.",
@@ -50,12 +34,12 @@ Thai massage improves flexibility and works directly on the meridian system to c
     route: "/services/energy-healing",
   },
   {
-    title: "Maternity Massage (Prenatal & Postnatal)",
+    title: "Holistic Therapies",
     description:
-      "Tailored care for mothers before and after birth, focusing on the mental and emotional needs of this sacred transition while offering physical comfort and support.",
-    image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=800&auto=format&fit=crop",
-    imageColor: "from-violet-500/20 to-fuchsia-500/20",
-    route: "/services/maternal-massage",
+      "Unique to Holistic Rising, these sessions combine multiple modalities into one experience. Created by Maria Sarmiento, they are intuitively layered to meet each client where they are — emotionally, physically, and spiritually — helping to reset the system and bring about a deep state of mental and energetic restoration.",
+    image: "/images/services/holistic-treatments.png",
+    imageColor: "from-purple-500/20 to-blue-500/20",
+    route: "/services/holistic-therapies",
   },
   {
     title: "Natural Glow",
@@ -66,12 +50,28 @@ Thai massage improves flexibility and works directly on the meridian system to c
     route: "/services/natural-glow",
   },
   {
+    title: "2x4",
+    description:
+      "Experience the profound synergy of two therapists working fluidly with one client. This unique triad creates an energetic alchemy that allows for deep release and realignment. With skilled fascia stretching and an intuitive understanding of biomechanics and energetic balance, tension is gently eased from both agonist and antagonist muscles. The result is a decompressing, harmonising treatment that restores flow, space, and holistic wellbeing.",
+    image: "/images/services/2by4.png",
+    imageColor: "from-pink-500/20 to-rose-500/20",
+    route: "/services/2by4",
+  },
+  {
     title: "Healing Movement",
     description:
       "A mindful practice combining breath, intuitive motion, and energy awareness. Designed to support nervous system regulation, emotional flow, and reconnection to the self through movement.",
     image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-indigo-500/20 to-purple-500/20",
     route: "/services/healing-movement",
+  },
+  {
+    title: "Maternal Massage",
+    description:
+      "Tailored care for mothers before and after birth, focusing on the mental and emotional needs of this sacred transition while offering physical comfort and support.",
+    image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=800&auto=format&fit=crop",
+    imageColor: "from-violet-500/20 to-fuchsia-500/20",
+    route: "/services/maternal-massage",
   },
 ];
 

@@ -43,7 +43,7 @@ export function ServicePageTemplate({
       <Navbar />
 
       {/* Hero Section */}
-      <section className="relative h-[80vh] flex items-center justify-center overflow-hidden">
+      <section className="relative min-h-[85vh] lg:h-[98vh] flex flex-col items-center justify-center pt-32 pb-20 lg:pt-24 lg:pb-0 overflow-hidden">
         {/* Background Video */}
         <div className="absolute inset-0 z-0 bg-neutral-900">
           {youtubeEmbedUrl ? (
@@ -79,7 +79,7 @@ export function ServicePageTemplate({
         </div>
 
         {/* Hero Content */}
-        <div className="relative z-20 text-center px-6 max-w-5xl mx-auto space-y-6">
+        <div className="relative z-20 text-center px-6 max-w-5xl mx-auto space-y-6 lg:-mt-10">
           {subtitle && (
             <motion.span
               initial={{ opacity: 0, y: 10 }}

@@ -144,30 +144,72 @@ export const BLOG_POSTS: BlogPost[] = [
             <p>
                 Feet are not just for walking. They house thousands of nerve endings, mechanoreceptors, intrinsic muscles, fascia, ligaments, and joints — all continuously sending sensory information to your brain, spinal cord, cerebellum, vestibular system, and posture-control networks. Every step, every shift in weight, every micro-sway underpins a powerful feedback loop.
             </p>
+
+            <h3 className="text-2xl font-bold mb-4 mt-8">The Silent Intelligence</h3>
             <p>
-                At Holistic Rising, we view the feet as the foundational platform not only of physical posture and balance but of energetic, neurological, visceral, and whole-body health.
+               Every step, shift in weight and micro-sway underpins a powerful feedback loop. When this communication is clear, balance, posture and bodily awareness remain resilient. However, when these signals become "fuzzy," it can manifest as:
             </p>
+            <ul className="grid grid-cols-2 gap-4 my-6 list-none pl-0">
+                <li className="bg-white/5 p-3 rounded-lg border border-white/10 flex items-center gap-2"><span>🌀</span> Dizziness</li>
+                <li className="bg-white/5 p-3 rounded-lg border border-white/10 flex items-center gap-2"><span>⚖️</span> Poor Balance</li>
+                <li className="bg-white/5 p-3 rounded-lg border border-white/10 flex items-center gap-2"><span>⚡</span> Chronic Pain</li>
+                <li className="bg-white/5 p-3 rounded-lg border border-white/10 flex items-center gap-2"><span>👤</span> Poor Posture</li>
+                <li className="bg-white/5 p-3 rounded-lg border border-white/10 flex items-center gap-2"><span>🧠</span> Tension</li>
+                <li className="bg-white/5 p-3 rounded-lg border border-white/10 flex items-center gap-2"><span>👣</span> Sensory Loss</li>
+            </ul>
 
             <h3 className="text-2xl font-bold mb-4 mt-8">🧠 The Feet–Brain Connection: What Research Reveals</h3>
             <p>
-                Neurological rehabilitation research increasingly confirms what holistic systems have known for centuries: foot mobilisation and intrinsic muscle activation directly improve brain-based balance. A recent study (Life, 2025) demonstrated that patients recovering from brain-tumour surgery showed significant improvements in dynamic postural stability, coordination, spatial awareness, and gait quality when their rehabilitation included sensorimotor foot mobilisation.
+                Neurological rehabilitation research increasingly confirms what holistic systems have known for centuries: <strong>foot mobilisation and intrinsic muscle activation directly improve brain-based balance.</strong> A recent study demonstrated that patients showed significant improvements in dynamic postural stability, coordination, spatial awareness, and gait quality when their rehabilitation included sensorimotor foot mobilisation.
             </p>
-            <p className="font-medium mt-2">In essence, the feet stabilise the brain.</p>
+            <p className="font-medium italic border-l-4 border-primary pl-4 my-6">In essence, the feet stabilise the brain.</p>
 
             <h3 className="text-2xl font-bold mb-4 mt-8">🌸 Holistic Rising’s Ground-Up Approach</h3>
+            <p>
+                Because the body is an energetic, vibrational ecosystem, our approach goes beyond conventional therapy. We blend foot-focused treatments, sports therapy, Ayurvedic grounding rituals and subtle-energy healing.
+            </p>
             
-            <div className="space-y-6">
-                <div>
-                     <strong className="text-lg block mb-2">🌎 Grounding: Earth, Frequency & the Body’s Electrical Harmony</strong>
-                     <p>At Holistic Rising, grounding isn’t just a metaphor — it’s foundational. By reconnecting your body (through your feet) to the Earth, we restore a natural electrical and energetic connection. This helps to reduce inflammation, stabilise electrical signalling, lower neural noise, enhance circadian regulation, and calm the nervous system.</p>
+            <div className="space-y-8 mt-6">
+                <div className="bg-white/5 p-6 rounded-2xl border border-white/10">
+                     <strong className="text-primary text-lg block mb-2 uppercase tracking-wide">🌎 Nature meets Science</strong>
+                     <p>We combine Reiki, Crystal Healing, Shamanic Techniques, and Meridian & Chakra Work to address the body as an integrated healing system.</p>
                 </div>
-                 <div>
-                     <strong className="text-lg block mb-2">💪🏽 From Feet to Hormones</strong>
-                     <p>Healing from the ground up affects hormonal balance, pelvic health, and vitality. For women, restoring grounding and foot mechanics can regulate hormonal rhythms and support menopausal transition. For men, it can influence pelvic-floor health and vitality.</p>
+                 <div className="bg-white/5 p-6 rounded-2xl border border-white/10">
+                     <strong className="text-primary text-lg block mb-2 uppercase tracking-wide">👣 Specialised Feet & Ankle Therapy</strong>
+                     <p>Integrating Traditional Thai reflexology, Raynor massage, Fascia release and Joint mobilisation to target the subtle structures of the feet, restoring mobility and reawakening sensory structures.</p>
                 </div>
-                 <div>
-                     <strong className="text-lg block mb-2">🫁🫀 Feet, Inflammation & Organ Vitality</strong>
-                     <p>Feet are often the first point of contact between our bodies and the ground. Through specialised foot-and-ankle therapy, Ayurvedic foot massage, and energetic bodywork, we help restore circulation, open fascia lines, and support lymphatic flow.</p>
+                 <div className="bg-white/5 p-6 rounded-2xl border border-white/10">
+                     <strong className="text-primary text-lg block mb-2 uppercase tracking-wide">✨ Kansa Wand Ritual</strong>
+                     <p>Rooted in Ayurvedic tradition, stimulating marma points to promote circulation, draw out acidity, and calm the nervous system for deep grounding.</p>
+                </div>
+                <div className="bg-white/5 p-6 rounded-2xl border border-white/10">
+                     <strong className="text-primary text-lg block mb-2 uppercase tracking-wide">🏃🏽‍♂️ DR/HR Sports Clinic</strong>
+                     <p>Focused on high performance and injury recovery, correcting gait imbalances and restoring biomechanical alignment for those bearing the most load.</p>
+                </div>
+            </div>
+
+            <h3 className="text-2xl font-bold mb-4 mt-8">💪🏽 From Feet to Hormones</h3>
+            <p>
+                Healing from the ground up affects hormonal balance, pelvic health, and vitality.
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-6">
+                <div className="bg-purple-900/10 p-6 rounded-2xl border border-purple-500/20">
+                    <h4 className="font-bold text-purple-200 mb-3">For Women:</h4>
+                    <ul className="text-sm space-y-1 text-purple-100/70 list-none pl-0">
+                        <li>• Menstrual regularity</li>
+                        <li>• Menopausal transitions</li>
+                        <li>• Pelvic-floor tone</li>
+                        <li>• Abdominal organ mobility</li>
+                    </ul>
+                </div>
+                <div className="bg-blue-900/10 p-6 rounded-2xl border border-blue-500/20">
+                    <h4 className="font-bold text-blue-200 mb-3">For Men:</h4>
+                    <ul className="text-sm space-y-1 text-blue-100/70 list-none pl-0">
+                        <li>• Pelvic-floor function</li>
+                        <li>• Bladder control</li>
+                        <li>• Erectile function</li>
+                        <li>• Hormonal stability</li>
+                    </ul>
                 </div>
             </div>
 

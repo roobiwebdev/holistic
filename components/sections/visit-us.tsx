@@ -130,9 +130,27 @@ export function VisitUs() {
                     <h3 className="font-serif text-2xl text-foreground">Get in Touch</h3>
                 </div>
                 
-                <p className="text-muted-foreground mb-10 leading-relaxed">
-                    For bookings and inquiries, please reach out via email.
-                </p>
+                <div className="space-y-6 mb-10">
+                    <div className="space-y-1">
+                        <p className="text-primary text-[10px] uppercase font-bold tracking-[0.1em]">WhatsApp Only</p>
+                        <p className="text-xl font-serif text-foreground">07726 444 360</p>
+                    </div>
+
+                    <div className="grid grid-cols-1 gap-4 pt-4 border-t border-white/5">
+                        <div className="group/phone transition-all">
+                            <p className="text-muted-foreground text-[10px] uppercase font-bold tracking-[0.1em] group-hover/phone:text-primary">Wanstead Clinic</p>
+                            <p className="text-lg font-serif group-hover/phone:translate-x-1 transition-transform">02034885333</p>
+                        </div>
+                        <div className="group/phone transition-all">
+                            <p className="text-muted-foreground text-[10px] uppercase font-bold tracking-[0.1em] group-hover/phone:text-primary">South Woodford Clinic</p>
+                            <p className="text-lg font-serif group-hover/phone:translate-x-1 transition-transform">02034886333</p>
+                        </div>
+                        <div className="group/phone transition-all">
+                            <p className="text-muted-foreground text-[10px] uppercase font-bold tracking-[0.1em] group-hover/phone:text-primary">Romford Clinic</p>
+                            <p className="text-lg font-serif group-hover/phone:translate-x-1 transition-transform">01708837333</p>
+                        </div>
+                    </div>
+                </div>
 
                 <div className="mt-auto">
                     <Button 

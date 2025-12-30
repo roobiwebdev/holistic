@@ -4,13 +4,13 @@ import { Star } from "lucide-react";
 
 export default function MeetTheTeam() {
   const teamMembers = [
-    {
-      name: "Diego Robinson",
-      role: "Co-Founder & Specialist",
-      rating: 5,
-      reviews: 178,
-      bio: "Diego Robinson is a highly respected sports performance specialist, celebrated for his cutting-edge approach to physical health, mobility, and human biomechanics. Widely regarded as one of London’s leading sports specialists, Diego brings precision, deep anatomical expertise, and innovative thinking to his work with athletes and individuals seeking to optimise their physical function. As Co-Founder of Holistic Rising and son of Maria Sarmiento, Diego stands at the heart of a family legacy devoted to healing, service, and transformation. Together, Maria and Diego have united their life’s work through Holistic Rising — a practice that bridges ancestral wisdom, energy work, and holistic science. Their shared vision is one of balance and integration: where the body, mind, and spirit are understood as one system of communication and vitality. Drawing from their ancestral connection to healing, Diego infuses his practice with intuitive awareness, honouring the energetic foundations of wellbeing that underpin all physical movement. His understanding of biomechanics and human structure is complemented by a profound respect for the energetic body, creating a uniquely integrated approach to recovery and performance. Building upon his foundational work with Holistic Rising, Diego went on to establish DR Sports Clinic, a pioneering therapeutic space redefining modern sports therapy. What sets DR Sports Clinic apart is its commitment to treating the body as an interconnected system — not focusing solely on injury or pain, but exploring how posture, movement, lifestyle, and energy flow collectively shape physical health. Diego’s method goes beyond recovery; it is about elevating natural performance, enhancing function, and cultivating long-term resilience. Through DR Sports Clinic and Holistic Rising, Diego continues to shape a new paradigm in therapy, that fuses anatomical intelligence with energetic balance, rooted in a shared vision of wholeness, vitality, holistic evolution",
-    },
+    // {
+    //   name: "Diego Robinson",
+    //   role: "Co-Founder & Specialist",
+    //   rating: 5,
+    //   reviews: 178,
+    //   bio: "Diego Robinson is a highly respected sports performance specialist, celebrated for his cutting-edge approach to physical health, mobility, and human biomechanics. Widely regarded as one of London’s leading sports specialists, Diego brings precision, deep anatomical expertise, and innovative thinking to his work with athletes and individuals seeking to optimise their physical function. As Co-Founder of Holistic Rising and son of Maria Sarmiento, Diego stands at the heart of a family legacy devoted to healing, service, and transformation. Together, Maria and Diego have united their life’s work through Holistic Rising — a practice that bridges ancestral wisdom, energy work, and holistic science. Their shared vision is one of balance and integration: where the body, mind, and spirit are understood as one system of communication and vitality. Drawing from their ancestral connection to healing, Diego infuses his practice with intuitive awareness, honouring the energetic foundations of wellbeing that underpin all physical movement. His understanding of biomechanics and human structure is complemented by a profound respect for the energetic body, creating a uniquely integrated approach to recovery and performance. Building upon his foundational work with Holistic Rising, Diego went on to establish DR Sports Clinic, a pioneering therapeutic space redefining modern sports therapy. What sets DR Sports Clinic apart is its commitment to treating the body as an interconnected system — not focusing solely on injury or pain, but exploring how posture, movement, lifestyle, and energy flow collectively shape physical health. Diego’s method goes beyond recovery; it is about elevating natural performance, enhancing function, and cultivating long-term resilience. Through DR Sports Clinic and Holistic Rising, Diego continues to shape a new paradigm in therapy, that fuses anatomical intelligence with energetic balance, rooted in a shared vision of wholeness, vitality, holistic evolution",
+    // },
     {
       name: "Maria Holistic Rising",
       role: "Co-Founder",
@@ -78,7 +78,7 @@ export default function MeetTheTeam() {
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-primary/10 via-background to-background z-0" />
         <div className="container relative z-10 mx-auto max-w-4xl text-center space-y-6">
             <div className="flex justify-center mb-4">
-                 <div className="text-primary opacity-80 flex justify-center items-center">
+                 <div className="text-yellow-400 opacity-90 flex justify-center items-center">
                     <svg width="40" height="40" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                         <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" />
                     </svg>
@@ -118,7 +118,7 @@ export default function MeetTheTeam() {
                 <div className="lg:col-span-4 flex flex-col md:flex-row items-center md:items-start gap-8">
                      <div className="text-center md:text-left space-y-2">
                         <div className="text-6xl font-bold font-serif text-white">5.0</div>
-                        <div className="flex justify-center md:justify-start gap-1 text-primary">
+                        <div className="flex justify-center md:justify-start gap-1 text-yellow-400">
                             {[1,2,3,4,5].map(i => <Star key={i} className="w-5 h-5 fill-current" />)}
                         </div>
                         <p className="text-sm text-muted-foreground uppercase tracking-widest">388 Reviews</p>
@@ -146,7 +146,7 @@ export default function MeetTheTeam() {
                     ].map((item, idx) => (
                         <div key={idx} className="bg-background/50 border border-white/5 rounded-xl p-4 flex flex-col items-center justify-center gap-3 text-center">
                             <span className="text-xs font-bold uppercase tracking-widest text-muted-foreground">{item.label}</span>
-                             <div className="flex gap-0.5 text-primary">
+                             <div className="flex gap-0.5 text-yellow-400">
                                 {[1,2,3,4,5].map(i => <Star key={i} className="w-3 h-3 fill-current" />)}
                             </div>
                         </div>
@@ -184,7 +184,7 @@ export default function MeetTheTeam() {
                                 {member.name}
                             </h2>
                             <div className={`flex items-center gap-3 ${index % 2 === 1 ? 'md:flex-row-reverse justify-center md:justify-start' : 'justify-center md:justify-start'}`}>
-                                <div className="flex gap-1 text-primary">
+                                <div className="flex gap-1 text-yellow-400">
                                     {[1,2,3,4,5].map(i => <Star key={i} className="w-5 h-5 fill-current" />)}
                                 </div>
                                 <span className="text-sm text-muted-foreground font-medium bg-white/5 px-3 py-1 rounded-full border border-white/5">

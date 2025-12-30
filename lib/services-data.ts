@@ -807,40 +807,7 @@ export const SERVICES_DATA: Service[] = [
           },
         ],
       },
-      {
-        slug: "holistic-abdominal-massage-digestive-wellness",
-        title: "Holistic Abdominal Massage for digestive wellness",
-        description:
-          "An Ayurvedic approach to detoxification, hormonal balance, and inner harmony. The Holistic Abdominal Massage at Holistic Rising is a therapeutic treatment rooted in the ancient principles of Ayurveda, designed to bring balance to the digestive, reproductive, and nervous systems by working gently yet purposefully through the abdomen. This massage supports the natural movement of the digestive tract, aids in detoxification, and helps to release stored emotional tension held in the core of the body.",
-        fullDescription:
-          "An Ayurvedic approach to detoxification, hormonal balance, and inner harmony. The Holistic Abdominal Massage at Holistic Rising is a therapeutic treatment rooted in the ancient principles of Ayurveda, designed to bring balance to the digestive, reproductive, and nervous systems by working gently yet purposefully through the abdomen. This massage supports the natural movement of the digestive tract, aids in detoxification, and helps to release stored emotional tension held in the core of the body.",
-        image:
-          "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?q=80&w=1920&auto=format&fit=crop",
-        videoId: "S_-e1AOuPug",
-        ctaLabel: "Holistic Abdominal Massage for digestive wellness",
-        benefits: [
-          "Ayurvedic approach to detoxification",
-          "Brings balance to digestive, reproductive, and nervous systems",
-          "Supports natural digestive movement",
-          "Aids in detoxification",
-          "Releases stored emotional tension",
-          "Promotes hormonal balance and inner harmony",
-        ],
-        pricingOptions: [
-          {
-            duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
+
       {
         slug: "revitalising-head-scalp-shoulders-face-massage",
         title:
@@ -877,40 +844,7 @@ export const SERVICES_DATA: Service[] = [
           },
         ],
       },
-      {
-        slug: "ayurvedic-facelift-massage",
-        title: "Ayurvedic Facelift Massage",
-        description:
-          "A natural, holistic approach to facial rejuvenation, radiance, and inner harmony. The Ayurvedic Facelift Massage at Holistic Rising is a deeply restorative, non-invasive treatment that tones the facial muscles, stimulates lymphatic flow, and encourages a youthful glow—entirely through the power of therapeutic touch and herbal nourishment. Rooted in Ayurvedic wisdom, this treatment works beyond the surface of the skin, activating vital marma points and rebalancing the subtle energy systems of the face and upper body.",
-        fullDescription:
-          "A natural, holistic approach to facial rejuvenation, radiance, and inner harmony. The Ayurvedic Facelift Massage at Holistic Rising is a deeply restorative, non-invasive treatment that tones the facial muscles, stimulates lymphatic flow, and encourages a youthful glow—entirely through the power of therapeutic touch and herbal nourishment. Rooted in Ayurvedic wisdom, this treatment works beyond the surface of the skin, activating vital marma points and rebalancing the subtle energy systems of the face and upper body.",
-        image:
-          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
-        videoId: "S_-e1AOuPug",
-        ctaLabel: "Ayurvedic Facelift Massage",
-        benefits: [
-          "Natural, holistic approach to facial rejuvenation",
-          "Tones facial muscles",
-          "Stimulates lymphatic flow",
-          "Encourages youthful glow",
-          "Non-invasive treatment",
-          "Activates vital marma points",
-        ],
-        pricingOptions: [
-          {
-            duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
+
       {
         slug: "rose-steam-ritual",
         title: "ROSE STEAM RITUAL",
@@ -979,40 +913,7 @@ export const SERVICES_DATA: Service[] = [
           },
         ],
       },
-      {
-        slug: "luxury-back-renewal-ritual",
-        title: "LUXURY BACK RENEWAL RITUAL",
-        description:
-          "Experience the ultimate indulgence for body and spirit with our Luxury Back Renewal Ritual—a balancing Neal's Yard oil–infused steam treatment designed to deeply detoxify, rejuvenate, and restore harmony to the back, neck and shoulders.",
-        fullDescription:
-          "Experience the ultimate indulgence for body and spirit with our Luxury Back Renewal Ritual—a balancing Neal's Yard oil–infused steam treatment designed to deeply detoxify, rejuvenate, and restore harmony to the back, neck and shoulders.",
-        image:
-          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
-        videoId: "S_-e1AOuPug",
-        ctaLabel: "LUXURY BACK RENEWAL RITUAL",
-        benefits: [
-          "Ultimate indulgence for body and spirit",
-          "Neal's Yard oil–infused steam treatment",
-          "Deeply detoxifies and rejuvenates",
-          "Restores harmony to back, neck and shoulders",
-          "Balancing and restorative",
-          "Luxury treatment experience",
-        ],
-        pricingOptions: [
-          {
-            duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
+
       {
         slug: "neals-yard-aromatherapy-massage",
         title: "NEALS YARD ARMOATHERAPY MASSAGE",
@@ -1115,40 +1016,7 @@ export const SERVICES_DATA: Service[] = [
           },
         ],
       },
-      {
-        slug: "dry-cupping-therapy",
-        title: "DRY CUPPING THERAPY",
-        description:
-          "A gentle, non-invasive treatment that promotes detoxification and enhances overall wellbeing. Dry cupping therapy involves placing cups gently on various areas of the body to create suction, which helps to draw toxins to the surface of the skin and encourage the body's natural detoxification processes. Unlike other cupping methods used for deep tissue decompression, this technique is non-painful and very gentle, focusing primarily on stimulating the top layers of the skin.",
-        fullDescription:
-          "A gentle, non-invasive treatment that promotes detoxification and enhances overall wellbeing. Dry cupping therapy involves placing cups gently on various areas of the body to create suction, which helps to draw toxins to the surface of the skin and encourage the body's natural detoxification processes. Unlike other cupping methods used for deep tissue decompression, this technique is non-painful and very gentle, focusing primarily on stimulating the top layers of the skin.",
-        image:
-          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
-        videoId: "S_-e1AOuPug",
-        ctaLabel: "DRY CUPPING THERAPY",
-        benefits: [
-          "Gentle, non-invasive treatment",
-          "Promotes detoxification",
-          "Enhances overall wellbeing",
-          "Draws toxins to the surface",
-          "Encourages natural detoxification",
-          "Non-painful and very gentle",
-        ],
-        pricingOptions: [
-          {
-            duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
+
       {
         slug: "sculpting-treatment",
         title: "SCULPTING TREATMENT",
@@ -1183,74 +1051,8 @@ export const SERVICES_DATA: Service[] = [
           },
         ],
       },
-      {
-        slug: "reiki-crystal-healing-massage",
-        title: "REIKI OR CRYSTAL HEALING MASSAGE",
-        description:
-          "Allow yourself to be gently guided into a space of pure stillness and healing with our Angelic Reiki with Soothing Aromatherapy Massage—a deeply nurturing treatment that combines the high vibrational energy of Angelic Reiki with the calming power of therapeutic touch and natural essential oils.",
-        fullDescription:
-          "Allow yourself to be gently guided into a space of pure stillness and healing with our Angelic Reiki with Soothing Aromatherapy Massage—a deeply nurturing treatment that combines the high vibrational energy of Angelic Reiki with the calming power of therapeutic touch and natural essential oils.",
-        image:
-          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
-        videoId: "S_-e1AOuPug",
-        ctaLabel: "REIKI OR CRYSTAL HEALING MASSAGE",
-        benefits: [
-          "Space of pure stillness and healing",
-          "High vibrational energy of Angelic Reiki",
-          "Combines with soothing aromatherapy massage",
-          "Deeply nurturing treatment",
-          "Calming power of therapeutic touch",
-          "Uses natural essential oils",
-        ],
-        pricingOptions: [
-          {
-            duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
-      {
-        slug: "hot-stone-foot-lower-leg-massage",
-        title: "RHOT STONE FOOT & LOWER LEG MASSAGE",
-        description:
-          "Treat your feet and lower legs to a deeply grounding and restorative experience with our Hot Stone Foot & Lower Leg Massage. This indulgent treatment combines the therapeutic warmth of smooth basalt stones with gentle, flowing massage techniques to ease tired muscles, reduce tension, and bring balance back to your body.",
-        fullDescription:
-          "Treat your feet and lower legs to a deeply grounding and restorative experience with our Hot Stone Foot & Lower Leg Massage. This indulgent treatment combines the therapeutic warmth of smooth basalt stones with gentle, flowing massage techniques to ease tired muscles, reduce tension, and bring balance back to your body.",
-        image:
-          "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=1920&auto=format&fit=crop",
-        videoId: "S_-e1AOuPug",
-        ctaLabel: "HOT STONE FOOT & LOWER LEG MASSAGE",
-        benefits: [
-          "Deeply grounding and restorative",
-          "Therapeutic warmth of basalt stones",
-          "Gentle, flowing massage techniques",
-          "Eases tired muscles",
-          "Reduces tension",
-          "Brings balance back to your body",
-        ],
-        pricingOptions: [
-          {
-            duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
+
+
       {
         slug: "basalt-hot-stone-massage",
         title: "RBASALT HOT STONE MASSAGE",

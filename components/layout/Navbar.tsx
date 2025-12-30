@@ -23,14 +23,14 @@ const NAV_GROUPS = [
     label: "Services",
     href: "/services",
     items: [
-      { label: "Trauma Treatment", href: "/services/trauma-treatment" },
-      { label: "Holistic Therapies", href: "/services/holistic-therapies" },
+      { label: "Trauma Healing", href: "/services/trauma-treatment" },
+      { label: "DR / HR Sports Clinic", href: "/services/dr-hr-sports-london" },
       { label: "Energy Healing", href: "/services/energy-healing" },
+      { label: "Holistic Therapies", href: "/services/holistic-therapies" },
       { label: "Natural Glow", href: "/services/natural-glow" },
+      { label: "2x4", href: "/services/2by4" },
       { label: "Healing Movement", href: "/services/healing-movement" },
       { label: "Maternal Massage", href: "/services/maternal-massage" },
-      { label: "2by4", href: "/services/2by4" },
-      { label: "DR / HR Sports Clinic", href: "/services/dr-hr-sports-london" },
     ],
   },
   {
@@ -49,7 +49,6 @@ const NAV_GROUPS = [
       { label: "Blog", href: "/blog" },
       { label: "Policies", href: "/policies" },
       { label: "Aftercare & Policies", href: "/aftercare-and-policies" },
-      { label: "Why Feet Matter", href: "/why-feet-matter" },
       { label: "Gift Cards", href: "/gift-cards" },
     ],
   },
@@ -86,19 +85,21 @@ export function Navbar() {
       >
         <div className="container mx-auto px-6 flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="z-50 relative">
-            <h1
-              className={cn(
-                "font-serif text-2xl md:text-3xl font-bold tracking-tight transition-colors",
-                isScrolled ? "text-foreground" : "text-white"
-              )}
-            >
-              Holistic Rising
-            </h1>
-          </Link>
+          <div className="flex-1 flex justify-start">
+            <Link href="/" className="z-50 relative">
+              <h1
+                className={cn(
+                  "font-serif text-2xl md:text-3xl font-bold tracking-tight transition-colors",
+                  isScrolled ? "text-foreground" : "text-white"
+                )}
+              >
+                Holistic Rising
+              </h1>
+            </Link>
+          </div>
 
           {/* Desktop Navigation */}
-          <nav className="hidden lg:flex items-center gap-8">
+          <nav className="hidden lg:flex items-center gap-8 justify-center">
             <Link
               href="/"
               className={cn(
@@ -171,24 +172,26 @@ export function Navbar() {
             ))}
           </nav>
 
-          {/* Actions */}
-          <div className="hidden lg:flex items-center gap-6">
-            <ModeToggle />
-            <Button className="font-bold rounded-full shadow-[0_0_15px_rgba(234,88,12,0.5)] hover:shadow-[0_0_25px_rgba(234,88,12,0.7)] transition-shadow duration-300">
-              Get in Touch
-            </Button>
-          </div>
+          {/* Actions & Mobile Toggle */}
+          <div className="flex-1 flex justify-end items-center gap-4">
+            <div className="hidden lg:flex items-center gap-6">
+              <ModeToggle />
+              <Button className="font-bold rounded-full shadow-[0_0_15px_rgba(234,88,12,0.5)] hover:shadow-[0_0_25px_rgba(234,88,12,0.7)] transition-shadow duration-300">
+                Get in Touch
+              </Button>
+            </div>
 
-          {/* Mobile Menu Toggle */}
-          <button
-            className={cn(
-              "lg:hidden z-50 p-2 transition-colors",
-              isScrolled ? "text-foreground" : "text-white"
-            )}
-            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-          >
-            {mobileMenuOpen ? <X /> : <Menu />}
-          </button>
+            {/* Mobile Menu Toggle */}
+            <button
+              className={cn(
+                "lg:hidden z-50 p-2 transition-colors",
+                isScrolled ? "text-foreground" : "text-white"
+              )}
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+            >
+              {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+            </button>
+          </div>
         </div>
       </header>
 

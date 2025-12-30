@@ -65,10 +65,10 @@ const FAQS = [
     )
   },
   {
-    question: "What is 2by4?",
+    question: "What is 2x4?",
     answer: (
         <div className="space-y-4">
-            <p>2by4 is a unique support model offered at Holistic Rising, where clients receive two therapists working together for a full four-handed treatment.</p>
+            <p>2x4 is a unique support model offered at Holistic Rising, where clients receive two therapists working together for a full four-handed treatment.</p>
             <p>This powerful approach creates a deep sense of balance and synergy in the body and energy field. 2x4 treatments are ideal for clients experiencing chronic overwhelm, trauma, or emotional imbalance. The combined touch and energy of two skilled practitioners allow for a reset on multiple levels, bringing the body-mind system into a deeply supported state.</p>
         </div>
     )
