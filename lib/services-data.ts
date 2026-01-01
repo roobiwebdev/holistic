@@ -112,7 +112,7 @@ export const SERVICES_DATA: Service[] = [
         pricingOptions: [
           {
             duration: "120 minutes",
-            price: "£180.00",
+            price: "£250.00",
             bookingUrl:
               "https://www.vagaro.com/cl/EB7eqG6UKZ-FfAQdwrZjTqKAF96tYMkS3CM0Ugp9AK0=",
           },
@@ -209,7 +209,7 @@ export const SERVICES_DATA: Service[] = [
         pricingOptions: [
           {
             duration: "150 minutes",
-            price: "£250.00",
+            price: "£350.00",
             bookingUrl:
               "https://www.vagaro.com/cl/2d5F3GGhax4e~ZXqKkwwqY6Uzd5JKpaW5Z4Vg-UxZDw=",
           },
@@ -279,7 +279,7 @@ export const SERVICES_DATA: Service[] = [
         pricingOptions: [
           {
             duration: "180 minutes",
-            price: "£300.00",
+            price: "£450.00",
             bookingUrl:
               "https://www.vagaro.com/cl/VyWEyjx44I0mS4H~3pgPnKsDV9AQnK3rzzW2Ytuqwq0=",
           },
@@ -315,7 +315,7 @@ export const SERVICES_DATA: Service[] = [
         pricingOptions: [
           {
             duration: "240 minutes",
-            price: "£350.00",
+            price: "£550.00",
             bookingUrl:
               "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
@@ -380,7 +380,7 @@ export const SERVICES_DATA: Service[] = [
         pricingOptions: [
           {
             duration: "240 minutes",
-            price: "£350.00",
+            price: "£650.00",
             bookingUrl:
               "https://www.vagaro.com/cl/TY2hylutyWBgUoOdwqxPCYvaRXUyHkmiZcD2JXpzpaM=",
           },
@@ -393,6 +393,166 @@ export const SERVICES_DATA: Service[] = [
         ],
       },
     ],
+  },
+  {
+    slug: "profound-trauma-release-men",
+    hero: {
+      title: "PROFOUND TRAUMA RELEASE FOR MEN",
+      subtitle: "Restoring Presence, Strength & Resilience",
+      description:
+        "For men ready to reclaim their body, reset their system and restore what survival once cost them. Delivered by Isaac — Trauma Specialist, Master’s-Trained Physiotherapist and Body-Based Healing Practitioner — this treatment unites clinical expertise with the powerful somatic trauma-release system developed at Holistic Rising.",
+      youtubeVideoId: "S_-e1AOuPug",
+    },
+    subservices: [
+      {
+        slug: "trauma-release-1-men",
+        title: "Trauma Release 1 — Core Fascia Release",
+        description:
+          "For men who are outwardly coping but internally overloaded. This level supports nervous system regulation, emotional grounding, and a mental ‘exhale’ through physical release.",
+        fullDescription:
+          "Trauma Release 1 — Core Fascia Release\n\nClient Profile\n\nMen who are outwardly coping but internally overloaded. Their body and nervous system are still responsive to strong work, yet not ready for the deepest somatic unravelling.\n\nThis may include men who:\n• Feel mentally overextended, emotionally fatigued, or psychologically pressured\n• Experience anxiety, low mood, emotional suppression, or early signs of depression\n• Carry tension through jaw, chest, shoulders, diaphragm, or breath-holding patterns\n• Live on low reserves, brain fog, irritability, or poor sleep due to stress\n• Have a history of surgical or medical trauma that is stable but still held physically\n• Are navigating mental health strain such as stress, anxiety, panic responses, or emotional burnout\n• Want to feel more present in their body but feel disconnected, heavy, or tense\n• Are managing mild to moderate mental health challenges alongside physical exhaustion\n\nThis level supports nervous system regulation, emotional grounding, and a mental ‘exhale’ through physical release.\n\nWhen fascia begins to release, the brain follows — easing internal pressure and supporting emotional regulation.",
+        image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Trauma Release 1",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        benefits: [
+            "Core fascia release",
+            "Nervous system regulation",
+            "Emotional grounding",
+            "Mental exhale through physical release",
+            "Targets tension in jaw, chest, shoulders",
+            "Supports stress and burnout recovery"
+        ],
+        pricingOptions: [
+          {
+            duration: "120 minutes",
+            price: "£200.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw="
+          }
+        ]
+      },
+      {
+        slug: "trauma-release-2-men",
+        title: "Trauma Release 2 — Layered Release",
+        description:
+          "For men carrying both physical trauma and psychological or emotional layering. This level works into deeper fascia and stress-system holding, allowing the brain to release defence naturally through somatic work.",
+        fullDescription:
+            "Trauma Release 2 — Layered Release\n\nClient Profile\n\nMen carrying both physical trauma and psychological or emotional layering. Their pain, tension, and stress patterns live equally in body and mind.\n\nThis may include men who:\n• Experience chronic pain combined with nervous system fatigue\n• Struggle with persistent anxiety, depression, intrusive thoughts, compulsive patterns, emotional dysregulation, or dissociation linked to stress\n• Present with conditions such as: Chronic pain, Fatigue syndromes, Chronic pain with fatigue\n• Carry long-term muscular and fascial guarding\n• Are navigating an array of mental health challenges, including: Generalised anxiety disorder, Complex depression tied to trauma, PTSD or C-PTSD traits, Intrusive thoughts, Sensory overload, Compulsive behaviors, Mood instability\n\nThis level works into deeper fascia and stress-system holding, allowing the brain to release defence naturally through somatic work.\n\nBy releasing fascia, the system signals safety to the brain — reducing mental noise, easing emotional load, and calming psychological defence patterns without needing to ‘force’ cognitive release.",
+         image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
+         ctaLabel: "Trauma Release 2",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+         benefits: [
+             "Layered release for contents",
+             "Works into deeper fascia and stress-system",
+             "Allows brain to release defence naturally",
+             "Signals safety to the brain",
+             "Reduces mental noise and emotional load",
+             "Addresses chronic pain and fatigue"
+         ],
+         pricingOptions: [
+          {
+            duration: "180 minutes",
+            price: "£300.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw="
+          }
+        ]
+      },
+      {
+         slug: "trauma-release-3-men",
+         title: "Trauma Release 3 — Profound Reclamation",
+         description: 
+            "For men holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.",
+         fullDescription:
+            "Trauma Release 3 — Profound Reclamation\n\nClient Profile\n\nMen holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.\n\nThis may include men who:\n• Experience nervous system freeze, shutdown, or collapse responses\n• Live with mobility restriction, movement fear, or functional limitation\n• Carry conditions that impact systemic inflammation, immunity, neurological signalling, or fascia holding (Lupus, MS, Fibromyalgia, Diabetes, etc.)\n• Have fascial restriction, circulation issues, or numbness\n• Experience depression, neurodivergent trauma layering, or long-term mental health illness stored somatically\n\nThis level helps men rebuild trust in movement, release fascia that has been bracing for years, and restore agency over their body and system.\n\nAs fascia unravels, the brain is given permission to release survival-mode signalling — easing emotional weight, reducing neurological defence, and supporting mental health at a foundational, physiological level.",
+         image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+         ctaLabel: "Trauma Release 3",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+         benefits: [
+             "Profound reclamation for complex trauma",
+             "Addresses neuroimmune and neurological conditions",
+             "Rebuilds trust in movement",
+             "Releases fascia bracing for years",
+             "Restores agency over body and system",
+             "Supports mental health at physiological level"
+         ],
+         pricingOptions: [
+          {
+            duration: "240 minutes",
+            price: "£400.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw="
+          }
+        ]
+      }
+    ],
+    bottomContent: `### Isaac’s Expertise
+
+* **Fully trained Trauma-Focused Physiotherapist**
+* **Holds a Master’s degree in Trauma-Based Physiotherapy**
+* **Certified Trauma Specialist**
+* Extensive experience working in NHS hospitals with trauma patients, supporting recuperation, rehabilitation and long-term recovery
+* Worked pitch-side for elite rugby clubs and professional teams, managing chronic injuries, acute trauma and high-impact physical injury
+* Completed advanced practitioner training in the Holistic Rising Method, working directly alongside founder Maria Sarmiento
+* Mentored and certified by Maria Sarmiento, contributing to the evolution of trauma-release protocols tailored specifically for men
+* Now pioneering Profound Trauma Release for male clients, offering this work to men for the very first time
+
+Isaac blends clinical trauma-rehabilitation knowledge with profound somatic and energetic release work — providing a space where strength is not in conflict with healing, and where the body is finally met with understanding, not pressure.
+
+### 1. The Burnout & Exhaustion Body
+
+**For the warrior who kept going long after his body said stop.**
+
+**Profile:**
+Physically drained, mentally worn, emotionally muted. A body running on empty. Moving through life with low reserves. Feeling heavy, numb or disconnected.
+
+**What This Work Delivers:**
+
+* Profound reawakening of energy and presence
+* Restored connection to physical and emotional self
+* Reset of exhaustion held in breath, muscle and nervous system tone
+* A return to clarity, strength and embodied vitality
+
+> "This is not gentle recovery — this is profound restoration. The moment the body stops surviving and starts living again."
+
+### 2. The Medical & Surgical Trauma Body
+
+**For the body that has endured pain, procedures and clinical environments.**
+
+**Profile:**
+Surgeries, injuries or long medical histories. Scar tissue, restriction, numbness or a sense of disconnection from parts of the body. A body that still holds memory, even when the mind has tried to move forward.
+
+**What This Work Delivers:**
+
+* Profound reconnection to areas once shut down or guarded
+* Softening of scar and fascial restrictions
+* Restored circulation, sensation and internal trust
+* A renewed sense of bodily ownership, flow and resilience
+
+> "Because true healing is not about forgetting the past — it is about freeing the body from repeating it."
+
+### 3. The Hyper-Vigilant & Fight-Mode Body
+
+**For the protector who learned to stay alert to survive.**
+
+**Profile:**
+Deep tension in the jaw, chest, shoulders and diaphragm. Shallow breathing. Fast reactions. A nervous system locked in ‘fight’ — always prepared, never fully settled.
+
+**What This Work Delivers:**
+
+* Profound release of survival-based holding patterns
+* Nervous system regulation at the deepest level
+* Restored breath, emotional safety and internal steadiness
+* A transition from fight-mode to felt strength and personal agency
+
+> "This is the reset your system has been waiting for — the moment protection becomes a conscious choice, not a default state."
+
+### The Result
+
+A body that no longer carries survival like armour.
+A mind no longer trapped in alert mode.
+A nervous system that can finally stand down without shutting off or losing strength.
+
+This is Profound Trauma Release for Men — delivered by a practitioner who understands trauma clinically, neurologically and somatically.
+
+Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising Method.`
   },
   {
     slug: "holistic-therapies",

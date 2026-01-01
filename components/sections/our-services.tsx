@@ -18,6 +18,13 @@ Thai massage improves flexibility and works directly on the meridian system to c
     route: "/services/trauma-treatment",
   },
   {
+    title: "Profound Trauma Release for Men",
+    description: "For men ready to reclaim their body, reset their system and restore what survival once cost them. A profound return to presence, strength and embodied resilience.",
+    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=800&auto=format&fit=crop",
+    imageColor: "from-blue-500/20 to-slate-500/20",
+    route: "/services/profound-trauma-release-men",
+  },
+  {
     title: "DR / HR Sports Clinic",
     description:
       "Designed by co-founder Diego Robinson, these high-performance, results-driven treatments aim to achieve measurable change in just one session. They combine elite-level sports therapy with biomechanical analysis, intuitive assessment, and functional movement expertise.",
