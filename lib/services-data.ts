@@ -58,7 +58,7 @@ export const SERVICES_DATA: Service[] = [
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
-      {
+      /* {
         slug: "trauma-release-treatment",
         title: "Trauma Release Treatment",
         description:
@@ -85,6 +85,36 @@ export const SERVICES_DATA: Service[] = [
               "https://www.vagaro.com/cl/EB7eqG6UKZ-FfAQdwrZjTqKAF96tYMkS3CM0Ugp9AK0=",
           },
           // { duration: "90 minutes", price: "£100.00", bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=" }
+        ],
+      }, */
+      {
+        slug: "trauma-release-healing",
+        title: "Trauma Release Healing",
+        description:
+          "A fusion of touch, energy, and awareness to restore ease and vitality. At Holistic Rising, our Trauma Release Healing service is a deeply integrative healing experience designed to support the release of the physical, energetic, and emotional imprints of trauma stored in the body.",
+        fullDescription:
+          "A fusion of touch, energy, and awareness to restore ease and vitality. At Holistic Rising, our Trauma Release Healing service is a deeply integrative healing experience designed to support the release of the physical, energetic, and emotional imprints of trauma stored in the body.\n\nThis treatment incorporates the flowing stretches, acupressure, and compression techniques of Thai massage, which support mobility, flexibility, and circulation, while working externally along the body’s meridian lines, as recognised in Traditional Chinese Medicine. These energy channels are understood in wellness practices to influence the flow of qi (life force). By supporting the release of tension and congestion along these pathways, the treatment encourages the body to move toward balance and systemic regulation.\n\nThe treatment also incorporates yogic healing practices applied externally to the energetic body, supporting the release of emotions often held in areas of long-term tension. Through mindful body-based assessment, the session supports identification of the “seed” of trauma—the emotional or energetic root behind persistent internal holding patterns.\n\nWe further incorporate Raynor Massage, working externally along the body’s energy lines to support systemic unblocking and flow. The treatment applies fascial release techniques to ease connective tissue surrounding and supporting the nervous system. Fascia can hold tension and fluid congestion dense with hormones, chemicals, fat, and lifestyle residue. By supporting release across these fascia pathways, the treatment encourages a feeling of internal decompression, openness, and nervous-system recalibration.\n\nTrauma release is also a full-body detoxing process. By opening the fascia lines, the treatment supports fluidity within the lymphatic system, helping the body process and release internal congestion through its natural secretion pathways.\n\nFollowing the session, clients may experience an integration period of 3 to 5 days, as the body continues processing the release. Some of the responses people may notice during this period include:\n\t•\tAn emotional detox response\n\t•\tA fluid detox response, where internal congestion may be processed and released through the body’s secretion organs\n\t•\tA gradual return of energy and vitality\n\nMany clients describe an instant rejuvenation effect after the session, particularly when long-standing patterns of tension linked to fight-or-flight responses have been held in the body over time. This treatment supports a feeling of release from chronic stress-triangle patterns, commonly referenced in wellbeing work as:\n\t•\tSaviour complex stress patterns\n\t•\tVictim-response tension imprints\n\t•\tAggressor-stress tension patterns\n\nThese references are presented here in a wellbeing and somatic context only and not as medical claims or diagnoses.\n\nThis treatment is a dedicated healing service for clients seeking deep and whole-body unblocking, detoxing, mobility support, and nervous-system recalibration, with the intention of supporting the alleviation of chronic pain symptoms commonly associated with trauma retention in the body. Clients have reported much success in their wellbeing outcomes when working with long-standing symptoms associated with autoimmune disease, and when undergoing systemic recovery following chemotherapy. Chronic pain symptoms associated with fibromyalgia are one of the key client-reported success stories of this treatment. Positive outcomes have also been reported by clients experiencing wellbeing challenges commonly associated with PTSD, ADHD, lupus, MS, and diabetes. Many clients regard this treatment as supportive for creating a grounded approach to daily life, encouraging alignment, self-connection, and a renewed sense of self-awareness and personal balance.",
+        image:
+          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
+        videoId: "S_-e1AOuPug",
+        ctaLabel: "Trauma Release Healing",
+        benefits: [
+          "Deeply integrative healing experience",
+          "Supports release of physical, energetic, and emotional imprints of trauma",
+          "Combines Thai massage stretches and compression",
+          "Works with meridian lines and TCM principles",
+          "Incorporates external yogic healing and Raynor Massage",
+          "Fascia release for nervous system recalibration",
+          "Full-body detoxing and lymphatic support",
+          "Supports chronic pain management and systemic recovery",
+        ],
+        pricingOptions: [
+          {
+            duration: "120 minutes",
+            price: "£180.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/EB7eqG6UKZ-FfAQdwrZjTqKAF96tYMkS3CM0Ugp9AK0=",
+          },
         ],
       },
       {
@@ -948,7 +978,7 @@ export const SERVICES_DATA: Service[] = [
           },
         ],
       },
-      {
+      /* {
         slug: "relax-release-ritual",
         title: "RELAX AND RELEASE RITUAL",
         description:
@@ -981,8 +1011,43 @@ export const SERVICES_DATA: Service[] = [
               "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
-      },
+      }, */
       {
+        slug: "full-body-gentle-balance-release-ritual",
+        title: "Full Body Gentle Balance & Release Ritual",
+        description:
+          "Our Full-Body Gentle Balance and Release Ritual treats the body to support the release of the mind. Through slow, calming, full-body massage techniques and mindful energetic intention, the treatment guides the nervous system into a state of safety and ease—allowing the body to unwind so the mind can let go.",
+        fullDescription:
+          "Our Full-Body Gentle Balance and Release Ritual treats the body to support the release of the mind. Through slow, calming, full-body massage techniques and mindful energetic intention, the treatment guides the nervous system into a state of safety and ease—allowing the body to unwind so the mind can let go.\n\nThis ritual is ideal for clients experiencing signs of stress, tension, insomnia, disrupted sleep patterns, lack of rest, or difficulty switching off. While the treatment is applied to the body, its purpose is to create the conditions the mind truly needs—space, stillness, and permission to pause.\n\nIt is not designed to target muscle aches or ease physical pain. Instead, it is crafted to give clients meaningful time away from the demands of daily life, offering the opportunity to rest, breathe, and restore. Many clients naturally drift into deep relaxation, and some may even fall into light sleep during the session—an encouraged part of the experience.\n\nThe ritual supports you to:\n\t•\tFind inner calm and mental clarity\n\t•\tReset from chronic fatigue or sleeplessness\n\t•\tRest and restore your system in a supported environment\n\t•\tRecalibrate your emotional and energetic balance\n\t•\tStep away from a busy life to pause, reflect, and reset\n\t•\tReconnect to yourself and regain a sense of equilibrium\n\t•\tLeave feeling mentally lighter, centred, and renewed\n\nThis treatment creates a moment of stillness for the mind, using the body as the pathway to release. It invites rest, supports deep relaxation, and helps clients reset their internal rhythm—so they can return to life feeling grounded, restored, and recalibrated.\n\nA gentle pause. A mental reset. A return to balance",
+        image:
+          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+        videoId: "S_-e1AOuPug",
+        ctaLabel: "Full Body Gentle Balance & Release Ritual",
+        benefits: [
+          "Find inner calm and mental clarity",
+          "Reset from chronic fatigue or sleeplessness",
+          "Rest and restore your system in a supported environment",
+          "Recalibrate your emotional and energetic balance",
+          "Step away from a busy life to pause, reflect, and reset",
+          "Reconnect to yourself and regain a sense of equilibrium",
+          "Leave feeling mentally lighter, centred, and renewed",
+        ],
+        pricingOptions: [
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£100.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      /* {
         slug: "face-neck-sculpting-treatment",
         title: "FACE & NECK SCULPTING TREATMENT",
         description:
@@ -1000,6 +1065,41 @@ export const SERVICES_DATA: Service[] = [
           "Includes sculptural face lifting and face yoga",
           "Creates openness, clarity, and renewed energy",
           "Natural beauty enhancement",
+        ],
+        pricingOptions: [
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      }, */
+      {
+        slug: "ayurveda-sculpting-facelift-ritual",
+        title: "Ayurveda Sculpting Facelift Ritual",
+        description:
+          "A restorative wellness treatment focused on the head, neck, jaw, and face. Designed to support the relief of TMJ symptoms, jaw tension, and stress-related clenching, using external body and fascia-based techniques to help the mind release as the body unwinds.",
+        fullDescription:
+          "Our Ayurveda Sculpting Facelift Ritual is a restorative wellness treatment focused on the head, neck, jaw, and face. It is designed to support the relief of TMJ symptoms, including jaw tension, discomfort, and stress-related clenching, using external body and fascia-based techniques to help the mind release as the body unwinds.\n\nThis ritual incorporates buccal (intra-oral) massage, Gua Sha, and opiate ear candle therapy as traditional cleansing elements to encourage a feeling of unblocking across the head and facial pathways. The treatment works intentionally along the fascia lines of the face, neck, and jaw to release tension and promote a sense of openness, internal balance, and recalibration.\n\nWhile not positioned as a medical cure, clients commonly seek this ritual for support with lifestyle-related symptoms, including:\n\t•\tTMJ-related tension and discomfort\n\t•\tStuttering or speech tension patterns, such as stutters or stammers\n\t•\tHearing congestion or blocked sensations in the ear and head area\n\t•\tSinus pressure, blocked sensations, or seasonal sensitivities\n\t•\tMigraines or head pressure sensations\n\t•\tEye strain, blurred focus, or tension around the eyes affecting visual clarity\n\t•\tFacial puffiness or fluid retention\n\nMany clients also choose this treatment for a mental and sensory reset, reporting a sense of:\n\t•\tFeeling lighter and depuffed in the face\n\t•\tA clearer, more open sensation across the head, sinuses, jaw, and ears\n\t•\tReduced pressure sensations in the head and eye area\n\t•\tA sense of improved visual ease or clarity after eye strain or fatigue\n\t•\tRelief from heaviness affecting focus or perception\n\nThis ritual is crafted as a profound experience—ideal for those seeking healing from daily restrictions to restore balance across the head, neck, jaw, and face.",
+        image:
+          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
+        videoId: "S_-e1AOuPug",
+        ctaLabel: "Ayurveda Sculpting Facelift Ritual",
+        benefits: [
+          "Relief of TMJ symptoms and jaw tension",
+          "Support for speech tension and stuttering patterns",
+          "Clears hearing congestion and blocked sensations",
+          "Eases sinus pressure and head pressure",
+          "Reduces migraines and eye strain tension",
+          "Depuffs face and reduces fluid retention",
+          "Mental and sensory reset and recalibration",
         ],
         pricingOptions: [
           {
@@ -1089,7 +1189,7 @@ export const SERVICES_DATA: Service[] = [
       },
       {
         slug: "radiance-renewal-ritual",
-        title: "RADIANCE RENEWAL RITUAL",
+        title: "RADIANCE RENEWAL DETOX RITUAL",
         description:
           "Step into a journey of renewal, where skin and spirit are gently awakened. With this ritual experience Neal's yard oils, masks and deep organic glow, focusing on deep detoxification, unclogging pores and removing impurities, while sweeping away dull and tired cells to reveal your natural luminosity beneath.",
         fullDescription:
@@ -1097,7 +1197,7 @@ export const SERVICES_DATA: Service[] = [
         image:
           "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
         videoId: "S_-e1AOuPug",
-        ctaLabel: "RADIANCE RENEWAL RITUAL",
+        ctaLabel: "RADIANCE RENEWAL DETOX RITUAL",
         benefits: [
           "Journey of renewal",
           "Gently awakens skin and spirit",
@@ -1372,7 +1472,7 @@ export const SERVICES_DATA: Service[] = [
           "At Holistic Rising, our Gentle & Deep Tissue 2x4 treatment is a harmonious fusion of therapies, designed to restore balance by addressing both the surface and deeper layers of the body — simultaneously. This cohesive energetic exchange not only enhances physical healing but also invites a profound sense of wholeness, clarity, and calm.",
         image:
           "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
-        videoId: "S_-e1AOuPug",
+        videoId: "S_-e1Full Body Gentle Balance & Release RitualAOuPug",
         ctaLabel: "Gentle & Deep Tissue 2by4",
         benefits: [
           "Harmonious fusion of therapies",

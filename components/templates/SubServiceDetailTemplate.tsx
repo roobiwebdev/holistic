@@ -56,14 +56,21 @@ export function SubServiceDetailTemplate({
           </motion.h1>
 
           {/* Description */}
-          <motion.p
+          {/* Description */}
+          <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.1 }}
-            className="text-lg md:text-xl text-muted-foreground max-w-4xl leading-relaxed mb-12"
+            className="text-lg md:text-xl text-muted-foreground max-w-4xl leading-relaxed mb-12 space-y-4"
           >
-            {subservice.fullDescription || subservice.description}
-          </motion.p>
+            {(subservice.fullDescription || subservice.description)
+              .split("\n")
+              .map((paragraph, index) =>
+                paragraph.trim() ? (
+                  <p key={index}>{paragraph}</p>
+                ) : null
+              )}
+          </motion.div>
         </div>
       </section>
 
