@@ -1483,7 +1483,7 @@ export const SERVICES_DATA: Service[] = [
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
-      {
+      /* {
         slug: "core-pelvic-floor-activation",
         title: "Core and Pelvic Floor Activation Yoga Class",
         description:
@@ -1492,12 +1492,36 @@ export const SERVICES_DATA: Service[] = [
           "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
         ctaLabel: "Book Class",
         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-      },
+      }, */
       {
+        slug: "core-pelvic-floor-activation",
+        title: "Healing Movement \u2014 Core & Pelvic Floor Activation Yang Yoga",
+        description:
+          "This healing movement class follows a five-week rotational structure, designed to work in harmony with our existing Healing Movement sequences. Each session focuses on specific meridian pathways, supporting a circular, fluid energetic journey rooted in elemental balance, embodiment, and nervous-system regulation.",
+        fullDescription:
+          "This healing movement class follows a five-week rotational structure, designed to work in harmony with our existing Healing Movement sequences. Each session focuses on specific meridian pathways, supporting a circular, fluid energetic journey rooted in elemental balance, embodiment, and nervous-system regulation.\n\nThis class was created in response to client demand, recognising a common gap in many modern movement and fitness routines, where the inner core and deep stabilising structures of the body are often under-activated.\n\nThe Yang yoga approach brings intentional, dynamic engagement to the internal muscular system — the muscles closest to the skeletal structure — which play a vital role in:\n\t•\tJoint protection and support\n\t•\tPostural integrity\n\t•\tInjury prevention\n\t•\tLong-term physical resilience\n\t•\tReducing stored trauma responses held in the body\n\nThese deep muscles are closely interconnected with ligaments and tendons, and are directly linked to the body’s protective reflexes, including the Golgi tendon response, which regulates sudden, reactive, or jerking movements often associated with physical strain or past injury.\n\nEach class includes focused activation and conscious release of the pelvic floor, a foundational energetic and physical centre that is frequently overlooked in conventional movement practices.\n\nA balanced and strengthened pelvic floor supports:\n\t•\tSexual health and vitality\n\t•\tHormonal balance and regulation\n\t•\tCore stability\n\t•\tEmotional grounding\n\t•\tWhole-system homeostasis\n\nRooted in the energetic intelligence of the root chakra, this class teaches how to build strength from the inside out and the ground up, supporting embodied awareness, stability, grounded manifestation, and internal energetic cohesion.\n\nThis practice is designed to support the body in feeling strong, regulated, purified, grounded, and in flow — creating balance that can ripple outward into family connection, daily life, and the home environment.",
+        image:
+          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      },
+      /* {
         slug: "hatha-flow",
         title: "Hatha Flow Class",
         description:
           "A grounding, breath-led flow that balances effort and ease while supporting energetic circulation.",
+        image:
+          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      }, */
+      {
+        slug: "hatha-flow",
+        title: "Hatha Flow: Healing Movement for the Body",
+        description:
+          "Hatha Flow at Holistic Rising is a dynamic and grounding practice that balances strength and softness, breath and movement, and the physical and energetic bodies.",
+        fullDescription:
+          "Hatha Flow at Holistic Rising is a dynamic and grounding practice that balances strength and softness, breath and movement, and the physical and energetic bodies.\n\nThis class follows the same five-week cyclical rotation, rooted in the five elements — Earth, Water, Fire, Air, and Ether — with each session focusing on a specific body region and its corresponding meridian pathways. Over the course of five weeks, participants move through an intentional, breath-led sequence that supports physical release, postural strength, flexibility, and energetic activation.\n\nThe practice is steady, flowing and intentional, honouring the body’s natural rhythm while restoring energetic circulation through meridian awareness. The structure mirrors both the cycles of nature and the internal cycles of the body, creating a cohesive movement experience designed for integration, grounding and deep internal alignment.\n\nThis healing movement system incorporates a 3-stage energetic awareness cycle throughout the immersion:\n\t1.	Activation through conscious, stabilising strength\n\t2.	Release through breath-supported movement and stillness\n\t3.	Energetic recalibration through meridian focus and embodiment\n\nTogether, these stages support a return to balance, internal flow, and body-mind cohesion, helping participants feel more grounded, aligned, energetically clear and connected to the subtle body.\n\nThis is movement for healing — intentional, restorative, and held within the intelligence of the body as a whole.",
         image:
           "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
         ctaLabel: "Book Class",
@@ -1513,11 +1537,23 @@ export const SERVICES_DATA: Service[] = [
         ctaLabel: "Book Class",
          bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
-      {
+      /* {
         slug: "yin-class",
         title: "Yin Class",
         description:
           "Long-held postures supported by breath to encourage deep tissue, fascia and emotional release.",
+        image:
+          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      }, */
+      {
+        slug: "yin-class",
+        title: "Healing Movement Yin: Meridian-Based Release and Recovery",
+        description:
+          "Healing Movement Yin is a deeply restorative practice that combines Yin yoga postures, gentle transitionary movement, free movement, self-healing techniques and guided meditation.",
+        fullDescription:
+          "Healing Movement Yin is a deeply restorative practice that combines Yin yoga postures, gentle transitionary movement, free movement, self-healing techniques and guided meditation.\n\nThe class follows a five-week cyclical rotation, working intentionally through the five elemental meridian pathways of the body — channels through which vital energy (qi) flows. Each session focuses on a specific body region and its corresponding meridian, gently stimulating these internal pathways to support emotional release, organ-system nourishment, nervous-system recovery and embodied stillness.\n\nThis healing movement experience is supported by a 3-stage rotation throughout the four-hour immersion:\n\t1.	Activation — gentle engagement to prepare the fascia, joints and subtle channels\n\t2.	Release — long-held postures supported by conscious breath, allowing deep tissue and energetic tension to soften\n\t3.	Recalibration — intentional meridian awareness to restore energetic circulation and internal balance\n\nPostures are held for extended periods, creating space for the connective tissues and fascia to release stored tension, supporting both physical decompression and energetic clarity.\n\nThe practice also incorporates free movement, inviting natural expression to support embodied emotional release, alongside self-healing techniques that empower personal awareness and energetic cleansing from the inside out.\n\nEach class includes a guided meditation, offering a gentle, compassionate internal reset, supporting nervous-system calm, mental clarity and deeper integration within the body-mind.\n\nThis is a sacred movement space designed to support recovery, release and internal alignment — helping you reconnect to your body, restore energetic flow, and feel more grounded and cohesive within the subtle self.",
         image:
           "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
         ctaLabel: "Book Class",
@@ -1553,11 +1589,23 @@ export const SERVICES_DATA: Service[] = [
         ctaLabel: "Book Class",
          bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
-      {
+      /* {
         slug: "sharing-circle",
         title: "Sharing Circle",
         description:
           "A held space for reflection, community connection and emotional expression.",
+        image:
+          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      }, */
+      {
+        slug: "sharing-circle",
+        title: "Healing Movement Sharing Circle",
+        description:
+          "The Healing Movement Sharing Circle takes place every Sunday from 8:00–8:30pm, and is a gentle, open, community space for anyone who feels called to join us.",
+        fullDescription:
+          "The Healing Movement Sharing Circle takes place every Sunday from 8:00–8:30pm, and is a gentle, open, community space for anyone who feels called to join us.\n\nThis is a place where we hold space with love and care for those who want support, connection, grounding, or simply a moment to pause and be in the presence of like-minded people. Whether you want to share, chat, socialise, or just sit in stillness — you are welcome. There is no pressure to speak. You can also simply come in to meditate.\n\nThe circle incorporates a guided meditation aligned to the meridian themes explored in the wider Healing Movement classes, supporting energetic awareness and inner cohesion. It may also include soft community drumming or light shamanic drumming, offered in a grounding, rhythmic way to support emotional and energetic release.\n\nThis space can also include:\n\t•	Breathwork for nervous system calm and energetic regulation\n\t•	Grounding practices and body check-ins\n\t•	Somatic self-healing techniques\n\t•	Calming body scans and gentle nervous system support\n\t•	Drumming for grounding and connection\n\t•	Practical grounding tools for emotional and energetic balance\n\nThe intention of this circle is community support, shared healing time, and connection — for anyone navigating stress, fatigue, emotional overload, energetic sensitivity, or simply seeking a safe space to feel supported and understood. It is open to those who may be finding internal or external change difficult to navigate, those seeking harmony in the home or family field, or anyone who simply wants to connect, chat, or share this time in a meaningful way.\n\nThis circle is completely free for all, and is our dedicated weekly offering to the community. We hold the space for everyone with deep love, integrity, respect and healing intention.\n\nIf you’ve been feeling tender, tired, overwhelmed, energetically stretched, or simply in need of connection — come along and share this gentle half hour with us. A moment of healing, presence and community can change more than you think.\n\nYou are welcome. You are held. You are enough.",
         image:
           "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
         ctaLabel: "Book Class",
