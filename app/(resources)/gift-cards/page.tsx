@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import { Gift } from "lucide-react";
 
-const GIFT_CATEGORIES = [
+/* const OLD_GIFT_CATEGORIES = [
   {
     title: "Just Because",
     image: "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?q=80&w=2640&auto=format&fit=crop", // Colorful/Fun
@@ -66,6 +66,39 @@ const GIFT_CATEGORIES = [
     title: "Yoga & Pilates",
     image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=2670&auto=format&fit=crop", // Yoga Pose
     color: "from-violet-500/80 to-purple-600/80"
+  }
+]; */
+
+const GIFT_CATEGORIES = [
+  {
+    title: "Holistic Rising",
+    image: "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=2670&auto=format&fit=crop", // Clean/Minimal placeholder akin to logo vibe
+    color: "from-amber-500/80 to-yellow-600/80"
+  },
+  {
+    title: "Massage & Bodywork",
+    image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=2670&auto=format&fit=crop", // Branded Massage
+    color: "from-rose-500/80 to-pink-500/80"
+  },
+  {
+    title: "Healing Movement & Yoga",
+    image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2670&auto=format&fit=crop", // Branded Yoga
+    color: "from-violet-500/80 to-purple-600/80"
+  },
+  {
+    title: "Natural Glow Rituals",
+    image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=2670&auto=format&fit=crop", // Face Ritual
+    color: "from-rose-400/80 to-pink-600/80"
+  },
+  {
+    title: "For Her",
+    image: "https://images.unsplash.com/photo-1515023115689-589c33041697?q=80&w=2670&auto=format&fit=crop", // Feminine/Soft
+    color: "from-pink-500/80 to-rose-400/80"
+  },
+  {
+    title: "For Him",
+    image: "https://images.unsplash.com/photo-1499209974431-2761e2017722?q=80&w=2670&auto=format&fit=crop", // Masculine/Nature/Strength
+    color: "from-slate-600/80 to-gray-700/80"
   }
 ];
 
