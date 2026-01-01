@@ -34,6 +34,7 @@ async function ServicePageContent({ serviceSlug }: { serviceSlug: string }) {
       description={service.hero.description}
       heroYoutubeVideoId={service.hero.youtubeVideoId}
       cards={cards}
+      bottomContent={service.bottomContent}
     />
   );
 }

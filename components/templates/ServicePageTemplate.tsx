@@ -21,6 +21,7 @@ interface ServicePageTemplateProps {
   description?: string; // Main description below title
   heroYoutubeVideoId?: string; // YouTube video ID for background
   cards?: ServiceCardData[];
+  bottomContent?: string;
 }
 
 export function ServicePageTemplate({
@@ -29,6 +30,7 @@ export function ServicePageTemplate({
   description,
   heroYoutubeVideoId,
   cards = [],
+  bottomContent,
 }: ServicePageTemplateProps) {
   // Use cards directly - no need for default fallback in production
   const displayCards = cards;
@@ -125,6 +127,68 @@ export function ServicePageTemplate({
           </div>
         </div>
       </section>
+
+      {/* Bottom Content Section */}
+      {bottomContent && (
+        <section className="py-20 px-6 bg-neutral-900 text-white">
+          <div className="container mx-auto max-w-3xl space-y-4">
+            {bottomContent.split("\n").map((line, i) => {
+              if (line.startsWith("### ")) {
+                return (
+                  <h3
+                    key={i}
+                    className="text-2xl md:text-3xl font-serif text-primary mt-12 mb-6"
+                  >
+                    {line.replace("### ", "")}
+                  </h3>
+                );
+              }
+              if (line.startsWith("1. ")) {
+                return (
+                  <div key={i} className="flex gap-3 text-lg md:text-xl text-white/80 leading-relaxed pl-2">
+                    <span className="font-bold text-primary min-w-[20px]">{line.split(" ")[0]}</span>
+                    <span>{line.replace(/^[0-9]+\. /, "").replace(/\*\*(.*?)\*\*/g, (_, text) => text)}</span> 
+                  </div>
+                );
+              }
+               // Basic bold parsing for existing lines if needed, slightly complex in map, skipping full markdown parser.
+               // Just handling the specific format I injected.
+              if (line.startsWith("* ")) {
+                return (
+                  <li
+                    key={i}
+                    className="ml-6 list-disc text-white/80 leading-relaxed text-lg md:text-xl mb-2"
+                  >
+                     {line.replace("* ", "")}
+                  </li>
+                );
+              }
+              if (line.startsWith("> ")) {
+                return (
+                  <blockquote
+                    key={i}
+                    className="border-l-4 border-primary pl-6 italic text-xl md:text-2xl text-white/90 my-12 bg-white/5 p-8 rounded-r-2xl"
+                  >
+                    "{line.replace('> "', '').replace('"', '')}"
+                  </blockquote>
+                );
+              }
+              if (line.trim() === "")
+                return <div key={i} className="h-2" />;
+              
+              // Standard paragraph
+              return (
+                <p
+                  key={i}
+                  className="text-lg md:text-xl text-white/70 leading-relaxed"
+                >
+                  {line}
+                </p>
+              );
+            })}
+          </div>
+        </section>
+      )}
     </main>
   );
 }

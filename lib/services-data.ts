@@ -28,6 +28,7 @@ export interface Service {
   slug: string;
   hero: ServiceHero;
   subservices: SubService[];
+  bottomContent?: string;
 }
 
 // Helper function to generate detail page URL for a sub-service
@@ -1357,7 +1358,7 @@ export const SERVICES_DATA: Service[] = [
       },
     ],
   },
-  {
+  /* {
     slug: "healing-movement",
     hero: {
       title: "HEALING MOVEMENT YOGA",
@@ -1471,6 +1472,131 @@ export const SERVICES_DATA: Service[] = [
         ],
       },
     ],
+  }, */
+  {
+    slug: "healing-movement",
+    hero: {
+      title: "HEALING MOVEMENT",
+      subtitle: "Integrative Mind-Body Practice",
+      description:
+        "Healing Movement at Holistic Rising This evolving programme includes a variety of healing modalities such as: Core and Pelvic Floor Activation Yoga Class, Hatha Flow Class, Meditation, Yin Class, Qigong Classes, Breathwork, Self-Healing, Sharing Circle, and Self-Healing Techniques. Together, these practices form a holistic movement experience that supports physical release, energetic alignment, emotional awareness, nervous system regulation and spiritual connection.",
+      youtubeVideoId: "S_-e1AOuPug",
+    },
+    subservices: [
+      {
+        slug: "core-pelvic-floor-activation",
+        title: "Core and Pelvic Floor Activation Yoga Class",
+        description:
+          "Focused on deep core engagement, pelvic stability, posture support and embodied strength.",
+        image:
+          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      },
+      {
+        slug: "hatha-flow",
+        title: "Hatha Flow Class",
+        description:
+          "A grounding, breath-led flow that balances effort and ease while supporting energetic circulation.",
+        image:
+          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      },
+      {
+        slug: "meditation",
+        title: "Meditation",
+        description:
+          "Guided practices to cultivate presence, mental clarity and nervous system calm.",
+        image:
+          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      },
+      {
+        slug: "yin-class",
+        title: "Yin Class",
+        description:
+          "Long-held postures supported by breath to encourage deep tissue, fascia and emotional release.",
+        image:
+          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      },
+      {
+        slug: "qigong-classes",
+        title: "Qigong Classes",
+        description:
+          "Gentle, intentional energy-based movement to unblock meridians, support qi flow and harmonise internal systems.",
+        image:
+          "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      },
+      {
+        slug: "breathwork",
+        title: "Breathwork",
+        description:
+          "Conscious breathing practices to regulate the nervous system, release stored emotional tension, expand prana, and support energetic clearing through the subtle body.",
+        image:
+          "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      },
+      {
+        slug: "self-healing",
+        title: "Self-Healing",
+        description:
+          "Practical somatic and energetic tools for personal regulation and restoration.",
+        image:
+          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      },
+      {
+        slug: "sharing-circle",
+        title: "Sharing Circle",
+        description:
+          "A held space for reflection, community connection and emotional expression.",
+        image:
+          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      },
+      {
+        slug: "self-healing-techniques",
+        title: "Self-Healing Techniques",
+        description:
+          "Intuitive practices that empower self-awareness, energetic cleansing and internal balance.",
+        image:
+          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Book Class",
+         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      },
+    ],
+    bottomContent: `### A Journey of Transformation
+
+This profound healing sequence was designed by the Holistic Rising yoga specialist Georgia and Founder María. They combined their expertise to create this transformative practice that encompasses the body holistically, bringing together a wholesome healing experience.
+
+The modalities — including core and pelvic floor activation, Hatha flow, Yin, meditation, Breathwork, Qigong, self-healing and community integration — form an intentional movement system that works through the body and energetic field systematically.
+
+The original five-week rotational energetic foundation remains intact — now expressed through the updated class structure — working through the body physically, emotionally and energetically. Each week focuses on a specific element, paired with a corresponding meridian and a target body region, creating a layered and intentional journey through the Five Holistic Principles designed by the Holistic Rising movement team.
+
+### This Unique Combination Allows For
+
+1. **Activation through dynamic movement** — offered through the Core & Pelvic Floor and Hatha Flow classes
+2. **Deep release through stillness and breath** — supported in the Yin Class, meditation and Breathwork practices
+3. **Energetic recalibration through meridian focus** — integrated into yoga, Yin, Qigong and Breathwork sessions
+4. **Integration of body-mind awareness** — supported across all classes, including community connection within the Sharing Circle
+
+### Profound Benefits of the Four-Stage System
+
+* Nervous system reset through activation and rest cycles
+* Fluid and endocrine purification supported by breath, fascia release and lymphatic flow activation
+* Energetic field purification through Qigong, meditation and conscious Breathwork integration
+* Embodied integration of emotional and behavioural patterns through movement, breath and community support
+
+> "This is movement-based healing in its truest sense: holistic, sacred, communal and transformational — a practice designed to purify, rebalance, integrate and restore flow so you can step forward feeling more aligned, aware and energetically cohesive."`,
   },
   {
     slug: "maternal-massage",
