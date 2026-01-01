@@ -13,13 +13,8 @@ export function Hero() {
 
         {/* The wrapper ensures the iframe covers the screen (CSS aspect ratio trick) */}
         <div className="relative w-full h-full overflow-hidden">
-          {/* 
-                Scale 150% is a hack to zoom in and avoid black bars/controls showing on most screens.
-                For perfect cover, we'd use JS or complex CSS aspect-ratio media queries.
-                For now, a generous scale works well for 'atmospheric' backgrounds.
-              */}
           <iframe
-            className="absolute top-1/2 left-1/2 w-[300%] h-[300%] -translate-x-1/2 -translate-y-1/2 object-cover pointer-events-none"
+            className="absolute top-1/2 left-1/2 w-[400%] h-[400%] md:w-[300%] md:h-[300%] -translate-x-1/2 -translate-y-1/2 object-cover pointer-events-none"
             src="https://www.youtube.com/embed/S_-e1AOuPug?autoplay=1&mute=1&loop=1&playlist=S_-e1AOuPug&controls=0&showinfo=0&rel=0&playsinline=1&enablejsapi=1&iv_load_policy=3"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             style={{ border: "none" }}
@@ -28,13 +23,49 @@ export function Hero() {
       </div>
 
       {/* Main Content Overlay */}
-      <div className="relative z-20 container mx-auto px-6 h-full flex flex-col justify-center items-center text-center">
+      <div className="relative z-20 container mx-auto px-6 h-full flex flex-col justify-center items-center text-center pt-24 md:pt-10">
+        {/* Logos Row */}
+        <div className="flex flex-wrap justify-center items-center gap-4 md:gap-10 mb-8 md:mb-12 animate-fade-in-up">
+          {/* Logo 1: Holistic Rising */}
+          <div className="relative w-20 h-20 sm:w-28 sm:h-28 md:w-40 md:h-40 bg-white rounded-full flex items-center justify-center overflow-hidden shadow-2xl hover:scale-105 transition-transform duration-500">
+            <div className="relative w-full h-full p-2">
+              <img
+                src="/assets/holistic-logo.png"
+                alt="Holistic Rising"
+                className="w-full h-full object-contain"
+              />
+            </div>
+          </div>
+
+          {/* Logo 2: Healing Clinic */}
+          <div className="relative w-20 h-20 sm:w-28 sm:h-28 md:w-40 md:h-40 bg-white rounded-full flex items-center justify-center overflow-hidden shadow-2xl hover:scale-105 transition-transform duration-500 delay-100">
+            <div className="relative w-full h-full p-2">
+              <img
+                src="/assets/healing-logo.png"
+                alt="Healing Clinic"
+                className="w-full h-full object-contain"
+              />
+            </div>
+          </div>
+
+          {/* Logo 3: Dr Sports Therapy */}
+          <div className="relative w-20 h-20 sm:w-28 sm:h-28 md:w-40 md:h-40 bg-white rounded-full flex items-center justify-center overflow-hidden shadow-2xl hover:scale-105 transition-transform duration-500 delay-200">
+            <div className="relative w-full h-full p-2">
+              <img
+                src="/assets/dr-sports.png"
+                alt="Dr Sports Therapy"
+                className="w-full h-full object-contain"
+              />
+            </div>
+          </div>
+        </div>
+
         {/* Top Location Tag */}
-        <div className="mb-6 animate-fade-in-up">
+        {/* <div className="mb-6 animate-fade-in-up delay-300">
           <span className="text-xs md:text-sm uppercase tracking-[0.3em] text-white/70">
             London • Essex • South Woodford
           </span>
-        </div>
+        </div> */}
 
         {/* Main Heading */}
         <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-white mb-6 leading-tight max-w-5xl tracking-normal animate-fade-in-up delay-100 font-semibold">

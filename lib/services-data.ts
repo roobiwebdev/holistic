@@ -117,7 +117,7 @@ export const SERVICES_DATA: Service[] = [
           },
         ],
       },
-      {
+      /* {
         slug: "energy-healing-massage-combined",
         title: "Energy Healing & Massage combined",
         description:
@@ -150,8 +150,8 @@ export const SERVICES_DATA: Service[] = [
           //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           // },
         ],
-      },
-      {
+      }, */
+      /* {
         slug: "healing-energy-of-2",
         title:
           "Healing with the energy of 2: Trauma Release, Ayurveda, Energy Healing Fusion",
@@ -185,8 +185,42 @@ export const SERVICES_DATA: Service[] = [
           //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           // },
         ],
-      },
+      }, */
       {
+        slug: "frequency-2-trauma-energy-fusion",
+        title: "Frequency 2 — Trauma Release Healing & Energy Healing Fusion",
+        description:
+          "The benefits of trauma healing combined with energy healing transmission, meridian clearing, and spiritual support. This stage introduces energetic coherence and emotional field restoration, weaving trauma release with subtle-body healing for deeper systemic balance.",
+        fullDescription:
+          "The benefits of trauma healing combined with energy healing transmission, meridian clearing, and spiritual support. This stage introduces energetic coherence and emotional field restoration, weaving trauma release with subtle-body healing for deeper systemic balance.\n\nA profound journey of liberation — from the body to the soul. At Holistic Rising, our Trauma Release & Energy Healing Fusion offers a deeply transformative experience, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.",
+        image:
+          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+        videoId: "S_-e1AOuPug",
+        ctaLabel: "Trauma & Energy Fusion",
+        benefits: [
+          "Trauma healing combined with energy transmission",
+          "Meridian clearing and spiritual support",
+          "Energetic coherence and emotional field restoration",
+          "Releases trauma stored in the body",
+          "Clears stagnation from energetic field",
+          "Dissolves mental and emotional conditioning",
+        ],
+        pricingOptions: [
+          {
+            duration: "150 minutes",
+            price: "£250.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/2d5F3GGhax4e~ZXqKkwwqY6Uzd5JKpaW5Z4Vg-UxZDw=",
+          },
+          // {
+          //   duration: "120 minutes",
+          //   price: "£160.00",
+          //   bookingUrl:
+          //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          // },
+        ],
+      },
+      /* {
         slug: "healing-energy-of-3",
         title:
           "Healing with the energy of 3: Trauma Release, Ayurveda, Energy Healing Fusion",
@@ -220,8 +254,73 @@ export const SERVICES_DATA: Service[] = [
           //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           // },
         ],
+      }, */
+      {
+        slug: "frequency-3-trauma-energy-ayurveda",
+        title:
+          "Frequency 3 — Trauma, Energy Healing with Ayurveda Herbal Complexity",
+        description:
+          "A layered fusion of trauma release bodywork, energy healing currents, and Ayurvedic herbal intelligence. This frequency incorporates the complexity of traditional hot-oil therapy, high-vibrational herbal oils, and tissue-level purification, supporting detoxification through the fascia, fluid system, and endocrine network.",
+        fullDescription:
+          "A layered fusion of trauma release bodywork, energy healing currents, and Ayurvedic herbal intelligence. This frequency incorporates the complexity of traditional hot-oil therapy, high-vibrational herbal oils, and tissue-level purification, supporting detoxification through the fascia, fluid system, and endocrine network. It brings ancient herbal and energetic synergy into the trauma healing space.\n\nA complete healing of three ancient wisdoms combined to decompress, release and restore. At Holistic Rising, our Trauma Release, Ayurveda & Energy Healing Fusion offers a deeply transformative experience, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.",
+        image:
+          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+        videoId: "S_-e1AOuPug",
+        ctaLabel: "Trauma, Energy & Ayurveda",
+        benefits: [
+          "Three ancient wisdoms combined",
+          "Decompresses, releases and restores",
+          "Releases trauma stored in the body",
+          "Clears energetic stagnation",
+          "Dissolves mental and emotional conditioning",
+          "Deeply transformative healing experience",
+        ],
+        pricingOptions: [
+          {
+            duration: "180 minutes",
+            price: "£300.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/VyWEyjx44I0mS4H~3pgPnKsDV9AQnK3rzzW2Ytuqwq0=",
+          },
+          // {
+          //   duration: "120 minutes",
+          //   price: "£160.00",
+          //   bookingUrl:
+          //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          // },
+        ],
       },
       {
+        slug: "frequency-4-trauma-energy-diamond",
+        title:
+          "Frequency 4 — Trauma & Energy Healing with Ayurveda Frequency and Diamond Extraction",
+        description:
+          "Trauma Healing with the Frequency of Four is a comprehensive, 4-hour bespoke treatment that unifies the wisdom of all previous healing frequencies, enhanced by an extraction-focused energetic current known as The Diamond.",
+        fullDescription:
+          "Trauma Healing with the Frequency of Four is a comprehensive, 4-hour bespoke treatment that unifies the wisdom of all previous healing frequencies, enhanced by an extraction-focused energetic current.\n\nThis healing contains the benefits of Frequency 1, Frequency 2, and Frequency 3, while introducing the core intention of extraction and purification beyond the reset.\n\nThe Added Power of Frequency 4 — Extraction (The Diamond)\n\nThis energetic signature is known as The Diamond — formed of two balanced triangles, representing the geometry of extraction, alignment, and energetic liberation. The modality is grounded in:\n\t•\tUniversal Love & Universal Energy Alignment\n\t•\tMother Earth Creation & Ayurvedic Infusions\n\t•\tExtraction Intention (13-point quartz crystal transmission, Hijama/cupping, Lymphatic unblocking, Endocrine purification, Energetic cord dissolution)\n\nSupportive Elements of the 4 Hour Immersion:\n\t•\tIntuitively guided coaching\n\t•\tCrystal balancing\n\t•\tHigh-vibrational Ayurvedic oils\n\t•\tMusical frequency harmonisation\n\t•\tMeditative integration\n\t•\tYogic & Buddhist healing transmission\n\nThe Essence:\n\nThe essence of Trauma Healing with the Frequency of Four is purification of mind, body, and soul, supporting a rise in vibration and a return to unity and cohesion within the spiritual frequencies.",
+        image:
+          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+        videoId: "S_-e1AOuPug",
+        ctaLabel: "Diamond Extraction",
+        benefits: [
+          "Nervous-system-centred trauma release",
+          "Extraction and purification intention (Diamond)",
+          "13-point quartz crystal transmission",
+          "Hijama, Lymphatic unblocking, Endocrine purification",
+          "Universal Love & Universal Energy Alignment",
+          "Energetic cord dissolution",
+          "4-hour bespoke immersion",
+        ],
+        pricingOptions: [
+          {
+            duration: "240 minutes",
+            price: "£350.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      /* {
         slug: "healing-energy-of-5",
         title:
           "Complete Healing with the energy of 5: Trauma Release, Ayurveda, Energy Healing Fusion",
@@ -233,6 +332,41 @@ export const SERVICES_DATA: Service[] = [
           "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=1920&auto=format&fit=crop",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Complete Healing with The Energy of 5",
+        benefits: [
+          "Five ancient wisdoms combined",
+          "Decompresses, releases, restores and revives",
+          "Releases trauma stored in the body",
+          "Clears energetic stagnation",
+          "Dissolves mental and emotional conditioning",
+          "Returns to authentic self",
+          "Free from inherited patterns and programming",
+        ],
+        pricingOptions: [
+          {
+            duration: "240 minutes",
+            price: "£350.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/TY2hylutyWBgUoOdwqxPCYvaRXUyHkmiZcD2JXpzpaM=",
+          },
+          // {
+          //   duration: "150 minutes",
+          //   price: "£220.00",
+          //   bookingUrl:
+          //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          // },
+        ],
+      }, */
+      {
+        slug: "frequency-5-complete-healing",
+        title: "Complete Healing — Frequency of 5",
+        description:
+          "This healing offers a deeply transformative 5-hour immersion, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning. The treatment invites a return to the authentic self — beyond inherited patterns, societal programming, and the internal restrictions that shape behaviour and identity.",
+        fullDescription:
+          "This healing offers a deeply transformative 5-hour immersion, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.\n\nThe Complete Healing with the Frequency of Five Includes Five Core Modalities:\n\n1. Trauma Release Bodywork + Meridian Clearing\n2. Cranial Massage + Lymphatic Detoxification\n3. Hands & Feet Fascia + Micro-Meridian Unblocking\n4. Ayurveda — High-Vibrational Purification\n5. Energetic, Karmic, Ancestral + Spiritual Transmission\n\nClient-Reported Experiences:\nClients have described deeply symbolic and transpersonal healing journeys, including visions, ancestral presence, and deep release of energetic cords.\n\nThe Essence of the Work:\nThis is healing in its truest sense: comprehensive, sacred, shamanic, and transformational. A full-system decompression, multidimensional release, and a return to authentic energetic flow, clarity, alignment, and self-resonance.",
+        image:
+          "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=1920&auto=format&fit=crop",
+        videoId: "S_-e1AOuPug",
+        ctaLabel: "Complete Healing",
         benefits: [
           "Five ancient wisdoms combined",
           "Decompresses, releases, restores and revives",
