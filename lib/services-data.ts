@@ -410,7 +410,7 @@ export const SERVICES_DATA: Service[] = [
         description:
           "For men who are outwardly coping but internally overloaded. This level supports nervous system regulation, emotional grounding, and a mental ‘exhale’ through physical release.",
         fullDescription:
-          "Trauma Release 1 — Core Fascia Release\n\nClient Profile\n\nMen who are outwardly coping but internally overloaded. Their body and nervous system are still responsive to strong work, yet not ready for the deepest somatic unravelling.\n\nThis may include men who:\n• Feel mentally overextended, emotionally fatigued, or psychologically pressured\n• Experience anxiety, low mood, emotional suppression, or early signs of depression\n• Carry tension through jaw, chest, shoulders, diaphragm, or breath-holding patterns\n• Live on low reserves, brain fog, irritability, or poor sleep due to stress\n• Have a history of surgical or medical trauma that is stable but still held physically\n• Are navigating mental health strain such as stress, anxiety, panic responses, or emotional burnout\n• Want to feel more present in their body but feel disconnected, heavy, or tense\n• Are managing mild to moderate mental health challenges alongside physical exhaustion\n\nThis level supports nervous system regulation, emotional grounding, and a mental ‘exhale’ through physical release.\n\nWhen fascia begins to release, the brain follows — easing internal pressure and supporting emotional regulation.",
+          "Trauma Release 1 — Core Fascia Release (2 Hours)\n\nClient Profile\n\nMen who are outwardly coping but internally overloaded. Their body and nervous system are still responsive to strong work, yet not ready for the deepest somatic unravelling.\n\nThis may include men who:\n• Feel mentally overextended, emotionally fatigued, or psychologically pressured\n• Experience anxiety, low mood, emotional suppression, or early signs of depression\n• Carry tension through jaw, chest, shoulders, diaphragm, or breath-holding patterns\n• Live on low reserves, brain fog, irritability, or poor sleep due to stress\n• Have a history of surgical or medical trauma that is stable but still held physically\n• Are navigating mental health strain such as stress, anxiety, panic responses, or emotional burnout\n• Want to feel more present in their body but feel disconnected, heavy, or tense\n• Are managing mild to moderate mental health challenges alongside physical exhaustion\n\nThis level supports nervous system regulation, emotional grounding, and a mental ‘exhale’ through physical release.\n\nWhen fascia begins to release, the brain follows — easing internal pressure and supporting emotional regulation.",
         image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
         ctaLabel: "Trauma Release 1",
         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
@@ -425,7 +425,7 @@ export const SERVICES_DATA: Service[] = [
         pricingOptions: [
           {
             duration: "120 minutes",
-            price: "£200.00",
+            price: "£250.00",
             bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw="
           }
         ]
@@ -436,7 +436,7 @@ export const SERVICES_DATA: Service[] = [
         description:
           "For men carrying both physical trauma and psychological or emotional layering. This level works into deeper fascia and stress-system holding, allowing the brain to release defence naturally through somatic work.",
         fullDescription:
-            "Trauma Release 2 — Layered Release\n\nClient Profile\n\nMen carrying both physical trauma and psychological or emotional layering. Their pain, tension, and stress patterns live equally in body and mind.\n\nThis may include men who:\n• Experience chronic pain combined with nervous system fatigue\n• Struggle with persistent anxiety, depression, intrusive thoughts, compulsive patterns, emotional dysregulation, or dissociation linked to stress\n• Present with conditions such as: Chronic pain, Fatigue syndromes, Chronic pain with fatigue\n• Carry long-term muscular and fascial guarding\n• Are navigating an array of mental health challenges, including: Generalised anxiety disorder, Complex depression tied to trauma, PTSD or C-PTSD traits, Intrusive thoughts, Sensory overload, Compulsive behaviors, Mood instability\n\nThis level works into deeper fascia and stress-system holding, allowing the brain to release defence naturally through somatic work.\n\nBy releasing fascia, the system signals safety to the brain — reducing mental noise, easing emotional load, and calming psychological defence patterns without needing to ‘force’ cognitive release.",
+            "Trauma Release 2 — Layered Release (3 hours)\n\nClient Profile\n\nMen carrying both physical trauma and psychological or emotional layering. Their pain, tension, and stress patterns live equally in body and mind.\n\nThis may include men who:\n• Experience chronic pain combined with nervous system fatigue\n• Struggle with persistent anxiety, depression, intrusive thoughts, compulsive patterns, emotional dysregulation, or dissociation linked to stress\n• Present with conditions such as: Chronic pain, Fatigue syndromes, Chronic pain with fatigue\n• Carry long-term muscular and fascial guarding\n• Are navigating an array of mental health challenges, including: Generalised anxiety disorder, Complex depression tied to trauma, PTSD or C-PTSD traits, Intrusive thoughts, Sensory overload, Compulsive behaviors, Mood instability\n\nThis level works into deeper fascia and stress-system holding, allowing the brain to release defence naturally through somatic work.\n\nBy releasing fascia, the system signals safety to the brain — reducing mental noise, easing emotional load, and calming psychological defence patterns without needing to ‘force’ cognitive release.\n\nClients often say:\n\n“My body hurts because my brain never stops.”\n“I’m tired in my bones, not just my head.”",
          image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
          ctaLabel: "Trauma Release 2",
          bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
@@ -451,7 +451,7 @@ export const SERVICES_DATA: Service[] = [
          pricingOptions: [
           {
             duration: "180 minutes",
-            price: "£300.00",
+            price: "£350.00",
             bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw="
           }
         ]
@@ -462,7 +462,7 @@ export const SERVICES_DATA: Service[] = [
          description: 
             "For men holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.",
          fullDescription:
-            "Trauma Release 3 — Profound Reclamation\n\nClient Profile\n\nMen holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.\n\nThis may include men who:\n• Experience nervous system freeze, shutdown, or collapse responses\n• Live with mobility restriction, movement fear, or functional limitation\n• Carry conditions that impact systemic inflammation, immunity, neurological signalling, or fascia holding (Lupus, MS, Fibromyalgia, Diabetes, etc.)\n• Have fascial restriction, circulation issues, or numbness\n• Experience depression, neurodivergent trauma layering, or long-term mental health illness stored somatically\n\nThis level helps men rebuild trust in movement, release fascia that has been bracing for years, and restore agency over their body and system.\n\nAs fascia unravels, the brain is given permission to release survival-mode signalling — easing emotional weight, reducing neurological defence, and supporting mental health at a foundational, physiological level.",
+            "Trauma Release 3 — Profound Reclamation (4 Hours)\n\nClient Profile\n\nMen holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.\n\nThis may include men who:\n• Experience nervous system freeze, shutdown, or collapse responses\n• Live with mobility restriction, movement fear, or functional limitation\n• Carry conditions that impact systemic inflammation, immunity, neurological signalling, or fascia holding (Lupus, MS, Fibromyalgia, Diabetes, etc.)\n• Have fascial restriction, circulation issues, or numbness\n• Experience depression, neurodivergent trauma layering, or long-term mental health illness stored somatically\n\nThis level helps men rebuild trust in movement, release fascia that has been bracing for years, and restore agency over their body and system.\n\nAs fascia unravels, the brain is given permission to release survival-mode signalling — easing emotional weight, reducing neurological defence, and supporting mental health at a foundational, physiological level.\n\nClients often say:\n\n“I don’t feel safe in my body anymore.”\n“I shut down when it’s too much.”\n“I don’t know how to release without losing strength.”",
          image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
          ctaLabel: "Trauma Release 3",
          bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
@@ -477,11 +477,63 @@ export const SERVICES_DATA: Service[] = [
          pricingOptions: [
           {
             duration: "240 minutes",
-            price: "£400.00",
+            price: "£450.00",
             bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw="
           }
         ]
-      }
+      },
+      {
+        slug: "trauma-release-4-men",
+        title: "Trauma Release 4",
+        description:
+          "A deeper level of profound trauma release work for men seeking extended support.",
+        fullDescription:
+          "Trauma Release 4\n\nThis advanced session offers extended time for deep systemic integration and trauma release. Please contact us for more details on the specifics of this level.",
+        image:
+          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Trauma Release 4",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        benefits: [
+          "Extended duration",
+          "Deep systemic integration",
+          "Advanced trauma release",
+        ],
+        pricingOptions: [
+          {
+            duration: "300 minutes", // Assuming 5h based on pattern
+            price: "£550.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "trauma-release-5-men",
+        title: "Trauma Release 5",
+        description:
+          "The highest level of profound trauma release immersion for total systemic reset.",
+        fullDescription:
+          "Trauma Release 5\n\nThe pinnacle of our trauma release work for men, offering the maximum time for a complete reset and embodied restoration.",
+        image:
+          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+        ctaLabel: "Trauma Release 5",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        benefits: [
+          "Maximum depth and duration",
+          "Total systemic reset",
+          "Embodied restoration",
+        ],
+        pricingOptions: [
+          {
+            duration: "360 minutes", // Assuming 6h based on pattern
+            price: "£650.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
     ],
     bottomContent: `### Isaac’s Expertise
 

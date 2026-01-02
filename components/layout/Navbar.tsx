@@ -32,6 +32,7 @@ const NAV_GROUPS = [
       { label: "Healing Movement", href: "/services/healing-movement" },
       { label: "Maternal Massage", href: "/services/maternal-massage" },
       { label: "The Essence", href: "/the-essence" },
+      { label: "Trauma Release for Men", href: "/services/profound-trauma-release-men" },
     ],
   },
   {

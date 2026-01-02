@@ -73,13 +73,13 @@ Thai massage improves flexibility and works directly on the meridian system to c
     imageColor: "from-violet-500/20 to-fuchsia-500/20",
     route: "/maternal-massage",
   },
-  // {
-  //   title: "Profound Trauma Release for Men",
-  //   description: "For men ready to reclaim their body, reset their system and restore what survival once cost them. A profound return to presence, strength and embodied resilience.",
-  //   image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=800&auto=format&fit=crop",
-  //   imageColor: "from-blue-500/20 to-slate-500/20",
-  //   route: "/services/profound-trauma-release-men",
-  // },
+  {
+    title: "Profound Trauma Release for Men",
+    description: "For men ready to reclaim their body, reset their system and restore what survival once cost them. A profound return to presence, strength and embodied resilience.",
+    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=800&auto=format&fit=crop",
+    imageColor: "from-blue-500/20 to-slate-500/20",
+    route: "/services/profound-trauma-release-men",
+  },
     {
     title: "The Essence",
     description: "Maria Sarmiento’s signature treatment. A profound, intuitive journey that is the heart of Holistic Rising. This unique, multi-dimensional experience blends somatic bodywork, energetic alignment, and frequency healing to meet you exactly where you are—physically, energetically, and emotionally.",
