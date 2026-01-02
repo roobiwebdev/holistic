@@ -1792,10 +1792,10 @@ The original five-week rotational energetic foundation remains intact — now ex
 
 ### This Unique Combination Allows For
 
-1. **Activation through dynamic movement** — offered through the Core & Pelvic Floor and Hatha Flow classes
-2. **Deep release through stillness and breath** — supported in the Yin Class, meditation and Breathwork practices
-3. **Energetic recalibration through meridian focus** — integrated into yoga, Yin, Qigong and Breathwork sessions
-4. **Integration of body-mind awareness** — supported across all classes, including community connection within the Sharing Circle
+1. Activation through dynamic movement — offered through the Core & Pelvic Floor and Hatha Flow classes
+2. Deep release through stillness and breath — supported in the Yin Class, meditation and Breathwork practices
+3. Energetic recalibration through meridian focus — integrated into yoga, Yin, Qigong and Breathwork sessions
+4. Integration of body-mind awareness — supported across all classes, including community connection within the Sharing Circle
 
 ### Profound Benefits of the Four-Stage System
 
