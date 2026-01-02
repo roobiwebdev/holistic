@@ -111,6 +111,10 @@ const POLICIES = [
   {
     title: "Non-Discriminative Policy",
     content: "At Holistic Rising, we are committed to fostering an inclusive, respectful, and welcoming environment for all individuals. We do not discriminate on the basis of race, color, ethnicity, national origin, age, gender, sexual orientation, disability, religion, or any other characteristic. We provide equal access to all programs and create a safe environment where every person feels seen, heard, and valued."
+  },
+  {
+    title: "Child Access Policy",
+    content: "To ensure safety and well-being, children under 16 must be accompanied by a parent or guardian at all times. Written consent and parental presence in the treatment room are required for all sessions involving minors. Children cannot be left unattended in the waiting area."
   }
 ];
 

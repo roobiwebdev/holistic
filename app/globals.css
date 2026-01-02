@@ -181,6 +181,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .font-serif {
   font-family: var(--font-serif), serif;
 }

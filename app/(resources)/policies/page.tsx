@@ -5,7 +5,7 @@ import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { motion, useScroll, useSpring } from "framer-motion";
 import { cn } from "@/lib/utils";
-import { Shield, Clock, Heart, Video, Users, Scale } from "lucide-react";
+import { Shield, Clock, Heart, Video, Users, Scale, Baby } from "lucide-react";
 
 const policies = [
   {
@@ -155,6 +155,28 @@ const policies = [
         <h4 className="text-xl font-bold mt-6 mb-3 text-primary">Reporting and Accountability</h4>
         <p>
             Anyone who experiences or witnesses discriminatory behavior is encouraged to report it to management via our official email, contact number or in person. All reports will be handled on a non-named basis to ensure the privacy and protection of individuals involved. You can be assured that any report will be taken seriously and addressed with confidentiality, care, and appropriate action.
+        </p>
+      </>
+    ),
+  },
+  {
+    id: "child-access",
+    title: "Child Access Policy",
+    icon: Baby, // Ensure Baby is imported
+    content: (
+      <>
+        <p>
+          At Holistic Rising, we welcome clients of all ages. However, to ensure the safety and well-being of minors, specific guidelines apply to children visiting the clinic.
+        </p>
+        <p className="font-bold mt-4 mb-2">Guidelines for Minors:</p>
+        <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+          <li><strong>Accompaniment:</strong> Children under the age of 16 must be accompanied by a parent or legal guardian at all times while on the clinic premises.</li>
+          <li><strong>Treatment Consent:</strong> For any treatment provided to a minor (under 16), valid written consent must be obtained from a parent or legal guardian prior to the session.</li>
+          <li><strong>Chaperoning:</strong> A parent or legal guardian is required to be present in the treatment room for the entire duration of the session for any client under the age of 16.</li>
+          <li><strong>Waiting Area:</strong> Children are not permitted to wait unattended in the reception area while a parent or guardian receives treatment.</li>
+        </ul>
+        <p className="mt-4">
+          This policy is in place to uphold the highest standards of safety, safeguarding, and professional integrity.
         </p>
       </>
     ),

@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { MapPin, Clock, Mail } from "lucide-react";
-import { Button } from "@/components/ui/Button";
+import { Button, buttonVariants } from "@/components/ui/Button";
 
 const LOCATIONS = [
   {
@@ -16,6 +16,10 @@ const LOCATIONS = [
   {
     name: "Essex — Romford",
     address: "6 Hog Hill Road, Romford, RM5 2DH"
+  },
+  {
+    name: "Dubai — Business Bay",
+    address: "Business Bay, Dubai"
   }
 ];
 
@@ -153,14 +157,12 @@ export function VisitUs() {
                 </div>
 
                 <div className="mt-auto">
-                    <Button 
-                        asChild
-                        className="w-full bg-primary/20 hover:bg-primary hover:text-white text-primary border border-primary/30 rounded-full py-6 transition-all duration-300"
+                    <a 
+                        href="mailto:maria@holistic-rising.com"
+                        className={buttonVariants({ className: "w-full bg-primary/20 hover:bg-primary hover:text-white text-primary border border-primary/30 rounded-full py-6 transition-all duration-300" })}
                     >
-                        <a href="mailto:maria@holistic-rising.com">
-                            maria@holistic-rising.com
-                        </a>
-                    </Button>
+                        maria@holistic-rising.com
+                    </a>
                 </div>
             </motion.div>
 

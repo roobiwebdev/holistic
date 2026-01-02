@@ -22,14 +22,12 @@ const ALL_LOCATIONS = [
     address: "6 Hog Hill Road, Romford, RM5 2DH",
     mapUrl: "https://www.google.com/maps?q=6+Hog+Hill+Road,+Romford,+RM5+2DH&output=embed"
   },
-  // {
-  //   region: "Dubai Clinic:",
-  //   name: "DR / HR Sports Clinic Dubai",
-  //   address: "Visit drsportsclinic.co.uk for details",
-  //   isLink: true,
-  //   href: "https://drsportsclinic.co.uk/",
-  //   mapUrl: null
-  // }
+  {
+    region: "Dubai Clinic:",
+    name: "Business Bay",
+    address: "Business Bay, Dubai",
+    mapUrl: null // No map URL provided yet
+  }
 ];
 
 export function LocationMaps() {

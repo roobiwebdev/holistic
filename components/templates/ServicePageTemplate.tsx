@@ -81,13 +81,13 @@ export function ServicePageTemplate({
         </div>
 
         {/* Hero Content */}
-        <div className="relative z-20 text-center px-6 max-w-5xl mx-auto space-y-6 lg:-mt-10">
+        <div className="relative z-20 text-center px-6 max-w-5xl mx-auto space-y-6 lg:-mt-10 flex flex-col items-center">
           {subtitle && (
             <motion.span
               initial={{ opacity: 0, y: 10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, ease: "easeOut" }}
-              className="inline-block text-primary font-bold tracking-[0.2em] uppercase text-sm md:text-base"
+              className="inline-block font-bold tracking-[0.2em] uppercase text-sm md:text-base bg-gradient-to-r from-indigo-400 to-purple-400 bg-clip-text text-transparent"
             >
               {subtitle}
             </motion.span>
@@ -96,7 +96,7 @@ export function ServicePageTemplate({
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.05, ease: "easeOut" }}
-            className="font-serif text-5xl md:text-7xl lg:text-8xl text-white font-bold tracking-tight leading-tight"
+            className="font-sans text-5xl md:text-7xl lg:text-8xl text-white font-black uppercase tracking-tight leading-none drop-shadow-xl"
           >
             {title}
           </motion.h1>
@@ -105,7 +105,7 @@ export function ServicePageTemplate({
               initial={{ opacity: 0, y: 10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.1, ease: "easeOut" }}
-              className="text-lg md:text-2xl text-white/80 max-w-3xl mx-auto font-sans font-light leading-relaxed"
+              className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto font-sans leading-relaxed drop-shadow-md"
             >
               {description}
             </motion.p>

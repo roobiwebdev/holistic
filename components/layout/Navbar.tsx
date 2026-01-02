@@ -31,6 +31,7 @@ const NAV_GROUPS = [
       { label: "2x4", href: "/services/2by4" },
       { label: "Healing Movement", href: "/services/healing-movement" },
       { label: "Maternal Massage", href: "/services/maternal-massage" },
+      { label: "The Essence", href: "/the-essence" },
     ],
   },
   {

@@ -1376,41 +1376,41 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
           },
         ],
       }, */
-      {
-        slug: "ayurveda-sculpting-facelift-ritual",
-        title: "Ayurveda Sculpting Facelift Ritual",
-        description:
-          "A restorative wellness treatment focused on the head, neck, jaw, and face. Designed to support the relief of TMJ symptoms, jaw tension, and stress-related clenching, using external body and fascia-based techniques to help the mind release as the body unwinds.",
-        fullDescription:
-          "Our Ayurveda Sculpting Facelift Ritual is a restorative wellness treatment focused on the head, neck, jaw, and face. It is designed to support the relief of TMJ symptoms, including jaw tension, discomfort, and stress-related clenching, using external body and fascia-based techniques to help the mind release as the body unwinds.\n\nThis ritual incorporates buccal (intra-oral) massage, Gua Sha, and opiate ear candle therapy as traditional cleansing elements to encourage a feeling of unblocking across the head and facial pathways. The treatment works intentionally along the fascia lines of the face, neck, and jaw to release tension and promote a sense of openness, internal balance, and recalibration.\n\nWhile not positioned as a medical cure, clients commonly seek this ritual for support with lifestyle-related symptoms, including:\n\t•\tTMJ-related tension and discomfort\n\t•\tStuttering or speech tension patterns, such as stutters or stammers\n\t•\tHearing congestion or blocked sensations in the ear and head area\n\t•\tSinus pressure, blocked sensations, or seasonal sensitivities\n\t•\tMigraines or head pressure sensations\n\t•\tEye strain, blurred focus, or tension around the eyes affecting visual clarity\n\t•\tFacial puffiness or fluid retention\n\nMany clients also choose this treatment for a mental and sensory reset, reporting a sense of:\n\t•\tFeeling lighter and depuffed in the face\n\t•\tA clearer, more open sensation across the head, sinuses, jaw, and ears\n\t•\tReduced pressure sensations in the head and eye area\n\t•\tA sense of improved visual ease or clarity after eye strain or fatigue\n\t•\tRelief from heaviness affecting focus or perception\n\nThis ritual is crafted as a profound experience—ideal for those seeking healing from daily restrictions to restore balance across the head, neck, jaw, and face.",
-        image:
-          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
-        videoId: "S_-e1AOuPug",
-        ctaLabel: "Ayurveda Sculpting Facelift Ritual",
-        benefits: [
-          "Relief of TMJ symptoms and jaw tension",
-          "Support for speech tension and stuttering patterns",
-          "Clears hearing congestion and blocked sensations",
-          "Eases sinus pressure and head pressure",
-          "Reduces migraines and eye strain tension",
-          "Depuffs face and reduces fluid retention",
-          "Mental and sensory reset and recalibration",
-        ],
-        pricingOptions: [
-          {
-            duration: "90 minutes",
-            price: "£120.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "120 minutes",
-            price: "£160.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
+      // {
+      //   slug: "ayurveda-sculpting-facelift-ritual",
+      //   title: "Ayurveda Sculpting Facelift Ritual",
+      //   description:
+      //     "A restorative wellness treatment focused on the head, neck, jaw, and face. Designed to support the relief of TMJ symptoms, jaw tension, and stress-related clenching, using external body and fascia-based techniques to help the mind release as the body unwinds.",
+      //   fullDescription:
+      //     "Our Ayurveda Sculpting Facelift Ritual is a restorative wellness treatment focused on the head, neck, jaw, and face. It is designed to support the relief of TMJ symptoms, including jaw tension, discomfort, and stress-related clenching, using external body and fascia-based techniques to help the mind release as the body unwinds.\n\nThis ritual incorporates buccal (intra-oral) massage, Gua Sha, and opiate ear candle therapy as traditional cleansing elements to encourage a feeling of unblocking across the head and facial pathways. The treatment works intentionally along the fascia lines of the face, neck, and jaw to release tension and promote a sense of openness, internal balance, and recalibration.\n\nWhile not positioned as a medical cure, clients commonly seek this ritual for support with lifestyle-related symptoms, including:\n\t•\tTMJ-related tension and discomfort\n\t•\tStuttering or speech tension patterns, such as stutters or stammers\n\t•\tHearing congestion or blocked sensations in the ear and head area\n\t•\tSinus pressure, blocked sensations, or seasonal sensitivities\n\t•\tMigraines or head pressure sensations\n\t•\tEye strain, blurred focus, or tension around the eyes affecting visual clarity\n\t•\tFacial puffiness or fluid retention\n\nMany clients also choose this treatment for a mental and sensory reset, reporting a sense of:\n\t•\tFeeling lighter and depuffed in the face\n\t•\tA clearer, more open sensation across the head, sinuses, jaw, and ears\n\t•\tReduced pressure sensations in the head and eye area\n\t•\tA sense of improved visual ease or clarity after eye strain or fatigue\n\t•\tRelief from heaviness affecting focus or perception\n\nThis ritual is crafted as a profound experience—ideal for those seeking healing from daily restrictions to restore balance across the head, neck, jaw, and face.",
+      //   image:
+      //     "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
+      //   videoId: "S_-e1AOuPug",
+      //   ctaLabel: "Ayurveda Sculpting Facelift Ritual",
+      //   benefits: [
+      //     "Relief of TMJ symptoms and jaw tension",
+      //     "Support for speech tension and stuttering patterns",
+      //     "Clears hearing congestion and blocked sensations",
+      //     "Eases sinus pressure and head pressure",
+      //     "Reduces migraines and eye strain tension",
+      //     "Depuffs face and reduces fluid retention",
+      //     "Mental and sensory reset and recalibration",
+      //   ],
+      //   pricingOptions: [
+      //     {
+      //       duration: "90 minutes",
+      //       price: "£120.00",
+      //       bookingUrl:
+      //         "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      //     },
+      //     {
+      //       duration: "120 minutes",
+      //       price: "£160.00",
+      //       bookingUrl:
+      //         "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+      //     },
+      //   ],
+      // },
 
       {
         slug: "sculpting-treatment",

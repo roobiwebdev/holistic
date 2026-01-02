@@ -2,6 +2,7 @@
 
 import * as React from "react";
 import { Button } from "@/components/ui/Button";
+import { smoothScrollTo } from "@/lib/utils";
 
 export function Hero() {
   return (
@@ -84,12 +85,14 @@ export function Hero() {
           <Button
             variant="default"
             className="bg-primary text-primary-foreground hover:bg-primary/90 border-none min-w-[200px] rounded-full font-bold"
+            onClick={() => smoothScrollTo("our-services", 1500)} // 1.5s duration
           >
             Explore the Experience
           </Button>
           <Button
             variant="outline"
             className="text-white border-white/30 hover:bg-white/10 hover:border-white min-w-[200px] rounded-full backdrop-blur-sm font-bold"
+            onClick={() => smoothScrollTo("our-philosophy", 1500)} // 1.5s duration
           >
             Our Philosophy
           </Button>
@@ -97,7 +100,7 @@ export function Hero() {
       </div>
 
       {/* Bottom Scroll Indicator */}
-      <div className="absolute bottom-10 left-1/2 -translate-x-1/2 z-20 animate-bounce cursor-pointer opacity-70 hover:opacity-100 transition-opacity">
+      <div className="absolute bottom-10 left-1/2 -translate-x-1/2 z-20 animate-bounce cursor-pointer opacity-70 hover:opacity-100 transition-opacity hidden md:block">
         <div className="w-[30px] h-[50px] rounded-full border border-white/30 flex justify-center p-2">
           <div className="w-1 h-2 bg-white rounded-full animate-scroll-indicator" />
         </div>

@@ -265,7 +265,10 @@ export default function ContactPage() {
                        <div className="space-y-4">
                           <h3 className="text-primary font-bold uppercase tracking-widest text-sm">Contact</h3>
                           <div className="space-y-2">
-                             <p className="text-2xl font-serif text-white">{CONTACT_INFO.phone}</p>
+                             <div>
+                                <p className="text-2xl font-serif text-white">{CONTACT_INFO.phone}</p>
+                                <p className="text-[10px] text-primary font-bold uppercase tracking-[0.2em] mt-1">WhatsApp Only</p>
+                             </div>
                              <p className="text-lg text-white/60">{CONTACT_INFO.email}</p>
                           </div>
                        </div>

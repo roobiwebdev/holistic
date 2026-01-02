@@ -15,14 +15,7 @@ Sports massage is used to increase joint mobility and range of motion.
 Thai massage improves flexibility and works directly on the meridian system to clear energetic stagnation...`,
     image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-emerald-500/20 to-teal-500/20",
-    route: "/services/trauma-treatment",
-  },
-  {
-    title: "Profound Trauma Release for Men",
-    description: "For men ready to reclaim their body, reset their system and restore what survival once cost them. A profound return to presence, strength and embodied resilience.",
-    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=800&auto=format&fit=crop",
-    imageColor: "from-blue-500/20 to-slate-500/20",
-    route: "/services/profound-trauma-release-men",
+    route: "/trauma-treatment",
   },
   {
     title: "DR / HR Sports Clinic",
@@ -30,7 +23,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
       "Designed by co-founder Diego Robinson, these high-performance, results-driven treatments aim to achieve measurable change in just one session. They combine elite-level sports therapy with biomechanical analysis, intuitive assessment, and functional movement expertise.",
     image: "/images/services/sports-clinic.png",
     imageColor: "from-amber-500/20 to-orange-500/20",
-    route: "/services/dr-hr-sports-london",
+    route: "/dr-hr-sports-london",
   },
   {
     title: "Energy Healing",
@@ -38,7 +31,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
       "Subtle, intuitive work that supports energetic alignment and emotional rebalancing. This therapy can help bring clarity, calm, and connection to those seeking spiritual or emotional restoration.",
     image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-cyan-500/20 to-sky-500/20",
-    route: "/services/energy-healing",
+    route: "/energy-healing",
   },
   {
     title: "Holistic Therapies",
@@ -46,7 +39,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
       "Unique to Holistic Rising, these sessions combine multiple modalities into one experience. Created by Maria Sarmiento, they are intuitively layered to meet each client where they are — emotionally, physically, and spiritually — helping to reset the system and bring about a deep state of mental and energetic restoration.",
     image: "/images/services/holistic-treatments.png",
     imageColor: "from-purple-500/20 to-blue-500/20",
-    route: "/services/holistic-therapies",
+    route: "/holistic-therapies",
   },
   {
     title: "Natural Glow",
@@ -54,7 +47,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
       "An integrative approach to skincare that nourishes both skin and spirit. Using all-natural products and conscious touch, these treatments aim to enhance your inner glow by supporting your body's natural beauty rhythms.",
     image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-rose-500/20 to-pink-500/20",
-    route: "/services/natural-glow",
+    route: "/natural-glow",
   },
   {
     title: "2x4",
@@ -62,7 +55,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
       "Experience the profound synergy of two therapists working fluidly with one client. This unique triad creates an energetic alchemy that allows for deep release and realignment. With skilled fascia stretching and an intuitive understanding of biomechanics and energetic balance, tension is gently eased from both agonist and antagonist muscles. The result is a decompressing, harmonising treatment that restores flow, space, and holistic wellbeing.",
     image: "/images/services/2by4.png",
     imageColor: "from-pink-500/20 to-rose-500/20",
-    route: "/services/2by4",
+    route: "/2by4",
   },
   {
     title: "Healing Movement",
@@ -70,7 +63,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
       "A mindful practice combining breath, intuitive motion, and energy awareness. Designed to support nervous system regulation, emotional flow, and reconnection to the self through movement.",
     image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-indigo-500/20 to-purple-500/20",
-    route: "/services/healing-movement",
+    route: "/healing-movement",
   },
   {
     title: "Maternal Massage",
@@ -78,13 +71,27 @@ Thai massage improves flexibility and works directly on the meridian system to c
       "Tailored care for mothers before and after birth, focusing on the mental and emotional needs of this sacred transition while offering physical comfort and support.",
     image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=800&auto=format&fit=crop",
     imageColor: "from-violet-500/20 to-fuchsia-500/20",
-    route: "/services/maternal-massage",
+    route: "/maternal-massage",
+  },
+  // {
+  //   title: "Profound Trauma Release for Men",
+  //   description: "For men ready to reclaim their body, reset their system and restore what survival once cost them. A profound return to presence, strength and embodied resilience.",
+  //   image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=800&auto=format&fit=crop",
+  //   imageColor: "from-blue-500/20 to-slate-500/20",
+  //   route: "/services/profound-trauma-release-men",
+  // },
+    {
+    title: "The Essence",
+    description: "Maria Sarmiento’s signature treatment. A profound, intuitive journey that is the heart of Holistic Rising. This unique, multi-dimensional experience blends somatic bodywork, energetic alignment, and frequency healing to meet you exactly where you are—physically, energetically, and emotionally.",
+    image: "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=800&auto=format&fit=crop",
+    imageColor: "from-purple-500/20 to-indigo-500/20",
+    route: "/the-essence",
   },
 ];
 
 export function OurServices() {
   return (
-    <section className="relative py-24 md:py-32 bg-background overflow-hidden">
+    <section id="our-services" className="relative py-24 md:py-32 bg-background overflow-hidden">
       {/* Background gradient hint */}
       <div className="absolute inset-0 bg-gradient-to-b from-background via-primary/5 to-background pointer-events-none" />
 

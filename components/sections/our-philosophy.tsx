@@ -5,7 +5,7 @@ import { Play } from "lucide-react";
 
 export function OurPhilosophy() {
   return (
-    <section className="relative py-24 md:py-32 bg-background overflow-hidden border-t border-white/5">
+    <section id="our-philosophy" className="relative py-24 md:py-32 bg-background overflow-hidden border-t border-white/5">
       <div className="container mx-auto px-6 relative z-10">
         
         {/* Section Title (Centered Top) */}

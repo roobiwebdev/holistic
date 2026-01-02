@@ -82,7 +82,7 @@ export function OurStory() {
               </ul>
             </motion.div>
 
-            {/* Essex Column */}
+             {/* Dubai Column */}
              <motion.div
               initial={{ opacity: 0, x: 50 }}
               whileInView={{ opacity: 1, x: 0 }}
@@ -93,11 +93,11 @@ export function OurStory() {
               <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
                  <MapPin className="w-6 h-6 text-primary" />
               </div>
-              <h4 className="font-serif text-2xl text-foreground mb-6">Essex</h4>
+              <h4 className="font-serif text-2xl text-foreground mb-6">Dubai</h4>
               <ul className="space-y-3 text-muted-foreground/80">
                 <li className="flex flex-col">
-                  <span className="font-semibold text-foreground">HR Clinic</span>
-                  <span className="text-sm">Romford, RM5</span>
+                  <span className="font-semibold text-foreground">DR Clinic</span>
+                  <span className="text-sm">Business Bay</span>
                 </li>
               </ul>
             </motion.div>
