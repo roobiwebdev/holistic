@@ -177,9 +177,11 @@ export function Navbar() {
           <div className="flex-1 flex justify-end items-center gap-4">
             <div className="hidden lg:flex items-center gap-6">
               <ModeToggle />
-              <Button className="font-bold rounded-full shadow-[0_0_15px_rgba(234,88,12,0.5)] hover:shadow-[0_0_25px_rgba(234,88,12,0.7)] transition-shadow duration-300">
-                Get in Touch
-              </Button>
+              <Link href="/contact">
+                <Button className="w-full font-bold rounded-full hover:scale-105 transition-transform duration-300">
+                  Get in Touch
+                </Button>
+              </Link>
             </div>
 
             {/* Mobile Menu Toggle */}
@@ -235,9 +237,15 @@ export function Navbar() {
                 </div>
               ))}
               <div className="pt-8 flex flex-col gap-4">
-                <Button className="w-full font-bold rounded-full shadow-[0_0_15px_rgba(234,88,12,0.5)] hover:shadow-[0_0_25px_rgba(234,88,12,0.7)] transition-shadow duration-300">
+                <Button className="w-full font-bold rounded-full hover:scale-115 transition-transform duration-300">
                   Get in Touch
                 </Button>
+                {/* <Link
+                  href="/contact"
+                  className="w-full font-bold rounded-full hover:scale-115 transition-transform duration-300"
+                >
+                  Get in Touch
+                </Link> */}
               </div>
             </nav>
           </motion.div>
