@@ -1,25 +1,28 @@
-import { Navbar } from "@/components/layout/Navbar";
-import { Footer } from "@/components/layout/Footer";
-import { LocationMaps } from "@/components/sections/location-maps";
+import { ServicePageTemplate } from "@/components/templates/ServicePageTemplate";
+import { SERVICES_DATA } from "@/lib/services-data";
+import { notFound } from "next/navigation";
 
-export default function LondonPage() {
+export default function DrHrSportsLondonPage() {
+  const service = SERVICES_DATA.find((s) => s.slug === "dr-hr-sports-london");
+
+  if (!service) {
+    notFound();
+  }
+
   return (
-    <main className="min-h-screen bg-background text-foreground flex flex-col">
-      <Navbar />
-      
-      {/* Simple Hero */}
-      <section className="pt-32 pb-12 px-6 text-center">
-          <h1 className="font-serif text-5xl md:text-6xl font-bold text-gradient bg-clip-text text-transparent bg-gradient-to-r from-white via-primary/50 to-white pb-2">
-            London Clinics
-          </h1>
-          <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
-             Visit our specialized clinics across London for holistic treatments and sports therapy.
-          </p>
-      </section>
-
-      {/* Reuse Location Maps */}
-      <LocationMaps />
-
-    </main>
+    <ServicePageTemplate
+      title={service.hero.title}
+      subtitle={service.hero.subtitle}
+      description={service.hero.description}
+      heroYoutubeVideoId={service.hero.youtubeVideoId}
+      heroImage="/new_assets/DR_HR sports clinic_.jpg"
+      cards={service.subservices.map((sub) => ({
+        title: sub.title,
+        description: sub.description,
+        image: sub.image,
+        link: sub.pricingOptions?.[0]?.bookingUrl, // Linking directly to booking for now as per my previous draft logic
+      }))}
+      bottomContent={service.bottomContent}
+    />
   );
 }

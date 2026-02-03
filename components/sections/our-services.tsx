@@ -53,7 +53,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "2x4",
     description:
       "Experience the profound synergy of two therapists working fluidly with one client. This unique triad creates an energetic alchemy that allows for deep release and realignment. With skilled fascia stretching and an intuitive understanding of biomechanics and energetic balance, tension is gently eased from both agonist and antagonist muscles. The result is a decompressing, harmonising treatment that restores flow, space, and holistic wellbeing.",
-    image: "/images/services/2by4.png",
+    image: "/new_assets/Fluidity & Flexibility_.jpg",
     imageColor: "from-pink-500/20 to-rose-500/20",
     route: "/2by4",
   },
@@ -61,7 +61,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "Healing Movement",
     description:
       "A mindful practice combining breath, intuitive motion, and energy awareness. Designed to support nervous system regulation, emotional flow, and reconnection to the self through movement.",
-    image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=800&auto=format&fit=crop",
+    image: "/new_assets/IMG_5591.jpg",
     imageColor: "from-indigo-500/20 to-purple-500/20",
     route: "/healing-movement",
   },
@@ -69,7 +69,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "Maternal Massage",
     description:
       "Tailored care for mothers before and after birth, focusing on the mental and emotional needs of this sacred transition while offering physical comfort and support.",
-    image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=800&auto=format&fit=crop",
+    image: "/new_assets/IMG_5594.jpg",
     imageColor: "from-violet-500/20 to-fuchsia-500/20",
     route: "/maternal-massage",
   },

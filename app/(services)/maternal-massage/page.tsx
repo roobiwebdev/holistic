@@ -1,11 +1,29 @@
 import { ServicePageTemplate } from "@/components/templates/ServicePageTemplate";
+import { SERVICES_DATA } from "@/lib/services-data";
+import { notFound } from "next/navigation";
 
 export default function MaternalMassagePage() {
+  const service = SERVICES_DATA.find((s) => s.slug === "maternal-massage");
+
+  if (!service) {
+    notFound();
+  }
+
   return (
-    <ServicePageTemplate 
-        title="Maternal Massage"
-        subtitle="Nurturing Motherhood"
-        description="Specialized care for expectant and new mothers, providing comfort, relaxation, and support during this sacred journey."
+    <ServicePageTemplate
+      title={service.hero.title}
+      subtitle={service.hero.subtitle}
+      description={service.hero.description}
+      heroYoutubeVideoId={service.hero.youtubeVideoId}
+      heroImage="/new_assets/IMG_5594.jpg"
+      cards={service.subservices.map((sub) => ({
+        title: sub.title,
+        description: sub.description,
+        image: sub.image,
+        link: `/services/${service.slug}/${sub.slug}`,
+        ctaLabel: sub.ctaLabel,
+      }))}
+      bottomContent={service.bottomContent}
     />
   );
 }

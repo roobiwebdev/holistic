@@ -1,11 +1,29 @@
 import { ServicePageTemplate } from "@/components/templates/ServicePageTemplate";
+import { SERVICES_DATA } from "@/lib/services-data";
+import { notFound } from "next/navigation";
 
 export default function HolisticTherapiesPage() {
+  const service = SERVICES_DATA.find((s) => s.slug === "holistic-therapies");
+
+  if (!service) {
+    notFound();
+  }
+
   return (
-    <ServicePageTemplate 
-        title="HOLISTIC TREATMENTS & THERAPIES"
-        subtitle="Restore Balance"
-        description="Experience our comprehensive range of holistic therapies designed to nurture your body and elevate your spirit."
+    <ServicePageTemplate
+      title={service.hero.title}
+      subtitle={service.hero.subtitle}
+      description={service.hero.description}
+      heroYoutubeVideoId={service.hero.youtubeVideoId}
+      heroImage="/new_assets/Holistic Therapies.jpg"
+      cards={service.subservices.map((sub) => ({
+        title: sub.title,
+        description: sub.description,
+        image: sub.image,
+        link: `/services/${service.slug}/${sub.slug}`,
+        ctaLabel: sub.ctaLabel,
+      }))}
+      bottomContent={service.bottomContent}
     />
   );
 }

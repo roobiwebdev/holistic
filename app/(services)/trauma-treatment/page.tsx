@@ -1,11 +1,29 @@
 import { ServicePageTemplate } from "@/components/templates/ServicePageTemplate";
+import { SERVICES_DATA } from "@/lib/services-data";
+import { notFound } from "next/navigation";
 
 export default function TraumaTreatmentPage() {
+  const service = SERVICES_DATA.find((s) => s.slug === "trauma-treatment");
+
+  if (!service) {
+    notFound();
+  }
+
   return (
-    <ServicePageTemplate 
-        title="Trauma Treatment"
-        subtitle="Holistic Healing"
-        description="This treatment was designed by founder Maria Sarmiento. It facilitates a profound release of trauma throughout the body, providing a nervous system reset. Combining sports therapy, Thai massage, and Raynor massage, it works deeply through the body’s physical and energetic systems."
+    <ServicePageTemplate
+      title={service.hero.title}
+      subtitle={service.hero.subtitle}
+      description={service.hero.description}
+      heroYoutubeVideoId={service.hero.youtubeVideoId}
+      heroImage="/new_assets/Trauma frequency 2.jpg"
+      cards={service.subservices.map((sub) => ({
+        title: sub.title,
+        description: sub.description,
+        image: sub.image,
+        link: sub.bookingUrl,
+        ctaLabel: sub.ctaLabel,
+      }))}
+      bottomContent={service.bottomContent}
     />
   );
 }

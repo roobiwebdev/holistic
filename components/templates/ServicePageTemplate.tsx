@@ -20,6 +20,7 @@ interface ServicePageTemplateProps {
   subtitle?: string;
   description?: string; // Main description below title
   heroYoutubeVideoId?: string; // YouTube video ID for background
+  heroImage?: string; // Optional background image
   cards?: ServiceCardData[];
   bottomContent?: string;
 }
@@ -29,9 +30,10 @@ export function ServicePageTemplate({
   subtitle,
   description,
   heroYoutubeVideoId,
+  heroImage,
   cards = [],
   bottomContent,
-}: ServicePageTemplateProps) {
+}: ServicePageTemplateProps & { heroImage?: string }) {
   // Use cards directly - no need for default fallback in production
   const displayCards = cards;
 
@@ -46,7 +48,7 @@ export function ServicePageTemplate({
 
       {/* Hero Section */}
       <section className="relative min-h-[85vh] lg:h-[98vh] flex flex-col items-center justify-center pt-32 pb-20 lg:pt-24 lg:pb-0 overflow-hidden">
-        {/* Background Video */}
+        {/* Background Video or Image */}
         <div className="absolute inset-0 z-0 bg-neutral-900">
           {youtubeEmbedUrl ? (
             <>
@@ -68,14 +70,20 @@ export function ServicePageTemplate({
             </>
           ) : (
             <>
-              {/* Fallback placeholder if no video */}
-              <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=1920&auto=format&fit=crop')] bg-cover bg-center opacity-40 mix-blend-overlay" />
+              {/* Hero Image Background */}
+              <div
+                className="absolute inset-0 bg-cover bg-center opacity-40 mix-blend-overlay"
+                style={{ backgroundImage: `url('${heroImage || "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=1920&auto=format&fit=crop"}')` }}
+              />
               <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/20 to-black/90" />
-              <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
-                <div className="border border-white/20 rounded-full p-6 backdrop-blur-sm animate-pulse">
-                  <Play className="w-12 h-12 text-white/50 fill-white/20" />
+              {/* Play icon placeholder only if NO image and NO video (or purely decorative if needed) - keeping generic layout */}
+              {!heroImage && (
+                <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+                  <div className="border border-white/20 rounded-full p-6 backdrop-blur-sm animate-pulse">
+                    <Play className="w-12 h-12 text-white/50 fill-white/20" />
+                  </div>
                 </div>
-              </div>
+              )}
             </>
           )}
         </div>
@@ -147,19 +155,19 @@ export function ServicePageTemplate({
                 return (
                   <div key={i} className="flex gap-3 text-lg md:text-xl text-white/80 leading-relaxed pl-2">
                     <span className="font-bold text-primary min-w-[20px]">{line.split(" ")[0]}</span>
-                    <span>{line.replace(/^[0-9]+\. /, "").replace(/\*\*(.*?)\*\*/g, (_, text) => text)}</span> 
+                    <span>{line.replace(/^[0-9]+\. /, "").replace(/\*\*(.*?)\*\*/g, (_, text) => text)}</span>
                   </div>
                 );
               }
-               // Basic bold parsing for existing lines if needed, slightly complex in map, skipping full markdown parser.
-               // Just handling the specific format I injected.
+              // Basic bold parsing for existing lines if needed, slightly complex in map, skipping full markdown parser.
+              // Just handling the specific format I injected.
               if (line.startsWith("* ")) {
                 return (
                   <li
                     key={i}
                     className="ml-6 list-disc text-white/80 leading-relaxed text-lg md:text-xl mb-2"
                   >
-                     {line.replace("* ", "")}
+                    {line.replace("* ", "")}
                   </li>
                 );
               }
@@ -175,7 +183,7 @@ export function ServicePageTemplate({
               }
               if (line.trim() === "")
                 return <div key={i} className="h-2" />;
-              
+
               // Standard paragraph
               return (
                 <p
@@ -285,9 +293,8 @@ const ServiceCardComponent = memo(
                   {isExpanded ? "Show Less" : "Read More"}
                 </span>
                 <ArrowRight
-                  className={`w-4 h-4 md:w-5 md:h-5 transition-transform duration-200 relative z-10 flex-shrink-0 ml-2 ${
-                    isExpanded ? "-rotate-90" : "group-hover/btn:translate-x-1"
-                  }`}
+                  className={`w-4 h-4 md:w-5 md:h-5 transition-transform duration-200 relative z-10 flex-shrink-0 ml-2 ${isExpanded ? "-rotate-90" : "group-hover/btn:translate-x-1"
+                    }`}
                 />
               </div>
             )}

@@ -3,10 +3,11 @@ import { ServicePageTemplate } from "@/components/templates/ServicePageTemplate"
 
 export default function TheEssencePage() {
   return (
-    <ServicePageTemplate 
+    <ServicePageTemplate
       title="The Essence"
       subtitle="Maria Sarmiento’s Signature Treatment"
       description="A profound and intuitive healing journey designed by founder Maria Sarmiento. The Essence is the heart of Holistic Rising—a unique, multi-dimensional treatment that blends somatic bodywork, energetic alignment, and frequency healing to meet you exactly where you are."
+      heroImage="/new_assets/The essence_.jpg"
       bottomContent={`### The Experience
 
 The Essence is not just a treatment; it is a recalibration of the self. 

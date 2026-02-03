@@ -96,7 +96,7 @@ export const SERVICES_DATA: Service[] = [
         fullDescription:
           "A fusion of touch, energy, and awareness to restore ease and vitality. At Holistic Rising, our Trauma Release Healing service is a deeply integrative healing experience designed to support the release of the physical, energetic, and emotional imprints of trauma stored in the body.\n\nThis treatment incorporates the flowing stretches, acupressure, and compression techniques of Thai massage, which support mobility, flexibility, and circulation, while working externally along the body’s meridian lines, as recognised in Traditional Chinese Medicine. These energy channels are understood in wellness practices to influence the flow of qi (life force). By supporting the release of tension and congestion along these pathways, the treatment encourages the body to move toward balance and systemic regulation.\n\nThe treatment also incorporates yogic healing practices applied externally to the energetic body, supporting the release of emotions often held in areas of long-term tension. Through mindful body-based assessment, the session supports identification of the “seed” of trauma—the emotional or energetic root behind persistent internal holding patterns.\n\nWe further incorporate Raynor Massage, working externally along the body’s energy lines to support systemic unblocking and flow. The treatment applies fascial release techniques to ease connective tissue surrounding and supporting the nervous system. Fascia can hold tension and fluid congestion dense with hormones, chemicals, fat, and lifestyle residue. By supporting release across these fascia pathways, the treatment encourages a feeling of internal decompression, openness, and nervous-system recalibration.\n\nTrauma release is also a full-body detoxing process. By opening the fascia lines, the treatment supports fluidity within the lymphatic system, helping the body process and release internal congestion through its natural secretion pathways.\n\nFollowing the session, clients may experience an integration period of 3 to 5 days, as the body continues processing the release. Some of the responses people may notice during this period include:\n\t•\tAn emotional detox response\n\t•\tA fluid detox response, where internal congestion may be processed and released through the body’s secretion organs\n\t•\tA gradual return of energy and vitality\n\nMany clients describe an instant rejuvenation effect after the session, particularly when long-standing patterns of tension linked to fight-or-flight responses have been held in the body over time. This treatment supports a feeling of release from chronic stress-triangle patterns, commonly referenced in wellbeing work as:\n\t•\tSaviour complex stress patterns\n\t•\tVictim-response tension imprints\n\t•\tAggressor-stress tension patterns\n\nThese references are presented here in a wellbeing and somatic context only and not as medical claims or diagnoses.\n\nThis treatment is a dedicated healing service for clients seeking deep and whole-body unblocking, detoxing, mobility support, and nervous-system recalibration, with the intention of supporting the alleviation of chronic pain symptoms commonly associated with trauma retention in the body. Clients have reported much success in their wellbeing outcomes when working with long-standing symptoms associated with autoimmune disease, and when undergoing systemic recovery following chemotherapy. Chronic pain symptoms associated with fibromyalgia are one of the key client-reported success stories of this treatment. Positive outcomes have also been reported by clients experiencing wellbeing challenges commonly associated with PTSD, ADHD, lupus, MS, and diabetes. Many clients regard this treatment as supportive for creating a grounded approach to daily life, encouraging alignment, self-connection, and a renewed sense of self-awareness and personal balance.",
         image:
-          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Trauma frequency 2.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Trauma Release Healing",
         benefits: [
@@ -195,7 +195,7 @@ export const SERVICES_DATA: Service[] = [
         fullDescription:
           "The benefits of trauma healing combined with energy healing transmission, meridian clearing, and spiritual support. This stage introduces energetic coherence and emotional field restoration, weaving trauma release with subtle-body healing for deeper systemic balance.\n\nA profound journey of liberation — from the body to the soul. At Holistic Rising, our Trauma Release & Energy Healing Fusion offers a deeply transformative experience, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.",
         image:
-          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Energy healing.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Trauma & Energy Fusion",
         benefits: [
@@ -265,7 +265,7 @@ export const SERVICES_DATA: Service[] = [
         fullDescription:
           "A layered fusion of trauma release bodywork, energy healing currents, and Ayurvedic herbal intelligence. This frequency incorporates the complexity of traditional hot-oil therapy, high-vibrational herbal oils, and tissue-level purification, supporting detoxification through the fascia, fluid system, and endocrine network. It brings ancient herbal and energetic synergy into the trauma healing space.\n\nA complete healing of three ancient wisdoms combined to decompress, release and restore. At Holistic Rising, our Trauma Release, Ayurveda & Energy Healing Fusion offers a deeply transformative experience, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.",
         image:
-          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Holistic Therapies.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Trauma, Energy & Ayurveda",
         benefits: [
@@ -300,7 +300,7 @@ export const SERVICES_DATA: Service[] = [
         fullDescription:
           "Trauma Healing with the Frequency of Four is a comprehensive, 4-hour bespoke treatment that unifies the wisdom of all previous healing frequencies, enhanced by an extraction-focused energetic current.\n\nThis healing contains the benefits of Frequency 1, Frequency 2, and Frequency 3, while introducing the core intention of extraction and purification beyond the reset.\n\nThe Added Power of Frequency 4 — Extraction (The Diamond)\n\nThis energetic signature is known as The Diamond — formed of two balanced triangles, representing the geometry of extraction, alignment, and energetic liberation. The modality is grounded in:\n\t•\tUniversal Love & Universal Energy Alignment\n\t•\tMother Earth Creation & Ayurvedic Infusions\n\t•\tExtraction Intention (13-point quartz crystal transmission, Hijama/cupping, Lymphatic unblocking, Endocrine purification, Energetic cord dissolution)\n\nSupportive Elements of the 4 Hour Immersion:\n\t•\tIntuitively guided coaching\n\t•\tCrystal balancing\n\t•\tHigh-vibrational Ayurvedic oils\n\t•\tMusical frequency harmonisation\n\t•\tMeditative integration\n\t•\tYogic & Buddhist healing transmission\n\nThe Essence:\n\nThe essence of Trauma Healing with the Frequency of Four is purification of mind, body, and soul, supporting a rise in vibration and a return to unity and cohesion within the spiritual frequencies.",
         image:
-          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Trauma release for men.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Diamond Extraction",
         benefits: [
@@ -365,7 +365,7 @@ export const SERVICES_DATA: Service[] = [
         fullDescription:
           "This healing offers a deeply transformative 5-hour immersion, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.\n\nThe Complete Healing with the Frequency of Five Includes Five Core Modalities:\n\n1. Trauma Release Bodywork + Meridian Clearing\n2. Cranial Massage + Lymphatic Detoxification\n3. Hands & Feet Fascia + Micro-Meridian Unblocking\n4. Ayurveda — High-Vibrational Purification\n5. Energetic, Karmic, Ancestral + Spiritual Transmission\n\nClient-Reported Experiences:\nClients have described deeply symbolic and transpersonal healing journeys, including visions, ancestral presence, and deep release of energetic cords.\n\nThe Essence of the Work:\nThis is healing in its truest sense: comprehensive, sacred, shamanic, and transformational. A full-system decompression, multidimensional release, and a return to authentic energetic flow, clarity, alignment, and self-resonance.",
         image:
-          "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/The essence_.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Complete Healing",
         benefits: [
@@ -411,16 +411,16 @@ export const SERVICES_DATA: Service[] = [
           "For men who are outwardly coping but internally overloaded. This level supports nervous system regulation, emotional grounding, and a mental ‘exhale’ through physical release.",
         fullDescription:
           "Trauma Release 1 — Core Fascia Release (2 Hours)\n\nClient Profile\n\nMen who are outwardly coping but internally overloaded. Their body and nervous system are still responsive to strong work, yet not ready for the deepest somatic unravelling.\n\nThis may include men who:\n• Feel mentally overextended, emotionally fatigued, or psychologically pressured\n• Experience anxiety, low mood, emotional suppression, or early signs of depression\n• Carry tension through jaw, chest, shoulders, diaphragm, or breath-holding patterns\n• Live on low reserves, brain fog, irritability, or poor sleep due to stress\n• Have a history of surgical or medical trauma that is stable but still held physically\n• Are navigating mental health strain such as stress, anxiety, panic responses, or emotional burnout\n• Want to feel more present in their body but feel disconnected, heavy, or tense\n• Are managing mild to moderate mental health challenges alongside physical exhaustion\n\nThis level supports nervous system regulation, emotional grounding, and a mental ‘exhale’ through physical release.\n\nWhen fascia begins to release, the brain follows — easing internal pressure and supporting emotional regulation.",
-        image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+        image: "/new_assets/Trauma release for men.jpg",
         ctaLabel: "Trauma Release 1",
         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
         benefits: [
-            "Core fascia release",
-            "Nervous system regulation",
-            "Emotional grounding",
-            "Mental exhale through physical release",
-            "Targets tension in jaw, chest, shoulders",
-            "Supports stress and burnout recovery"
+          "Core fascia release",
+          "Nervous system regulation",
+          "Emotional grounding",
+          "Mental exhale through physical release",
+          "Targets tension in jaw, chest, shoulders",
+          "Supports stress and burnout recovery"
         ],
         pricingOptions: [
           {
@@ -436,19 +436,19 @@ export const SERVICES_DATA: Service[] = [
         description:
           "For men carrying both physical trauma and psychological or emotional layering. This level works into deeper fascia and stress-system holding, allowing the brain to release defence naturally through somatic work.",
         fullDescription:
-            "Trauma Release 2 — Layered Release (3 hours)\n\nClient Profile\n\nMen carrying both physical trauma and psychological or emotional layering. Their pain, tension, and stress patterns live equally in body and mind.\n\nThis may include men who:\n• Experience chronic pain combined with nervous system fatigue\n• Struggle with persistent anxiety, depression, intrusive thoughts, compulsive patterns, emotional dysregulation, or dissociation linked to stress\n• Present with conditions such as: Chronic pain, Fatigue syndromes, Chronic pain with fatigue\n• Carry long-term muscular and fascial guarding\n• Are navigating an array of mental health challenges, including: Generalised anxiety disorder, Complex depression tied to trauma, PTSD or C-PTSD traits, Intrusive thoughts, Sensory overload, Compulsive behaviors, Mood instability\n\nThis level works into deeper fascia and stress-system holding, allowing the brain to release defence naturally through somatic work.\n\nBy releasing fascia, the system signals safety to the brain — reducing mental noise, easing emotional load, and calming psychological defence patterns without needing to ‘force’ cognitive release.\n\nClients often say:\n\n“My body hurts because my brain never stops.”\n“I’m tired in my bones, not just my head.”",
-         image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
-         ctaLabel: "Trauma Release 2",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-         benefits: [
-             "Layered release for contents",
-             "Works into deeper fascia and stress-system",
-             "Allows brain to release defence naturally",
-             "Signals safety to the brain",
-             "Reduces mental noise and emotional load",
-             "Addresses chronic pain and fatigue"
-         ],
-         pricingOptions: [
+          "Trauma Release 2 — Layered Release (3 hours)\n\nClient Profile\n\nMen carrying both physical trauma and psychological or emotional layering. Their pain, tension, and stress patterns live equally in body and mind.\n\nThis may include men who:\n• Experience chronic pain combined with nervous system fatigue\n• Struggle with persistent anxiety, depression, intrusive thoughts, compulsive patterns, emotional dysregulation, or dissociation linked to stress\n• Present with conditions such as: Chronic pain, Fatigue syndromes, Chronic pain with fatigue\n• Carry long-term muscular and fascial guarding\n• Are navigating an array of mental health challenges, including: Generalised anxiety disorder, Complex depression tied to trauma, PTSD or C-PTSD traits, Intrusive thoughts, Sensory overload, Compulsive behaviors, Mood instability\n\nThis level works into deeper fascia and stress-system holding, allowing the brain to release defence naturally through somatic work.\n\nBy releasing fascia, the system signals safety to the brain — reducing mental noise, easing emotional load, and calming psychological defence patterns without needing to ‘force’ cognitive release.\n\nClients often say:\n\n“My body hurts because my brain never stops.”\n“I’m tired in my bones, not just my head.”",
+        image: "/new_assets/Trauma frequency 2.jpg",
+        ctaLabel: "Trauma Release 2",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        benefits: [
+          "Layered release for contents",
+          "Works into deeper fascia and stress-system",
+          "Allows brain to release defence naturally",
+          "Signals safety to the brain",
+          "Reduces mental noise and emotional load",
+          "Addresses chronic pain and fatigue"
+        ],
+        pricingOptions: [
           {
             duration: "180 minutes",
             price: "£350.00",
@@ -457,24 +457,24 @@ export const SERVICES_DATA: Service[] = [
         ]
       },
       {
-         slug: "trauma-release-3-men",
-         title: "Trauma Release 3 — Profound Reclamation",
-         description: 
-            "For men holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.",
-         fullDescription:
-            "Trauma Release 3 — Profound Reclamation (4 Hours)\n\nClient Profile\n\nMen holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.\n\nThis may include men who:\n• Experience nervous system freeze, shutdown, or collapse responses\n• Live with mobility restriction, movement fear, or functional limitation\n• Carry conditions that impact systemic inflammation, immunity, neurological signalling, or fascia holding (Lupus, MS, Fibromyalgia, Diabetes, etc.)\n• Have fascial restriction, circulation issues, or numbness\n• Experience depression, neurodivergent trauma layering, or long-term mental health illness stored somatically\n\nThis level helps men rebuild trust in movement, release fascia that has been bracing for years, and restore agency over their body and system.\n\nAs fascia unravels, the brain is given permission to release survival-mode signalling — easing emotional weight, reducing neurological defence, and supporting mental health at a foundational, physiological level.\n\nClients often say:\n\n“I don’t feel safe in my body anymore.”\n“I shut down when it’s too much.”\n“I don’t know how to release without losing strength.”",
-         image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
-         ctaLabel: "Trauma Release 3",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-         benefits: [
-             "Profound reclamation for complex trauma",
-             "Addresses neuroimmune and neurological conditions",
-             "Rebuilds trust in movement",
-             "Releases fascia bracing for years",
-             "Restores agency over body and system",
-             "Supports mental health at physiological level"
-         ],
-         pricingOptions: [
+        slug: "trauma-release-3-men",
+        title: "Trauma Release 3 — Profound Reclamation",
+        description:
+          "For men holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.",
+        fullDescription:
+          "Trauma Release 3 — Profound Reclamation (4 Hours)\n\nClient Profile\n\nMen holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.\n\nThis may include men who:\n• Experience nervous system freeze, shutdown, or collapse responses\n• Live with mobility restriction, movement fear, or functional limitation\n• Carry conditions that impact systemic inflammation, immunity, neurological signalling, or fascia holding (Lupus, MS, Fibromyalgia, Diabetes, etc.)\n• Have fascial restriction, circulation issues, or numbness\n• Experience depression, neurodivergent trauma layering, or long-term mental health illness stored somatically\n\nThis level helps men rebuild trust in movement, release fascia that has been bracing for years, and restore agency over their body and system.\n\nAs fascia unravels, the brain is given permission to release survival-mode signalling — easing emotional weight, reducing neurological defence, and supporting mental health at a foundational, physiological level.\n\nClients often say:\n\n“I don’t feel safe in my body anymore.”\n“I shut down when it’s too much.”\n“I don’t know how to release without losing strength.”",
+        image: "/new_assets/Trauma release for men.jpg",
+        ctaLabel: "Trauma Release 3",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        benefits: [
+          "Profound reclamation for complex trauma",
+          "Addresses neuroimmune and neurological conditions",
+          "Rebuilds trust in movement",
+          "Releases fascia bracing for years",
+          "Restores agency over body and system",
+          "Supports mental health at physiological level"
+        ],
+        pricingOptions: [
           {
             duration: "240 minutes",
             price: "£450.00",
@@ -490,7 +490,7 @@ export const SERVICES_DATA: Service[] = [
         fullDescription:
           "Trauma Release 4\n\nThis advanced session offers extended time for deep systemic integration and trauma release. Please contact us for more details on the specifics of this level.",
         image:
-          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Trauma release for men.jpg",
         ctaLabel: "Trauma Release 4",
         bookingUrl:
           "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
@@ -516,7 +516,7 @@ export const SERVICES_DATA: Service[] = [
         fullDescription:
           "Trauma Release 5\n\nThe pinnacle of our trauma release work for men, offering the maximum time for a complete reset and embodied restoration.",
         image:
-          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Trauma release for men.jpg",
         ctaLabel: "Trauma Release 5",
         bookingUrl:
           "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
@@ -624,7 +624,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Our specialised Abdominal Treatment is a deeply therapeutic and restorative experience designed to relieve abdominal cramping, bloating, and the build-up of excess fat and fluid, helping to reduce inflammation throughout the core of the body. This treatment works holistically to release deep-seated tension, enhance digestion, support natural detoxification, ease lower back discomfort, promote scar tissue regeneration, improve hip mobility, and help expand lung capacity for easier breathing.",
         image:
-          "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5602.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Abdominal Treatment",
         benefits: [
@@ -658,7 +658,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Our Combined Massage is a beautifully fluid and intuitive treatment that blends a variety of therapeutic techniques to meet your unique needs in the moment. Drawing from relaxing, deep tissue, aromatherapy, sports, and sculpting methods, this massage is tailored specifically to you — allowing your body and energy on the day to guide the perfect combination.",
         image:
-          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5605.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Combined Massage",
         benefits: [
@@ -692,7 +692,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "This is a specialised foot and ankle treatment that combines traditional Thai reflexology with Raynor massage to target the fascia lines in small areas such as the toes, hands, and wrists. The therapy is designed to improve mobility, ease discomfort, and restore movement, particularly in the feet and ankles.",
         image:
-          "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5600.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Specialised Feet and Ankle Therapy",
         benefits: [
@@ -726,7 +726,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "This is a specialised treatment designed for those experiencing difficulties mobilising the small joints of the hands and feet. It combines traditional Thai reflexology with Raynor massage to target the fascia lines in these areas, helping to restore movement, ease discomfort, and improve flexibility.",
         image:
-          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5660.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Specialised Hands & Shoulder Therapy",
         benefits: [
@@ -760,7 +760,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "This specialised treatment focuses on the entire back of the body, from the hips and glutes through to the neck and head. It is particularly effective for relieving tight hamstrings and calves, nerve pain in the glutes, lower back pain, and shoulder tension.",
         image:
-          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/DR_HR sports clinic_.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Hip, Glutes, Back, Neck & Head Treatment",
         benefits: [
@@ -794,7 +794,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "At Holistic Rising, our Medicinal Aromatherapy Treatment offers a deeply personalised approach to healing through the power of essential oils. Unlike traditional aromatherapy, this treatment is therapeutically focused and tailored specifically to the individual's physical and emotional needs at the time of their session.",
         image:
-          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Natural Glow.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Medicinal Aromatherapy Treatment",
         benefits: [
@@ -828,7 +828,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "This deeply restorative treatment at Holistic Rising combines the ancient practice of ear candling with a soothing head and shoulders massage, creating a powerful fusion that addresses physical tension, energetic stagnation, and sensory discomfort.",
         image:
-          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5649.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "EAR Candle with Head & Shoulders Tension Relief",
         benefits: [
@@ -862,7 +862,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Our Therapeutic Deep Tissue Massage is a powerful and purposeful treatment designed to target chronic tension, muscular pain, and postural imbalances. This is not a simple relaxation massage — it is a restorative therapy tailored to those who carry tension deep within the muscles and connective tissues, whether from physical exertion, repetitive strain, stress, or long-term poor posture.",
         image:
-          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/DR_HR sports clinic_.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Therapeutic Deep Tissue Massage",
         benefits: [
@@ -896,7 +896,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Gua Sha cranial therapy is a deeply restorative treatment that uses a rose quartz crystal Gua Sha tool to gently massage the head, neck, and face. This therapy is excellent for alleviating headaches, migraines, bruising, tinnitus, and sleep difficulties by clearing and calming the mind while lifting energy.",
         image:
-          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Natural Glow.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Gua Sha Cranial (Head) Therapy Treatment",
         benefits: [
@@ -942,7 +942,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "A powerful fusion of five ancient healing modalities to restore balance, alignment, and authentic transformation. At Holistic Rising, our Integrated Energy Healing combines the profound wisdom and techniques of Japanese Reiki, Crystal Healing, Shamanic Healing, Buddhist Healing, and Yogic Healing into a seamless, intuitive experience. This unique fusion works holistically to cultivate direction, leadership, balance, transformation, and abundance in the client's life",
         image:
-          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Energy Healing_.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Book Energy Healing Of Five",
         benefits: [
@@ -976,7 +976,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "An ancient healing technique rooted in Japanese tradition, designed to clear energy blockages and promote deep restoration. Japanese Reiki is a gentle yet powerful energy healing method that traces its origins back to early 20th-century Japan, rooted in much older principles of ancient Chinese medicine and energy work. It forms part of a long lineage of healing arts that focus on balancing the body's subtle energy systems to support holistic wellbeing.",
         image:
-          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Energy healing.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Book Japanese Reiki",
         benefits: [
@@ -1010,7 +1010,8 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Crystal healing utilises the natural vibrational properties of crystals to target and shift energy within the body. Each body part holds different frequencies due to the emotions stored within them. Practitioners place specific crystals on or around these areas to raise their frequency and release density. The crystals act as conduits for subtle energy, supporting clarity, emotional healing, and a lighter energetic state.",
         image:
-          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
+          // "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5751.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Book Crystal Healing",
         benefits: [
@@ -1044,7 +1045,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Shamanic healing is a sacred journey of reconnection—with the self, the Earth, and the greater mystery of existence. Rather than focusing solely on the retrieval of lost soul aspects, this path embraces the understanding that we are not merely people, but eternal energy beings. Healing arises through communion with the wisdom of the land and the elemental forces around us—the flowing rivers, the ever-changing wind, the rhythm of the sea, and the pulse of the earth. By aligning with these natural flows, we remember our place in creation and tap into energies that nourish the spirit. This deep connection allows us to rise above the confines of the human mind and return to a more expansive, timeless awareness.",
         image:
-          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Frequency & Energetic Integrity.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Book Shamanic Healing",
         benefits: [
@@ -1078,7 +1079,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "This tradition focuses primarily on healing physical illness and restoring the body's vibrational harmony. Illness is often seen as a manifestation of karmic imbalance or emotional density that lowers the frequency of certain areas of the body. Healers use subtle hand movements and energetic scanning to identify and clear these dense zones, often placing hands on the head to connect with the client's consciousness. The process may involve multiple healers, especially for acute conditions, and is rooted in a deep understanding of Dharma, compassion, and the mind–body connection.",
         image:
-          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Heart-Led Healing.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Book Buddhist Energy Healing",
         benefits: [
@@ -1124,7 +1125,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "An Ayurvedic-inspired grounding ritual to soothe, detoxify, and restore balance. The Therapeutic Foot Massage with Kansa Wand at Holistic Rising is a deeply restorative treatment rooted in Ayurvedic tradition, combining the therapeutic benefits of reflexology with the healing power of the Kansa Wand—a sacred metal tool known in Ayurveda for its balancing and detoxifying properties.",
         image:
-          "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5589.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Therapeutic Foot Massage with Kansa Wand",
         benefits: [
@@ -1158,7 +1159,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "An Ayurvedic ritual to tone, detoxify and restore radiance to the skin and spirit. The Facial Rejuvenation Massage with Kansa Wand is a luxurious Ayurvedic treatment that works to revitalise the skin, calm the nervous system, and promote a natural glow from within. Rooted in ancient Indian healing traditions, this treatment uses the Kansa Wand — a sacred bronze tool made from a healing alloy of copper, tin, and zinc — renowned for its detoxifying and balancing properties.",
         image:
-          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5612.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Facial Rejuvenation Massage with Kansa Wand",
         benefits: [
@@ -1194,7 +1195,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "At Holistic Rising, our Revitalising Head, Scalp, Shoulders & Face Massage—traditionally known as Indian Head Massage—is a deeply calming and rebalancing therapy rooted in ancient Ayurvedic practice. This treatment focuses on the upper chakras and key marma (energy) points of the head, face, neck and shoulders, offering profound relief from tension, stress, and mental fatigue.",
         image:
-          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5639.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel:
           "Revitalising Head, Scalp, Shoulders, and Face Massage (Indian head massage)",
@@ -1230,7 +1231,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Immerse yourself in a sanctuary of pure indulgence with our Neal's Yard Rose Steam Ritual—a luxurious treatment designed to purify, refresh, and elevate both skin and spirit.",
         image:
-          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Self-Love & Empowerment.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Rose Steam Ritual",
         benefits: [
@@ -1264,7 +1265,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Surrender to the ultimate experience of beauty and renewal with our Luxury Rose Radiance Ritual—a decadent fusion of steam purification, deep renewal, and crystal energy work, designed to lift vibration, restore harmony, and leave you glowing inside and out.",
         image:
-          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5670.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "LUXURY ROSE OIL & QUARTS RADIANCE RITUAL",
         benefits: [
@@ -1299,7 +1300,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Immerse yourself in a sanctuary of pure indulgence with our Neal's Yard Aromatherapy Massage—a luxurious treatment designed to purify, refresh, and elevate both skin and spirit through the therapeutic power of essential oils.",
         image:
-          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Heart-Led Healing.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "NEALS YARD ARMOATHERAPY MASSAGE",
         benefits: [
@@ -1367,7 +1368,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Our Full-Body Gentle Balance and Release Ritual treats the body to support the release of the mind. Through slow, calming, full-body massage techniques and mindful energetic intention, the treatment guides the nervous system into a state of safety and ease—allowing the body to unwind so the mind can let go.\n\nThis ritual is ideal for clients experiencing signs of stress, tension, insomnia, disrupted sleep patterns, lack of rest, or difficulty switching off. While the treatment is applied to the body, its purpose is to create the conditions the mind truly needs—space, stillness, and permission to pause.\n\nIt is not designed to target muscle aches or ease physical pain. Instead, it is crafted to give clients meaningful time away from the demands of daily life, offering the opportunity to rest, breathe, and restore. Many clients naturally drift into deep relaxation, and some may even fall into light sleep during the session—an encouraged part of the experience.\n\nThe ritual supports you to:\n\t•\tFind inner calm and mental clarity\n\t•\tReset from chronic fatigue or sleeplessness\n\t•\tRest and restore your system in a supported environment\n\t•\tRecalibrate your emotional and energetic balance\n\t•\tStep away from a busy life to pause, reflect, and reset\n\t•\tReconnect to yourself and regain a sense of equilibrium\n\t•\tLeave feeling mentally lighter, centred, and renewed\n\nThis treatment creates a moment of stillness for the mind, using the body as the pathway to release. It invites rest, supports deep relaxation, and helps clients reset their internal rhythm—so they can return to life feeling grounded, restored, and recalibrated.\n\nA gentle pause. A mental reset. A return to balance",
         image:
-          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5729.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Full Body Gentle Balance & Release Ritual",
         benefits: [
@@ -1472,7 +1473,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "The Sculpting Treatment at Holistic Rising is a targeted and transformative therapy designed to address stubborn fat and deeply stored fluid retention that may not respond to diet and exercise alone. This dynamic technique works through the deeper layers of the skin and fascia, encouraging the body to naturally detoxify, mobilise stored fat, and refine the silhouette.",
         image:
-          "https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5740.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "SCULPTING TREATMENT",
         benefits: [
@@ -1508,7 +1509,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Indulge in one of the most luxurious treatments we offer with our Basalt Hot Stone Full Body Massage—a deeply restorative experience that invites your body to unwind, your energy to rebalance, and your spirit to soften.",
         image:
-          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5752.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "RBASALT HOT STONE MASSAGE",
         benefits: [
@@ -1542,7 +1543,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Step into a journey of renewal, where skin and spirit are gently awakened. With this ritual experience Neal's yard oils, masks and deep organic glow, focusing on deep detoxification, unclogging pores and removing impurities, while sweeping away dull and tired cells to reveal your natural luminosity beneath.",
         image:
-          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Frequency & Energetic Integrity.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "RADIANCE RENEWAL DETOX RITUAL",
         benefits: [
@@ -1622,7 +1623,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Yin Flow is a deeply restorative practice that blends traditional Yin Yoga with subtle movement and breath awareness. Each session is designed to target one of the five main meridians of the body—pathways through which vital energy (Qi) flows. By gently stimulating these meridians, Yin Flow encourages emotional release, organ support, and inner stillness. This practice offers space to slow down, surrender, and access deeper layers of physical and energetic tension. Movements are held for extended periods, allowing the connective tissues to release while supporting mental clarity and nervous system regulation",
         image:
-          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5591.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Book Healing Movement Yoga",
         benefits: [
@@ -1656,7 +1657,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Healing Movement Pilates follows the same five-week rotational structure as our Mandala and Yin Healing Movement classes, designed to work in harmony and synchronicity with them. Each class within the series focuses on different meridians of the body, creating a circular and fluid healing experience rooted in the elemental energies. This Pilates class has been thoughtfully introduced in response to client demand, recognising a key gap in many modern gym-based routines which often overlook the body's inner core and deep stabilising muscles. Healing Movement Pilates specifically targets the internal muscular system – the muscles closest to the skeletal structure – which are vital for joint support, postural integrity, and long-term physical resilience. These deep muscles are closely connected to ligaments and tendons, and play a crucial role in both high-performance movement and in the release of deep rooted trauma. By strengthening these internal systems, we reduce the risk of injury and minimise the body's trauma responses, particularly those linked to the Golgi tendon reflex – which regulates sudden, explosive movements or jerking movements often linked to injury. This inner strength is not only essential for physical transformation, but also for grounding the nervous system and cultivating overall balance. Each class includes dedicated work on the pelvic floor, designed for all bodies – both male and female – to support the strengthening and conscious release of this often-overlooked area. A balanced pelvic floor is foundational for sexual health, hormone regulation, and achieving homeostasis. Rooted in the principles of the root chakra, this class teaches how to build and release strength from the ground up – supporting manifestation, grounding, and inner harmony.",
         image:
-          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Fluidity & Flexibility_.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Book Healing Movement Yoga",
         benefits: [
@@ -1713,7 +1714,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "This healing movement class follows a five-week rotational structure, designed to work in harmony with our existing Healing Movement sequences. Each session focuses on specific meridian pathways, supporting a circular, fluid energetic journey rooted in elemental balance, embodiment, and nervous-system regulation.\n\nThis class was created in response to client demand, recognising a common gap in many modern movement and fitness routines, where the inner core and deep stabilising structures of the body are often under-activated.\n\nThe Yang yoga approach brings intentional, dynamic engagement to the internal muscular system — the muscles closest to the skeletal structure — which play a vital role in:\n\t•\tJoint protection and support\n\t•\tPostural integrity\n\t•\tInjury prevention\n\t•\tLong-term physical resilience\n\t•\tReducing stored trauma responses held in the body\n\nThese deep muscles are closely interconnected with ligaments and tendons, and are directly linked to the body’s protective reflexes, including the Golgi tendon response, which regulates sudden, reactive, or jerking movements often associated with physical strain or past injury.\n\nEach class includes focused activation and conscious release of the pelvic floor, a foundational energetic and physical centre that is frequently overlooked in conventional movement practices.\n\nA balanced and strengthened pelvic floor supports:\n\t•\tSexual health and vitality\n\t•\tHormonal balance and regulation\n\t•\tCore stability\n\t•\tEmotional grounding\n\t•\tWhole-system homeostasis\n\nRooted in the energetic intelligence of the root chakra, this class teaches how to build strength from the inside out and the ground up, supporting embodied awareness, stability, grounded manifestation, and internal energetic cohesion.\n\nThis practice is designed to support the body in feeling strong, regulated, purified, grounded, and in flow — creating balance that can ripple outward into family connection, daily life, and the home environment.",
         image:
-          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Holistic Therapies.jpg",
         ctaLabel: "Book Class",
         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
@@ -1735,9 +1736,9 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Hatha Flow at Holistic Rising is a dynamic and grounding practice that balances strength and softness, breath and movement, and the physical and energetic bodies.\n\nThis class follows the same five-week cyclical rotation, rooted in the five elements — Earth, Water, Fire, Air, and Ether — with each session focusing on a specific body region and its corresponding meridian pathways. Over the course of five weeks, participants move through an intentional, breath-led sequence that supports physical release, postural strength, flexibility, and energetic activation.\n\nThe practice is steady, flowing and intentional, honouring the body’s natural rhythm while restoring energetic circulation through meridian awareness. The structure mirrors both the cycles of nature and the internal cycles of the body, creating a cohesive movement experience designed for integration, grounding and deep internal alignment.\n\nThis healing movement system incorporates a 3-stage energetic awareness cycle throughout the immersion:\n\t1.	Activation through conscious, stabilising strength\n\t2.	Release through breath-supported movement and stillness\n\t3.	Energetic recalibration through meridian focus and embodiment\n\nTogether, these stages support a return to balance, internal flow, and body-mind cohesion, helping participants feel more grounded, aligned, energetically clear and connected to the subtle body.\n\nThis is movement for healing — intentional, restorative, and held within the intelligence of the body as a whole.",
         image:
-          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Fluidity & Flexibility_.jpg",
         ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
       {
         slug: "meditation",
@@ -1745,9 +1746,9 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         description:
           "Guided practices to cultivate presence, mental clarity and nervous system calm.",
         image:
-          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Energy healing.jpg",
         ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
       /* {
         slug: "yin-class",
@@ -1767,9 +1768,9 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "Healing Movement Yin is a deeply restorative practice that combines Yin yoga postures, gentle transitionary movement, free movement, self-healing techniques and guided meditation.\n\nThe class follows a five-week cyclical rotation, working intentionally through the five elemental meridian pathways of the body — channels through which vital energy (qi) flows. Each session focuses on a specific body region and its corresponding meridian, gently stimulating these internal pathways to support emotional release, organ-system nourishment, nervous-system recovery and embodied stillness.\n\nThis healing movement experience is supported by a 3-stage rotation throughout the four-hour immersion:\n\t1.	Activation — gentle engagement to prepare the fascia, joints and subtle channels\n\t2.	Release — long-held postures supported by conscious breath, allowing deep tissue and energetic tension to soften\n\t3.	Recalibration — intentional meridian awareness to restore energetic circulation and internal balance\n\nPostures are held for extended periods, creating space for the connective tissues and fascia to release stored tension, supporting both physical decompression and energetic clarity.\n\nThe practice also incorporates free movement, inviting natural expression to support embodied emotional release, alongside self-healing techniques that empower personal awareness and energetic cleansing from the inside out.\n\nEach class includes a guided meditation, offering a gentle, compassionate internal reset, supporting nervous-system calm, mental clarity and deeper integration within the body-mind.\n\nThis is a sacred movement space designed to support recovery, release and internal alignment — helping you reconnect to your body, restore energetic flow, and feel more grounded and cohesive within the subtle self.",
         image:
-          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5591.jpg",
         ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
       {
         slug: "qigong-classes",
@@ -1777,9 +1778,9 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         description:
           "Gentle, intentional energy-based movement to unblock meridians, support qi flow and harmonise internal systems.",
         image:
-          "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Fluidity & Flexibility_.jpg",
         ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
       {
         slug: "breathwork",
@@ -1787,9 +1788,9 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         description:
           "Conscious breathing practices to regulate the nervous system, release stored emotional tension, expand prana, and support energetic clearing through the subtle body.",
         image:
-          "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/The essence_.jpg",
         ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
       {
         slug: "self-healing",
@@ -1797,9 +1798,9 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         description:
           "Practical somatic and energetic tools for personal regulation and restoration.",
         image:
-          "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5605.jpg",
         ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
       /* {
         slug: "sharing-circle",
@@ -1819,9 +1820,9 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         fullDescription:
           "The Healing Movement Sharing Circle takes place every Sunday from 8:00–8:30pm, and is a gentle, open, community space for anyone who feels called to join us.\n\nThis is a place where we hold space with love and care for those who want support, connection, grounding, or simply a moment to pause and be in the presence of like-minded people. Whether you want to share, chat, socialise, or just sit in stillness — you are welcome. There is no pressure to speak. You can also simply come in to meditate.\n\nThe circle incorporates a guided meditation aligned to the meridian themes explored in the wider Healing Movement classes, supporting energetic awareness and inner cohesion. It may also include soft community drumming or light shamanic drumming, offered in a grounding, rhythmic way to support emotional and energetic release.\n\nThis space can also include:\n\t•	Breathwork for nervous system calm and energetic regulation\n\t•	Grounding practices and body check-ins\n\t•	Somatic self-healing techniques\n\t•	Calming body scans and gentle nervous system support\n\t•	Drumming for grounding and connection\n\t•	Practical grounding tools for emotional and energetic balance\n\nThe intention of this circle is community support, shared healing time, and connection — for anyone navigating stress, fatigue, emotional overload, energetic sensitivity, or simply seeking a safe space to feel supported and understood. It is open to those who may be finding internal or external change difficult to navigate, those seeking harmony in the home or family field, or anyone who simply wants to connect, chat, or share this time in a meaningful way.\n\nThis circle is completely free for all, and is our dedicated weekly offering to the community. We hold the space for everyone with deep love, integrity, respect and healing intention.\n\nIf you’ve been feeling tender, tired, overwhelmed, energetically stretched, or simply in need of connection — come along and share this gentle half hour with us. A moment of healing, presence and community can change more than you think.\n\nYou are welcome. You are held. You are enough.",
         image:
-          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Heart-Led Healing.jpg",
         ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
       {
         slug: "self-healing-techniques",
@@ -1829,9 +1830,9 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         description:
           "Intuitive practices that empower self-awareness, energetic cleansing and internal balance.",
         image:
-          "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Energy Healing_.jpg",
         ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
     ],
     bottomContent: `### A Journey of Transformation
@@ -1877,7 +1878,7 @@ The original five-week rotational energetic foundation remains intact — now ex
         fullDescription:
           "This deeply nurturing and integrative treatment is designed for women in the preconception phase, offering physical, emotional, and energetic preparation for pregnancy. The Prenatal Massage Treatment at Holistic Rising combines ancient wisdom and therapeutic bodywork to regulate menstrual flow, enhance fertility, and support the body in its readiness to conceive.",
         image:
-          "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5594.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Prenatal Massage Treatment",
         benefits: [
@@ -1911,7 +1912,7 @@ The original five-week rotational energetic foundation remains intact — now ex
         fullDescription:
           "Our treatments go beyond the typical gentle stroking techniques often associated with maternity massage. While we use safe and soothing strokes, we also incorporate rhythmic and supportive techniques designed to relieve tension, mobilise the hips and ankles, and drain excess fluid — all of which are essential to ease the natural heaviness of pregnancy. We draw from light Swedish massage, lymphatic drainage, and gentle myofascial work, always adapted with care to suit each stage of pregnancy. These methods help reduce swelling, support circulation, ease back and pelvic discomfort, and promote restful sleep and emotional balance.",
         image:
-          "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5594.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Maternity Massage",
         benefits: [
@@ -1945,7 +1946,7 @@ The original five-week rotational energetic foundation remains intact — now ex
         fullDescription:
           "At Holistic Rising, our postnatal treatments are thoughtfully designed to support new mothers in healing holistically from the profound experience of birth—an experience that brings both transformation and new life into the world. In this nurturing space, we focus on rebalancing hormones using therapeutic oils and hot oil compresses, helping the body and mind return to a state of harmony.",
         image:
-          "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5594.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Book Postnatal Massage",
         benefits: [
@@ -2208,7 +2209,7 @@ The original five-week rotational energetic foundation remains intact — now ex
         fullDescription:
           "This All-Encompassing 90 min manual therapy treatment closely analyses the anatomical movement of the full body, whilst strategically selecting the most effective modalities to increase mobility & stimulate the body's natural healing mechanisms.",
         image:
-          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/DR_HR sports clinic_.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Full Body Reset",
         benefits: [
@@ -2236,7 +2237,7 @@ The original five-week rotational energetic foundation remains intact — now ex
         fullDescription:
           "This 1 hr Bespoke Treatment directly tackles habitually caused postural imabalances & primary areas of discomfort in the upper body. Aimed to increase mobility & reduce discomfort.",
         image:
-          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5600.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "AREA-FOCUSED SPORTS TREATMENT",
         benefits: [
@@ -2264,7 +2265,7 @@ The original five-week rotational energetic foundation remains intact — now ex
         fullDescription:
           "The Sports Massage offered at Holistic Rising is a highly effective, therapeutic treatment tailored for individuals who lead physically active lifestyles or engage in repetitive physical exertion. Whether you're a professional athlete, a dedicated gym-goer, a dancer, or someone with a physically demanding occupation, this treatment is designed to optimise muscular health, prevent injury, and aid recovery.",
         image:
-          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/DR_HR sports clinic_.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Sports Massage",
         benefits: [
@@ -2298,7 +2299,7 @@ The original five-week rotational energetic foundation remains intact — now ex
         fullDescription:
           "This advanced therapeutic treatment is tailored for those who demand more from their bodies — whether through physical work, high-intensity sport, or everyday strain. Combining the muscle-targeting techniques of sports massage with the detoxifying power of dry cupping, this therapy reaches areas that standard treatments often overlook.",
         image:
-          "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/IMG_5660.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Dynamic Sports Massage",
         benefits: [
@@ -2332,7 +2333,7 @@ The original five-week rotational energetic foundation remains intact — now ex
         fullDescription:
           "Our Sports and Stretch treatment is a focused, dynamic therapy designed to enhance the function and flexibility of one specific area of the body. This tailored session combines expert sports massage techniques with carefully guided stretching, both during the treatment and with personalised exercises for home practice.",
         image:
-          "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/Fluidity & Flexibility_.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Sports & Stretch",
         benefits: [
@@ -2366,7 +2367,7 @@ The original five-week rotational energetic foundation remains intact — now ex
         fullDescription:
           "Our Runner Specific Massage is a specialised treatment designed exclusively for runners of all levels—from beginners to seasoned marathoners. This focused therapy targets the key areas that bear the brunt of running: the feet, calves, shins, thighs, and glutes. It's tailored to address common running-related issues such as gait imbalances, muscle tightness, and the often-debilitating condition of shin splints.",
         image:
-          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1920&auto=format&fit=crop",
+          "/new_assets/DR_HR sports clinic_.jpg",
         videoId: "S_-e1AOuPug",
         ctaLabel: "Runner Specific Massage",
         benefits: [
