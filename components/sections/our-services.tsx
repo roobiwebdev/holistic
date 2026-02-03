@@ -13,7 +13,7 @@ It combines sports therapy, Thai massage, and Raynor massage to work deeply thro
 
 Sports massage is used to increase joint mobility and range of motion.
 Thai massage improves flexibility and works directly on the meridian system to clear energetic stagnation...`,
-    image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=800&auto=format&fit=crop",
+    image: "/new_assets/Trauma frequency 2.jpg",
     imageColor: "from-emerald-500/20 to-teal-500/20",
     route: "/trauma-treatment",
   },
@@ -21,7 +21,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "DR / HR Sports Clinic",
     description:
       "Designed by co-founder Diego Robinson, these high-performance, results-driven treatments aim to achieve measurable change in just one session. They combine elite-level sports therapy with biomechanical analysis, intuitive assessment, and functional movement expertise.",
-    image: "/images/services/sports-clinic.png",
+    image: "/new_assets/DR_HR sports clinic_.jpg",
     imageColor: "from-amber-500/20 to-orange-500/20",
     route: "/dr-hr-sports-london",
   },
@@ -29,7 +29,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "Energy Healing",
     description:
       "Subtle, intuitive work that supports energetic alignment and emotional rebalancing. This therapy can help bring clarity, calm, and connection to those seeking spiritual or emotional restoration.",
-    image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=800&auto=format&fit=crop",
+    image: "/new_assets/Energy healing.jpg",
     imageColor: "from-cyan-500/20 to-sky-500/20",
     route: "/energy-healing",
   },
@@ -37,7 +37,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "Holistic Therapies",
     description:
       "Unique to Holistic Rising, these sessions combine multiple modalities into one experience. Created by Maria Sarmiento, they are intuitively layered to meet each client where they are — emotionally, physically, and spiritually — helping to reset the system and bring about a deep state of mental and energetic restoration.",
-    image: "/images/services/holistic-treatments.png",
+    image: "/new_assets/Holistic Therapies.jpg",
     imageColor: "from-purple-500/20 to-blue-500/20",
     route: "/holistic-therapies",
   },
@@ -45,7 +45,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     title: "Natural Glow",
     description:
       "An integrative approach to skincare that nourishes both skin and spirit. Using all-natural products and conscious touch, these treatments aim to enhance your inner glow by supporting your body's natural beauty rhythms.",
-    image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=800&auto=format&fit=crop",
+    image: "/new_assets/Natural Glow.jpg",
     imageColor: "from-rose-500/20 to-pink-500/20",
     route: "/natural-glow",
   },
@@ -76,14 +76,14 @@ Thai massage improves flexibility and works directly on the meridian system to c
   {
     title: "Profound Trauma Release for Men",
     description: "For men ready to reclaim their body, reset their system and restore what survival once cost them. A profound return to presence, strength and embodied resilience.",
-    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=800&auto=format&fit=crop",
+    image: "/new_assets/Trauma release for men.jpg",
     imageColor: "from-blue-500/20 to-slate-500/20",
     route: "/services/profound-trauma-release-men",
   },
-    {
+  {
     title: "The Essence",
     description: "Maria Sarmiento’s signature treatment. A profound, intuitive journey that is the heart of Holistic Rising. This unique, multi-dimensional experience blends somatic bodywork, energetic alignment, and frequency healing to meet you exactly where you are—physically, energetically, and emotionally.",
-    image: "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=800&auto=format&fit=crop",
+    image: "/new_assets/The essence_.jpg",
     imageColor: "from-purple-500/20 to-indigo-500/20",
     route: "/the-essence",
   },
@@ -135,7 +135,7 @@ export function OurServices() {
                 <div
                   className={`h-64 w-full bg-neutral-900 relative overflow-hidden`}
                 >
-                   {service.image ? (
+                  {service.image ? (
                     <Image
                       src={service.image}
                       alt={service.title}
@@ -146,7 +146,7 @@ export function OurServices() {
                   ) : (
                     <div className={`absolute inset-0 bg-gradient-to-br ${service.imageColor}`} />
                   )}
-                  
+
                   <div className="absolute inset-0 bg-black/30 group-hover:bg-black/10 transition-colors duration-500" />
                   <Sparkles className="absolute top-4 right-4 w-6 h-6 text-white/70 group-hover:text-white transition-colors z-10" />
                 </div>
