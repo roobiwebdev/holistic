@@ -49,6 +49,7 @@ const NAV_GROUPS = [
     href: "/resources",
     items: [
       { label: "Blog", href: "/blog" },
+      { label: "Testimonials", href: "/testimonials" },
       { label: "Policies", href: "/policies" },
       { label: "Aftercare & Policies", href: "/aftercare-and-policies" },
       { label: "Gift Cards", href: "/gift-cards" },

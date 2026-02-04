@@ -43,6 +43,13 @@ export default function RootLayout({
             {children}
             <Footer />
             <VagaroScript />
+            <div id="popup-rating-widget">
+              <script
+                src="https://widget.reviewability.com/js/pop-widget-min.js"
+                type="application/widget-review-widget"
+                async>
+              </script>
+            </div>
           </BookingModalProvider>
         </ThemeProvider>
       </body>

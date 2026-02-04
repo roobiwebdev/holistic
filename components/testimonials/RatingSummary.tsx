@@ -13,7 +13,7 @@ export function RatingSummary({ summary }: RatingSummaryProps) {
   return (
     <div className="bg-card rounded-2xl p-6 md:p-8 shadow-sm border border-border mb-8 w-full max-w-4xl mx-auto">
       <div className="flex flex-col md:flex-row gap-8 items-center justify-between">
-        
+
         {/* Left: Overall Rating */}
         <div className="flex flex-col items-center md:items-start text-center md:text-left gap-2 min-w-[200px]">
           <div className="flex items-baseline gap-2">
@@ -59,15 +59,15 @@ export function RatingSummary({ summary }: RatingSummaryProps) {
 
         {/* Right: CTA */}
         <div className="flex flex-col gap-3 justify-center items-center md:items-end min-w-[200px]">
-           <Button 
+          <Button
             className="bg-primary hover:bg-primary/90 text-white rounded-full px-8 py-6 h-auto text-lg w-full md:w-auto shadow-lg shadow-primary/20 transition-all hover:scale-105"
             onClick={() => window.open('https://www.vagaro.com/holisticrisinghighstreet/reviews', '_blank')}
-           >
+          >
             Write a Review
-           </Button>
-           <p className="text-xs text-muted-foreground">
+          </Button>
+          {/* <p className="text-xs text-muted-foreground">
              via Vagaro.com
-           </p>
+           </p> */}
         </div>
 
       </div>
