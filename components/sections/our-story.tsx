@@ -8,10 +8,10 @@ export function OurStory() {
     <section className="relative py-24 md:py-32 bg-background overflow-hidden">
       {/* Decorative background elements */}
       <div className="absolute top-0 inset-x-0 h-px bg-gradient-to-r from-transparent via-primary/50 to-transparent opacity-50" />
-      
+
       <div className="container mx-auto px-6 relative z-10">
         <div className="flex flex-col items-center text-center max-w-4xl mx-auto">
-          
+
           {/* Title */}
           <motion.div
             initial={{ opacity: 0, y: 30 }}
@@ -55,8 +55,8 @@ export function OurStory() {
           </motion.div>
 
           {/* Locations Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-12 w-full max-w-3xl">
-            
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 w-full max-w-2xl">
+
             {/* London Column */}
             <motion.div
               initial={{ opacity: 0, x: -50 }}
@@ -66,7 +66,7 @@ export function OurStory() {
               className="flex flex-col items-center p-8 bg-card border border-white/5 rounded-2xl hover:border-primary/30 transition-colors duration-500 group"
             >
               <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
-                 <MapPin className="w-6 h-6 text-primary" />
+                <MapPin className="w-6 h-6 text-primary" />
               </div>
               <h4 className="font-serif text-2xl text-foreground mb-6">London</h4>
               <ul className="space-y-3 text-muted-foreground/80">
@@ -82,8 +82,8 @@ export function OurStory() {
               </ul>
             </motion.div>
 
-             {/* Dubai Column */}
-             <motion.div
+            {/* Dubai Column
+            <motion.div
               initial={{ opacity: 0, x: 50 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
@@ -91,7 +91,7 @@ export function OurStory() {
               className="flex flex-col items-center p-8 bg-card border border-white/5 rounded-2xl hover:border-primary/30 transition-colors duration-500 group"
             >
               <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
-                 <MapPin className="w-6 h-6 text-primary" />
+                <MapPin className="w-6 h-6 text-primary" />
               </div>
               <h4 className="font-serif text-2xl text-foreground mb-6">Dubai</h4>
               <ul className="space-y-3 text-muted-foreground/80">
@@ -100,10 +100,10 @@ export function OurStory() {
                   <span className="text-sm">Business Bay</span>
                 </li>
               </ul>
-            </motion.div>
+            </motion.div> */}
 
-{/* Essex Column */}
-             <motion.div
+            {/* Essex Column */}
+            <motion.div
               initial={{ opacity: 0, x: 50 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
@@ -111,7 +111,7 @@ export function OurStory() {
               className="flex flex-col items-center p-8 bg-card border border-white/5 rounded-2xl hover:border-primary/30 transition-colors duration-500 group"
             >
               <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mb-4 group-hover:bg-primary/20 transition-colors">
-                 <MapPin className="w-6 h-6 text-primary" />
+                <MapPin className="w-6 h-6 text-primary" />
               </div>
               <h4 className="font-serif text-2xl text-foreground mb-6">Essex</h4>
               <ul className="space-y-3 text-muted-foreground/80">

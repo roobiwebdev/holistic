@@ -25,13 +25,6 @@ const ALL_LOCATIONS = [
     address: "6 Hog Hill Road, Romford, RM5 2DH",
     mapUrl: "https://www.google.com/maps?q=6+Hog+Hill+Road,+Romford,+RM5+2DH&output=embed",
     image: "/new_assets/Romford clinic.jpeg"
-  },
-  {
-    region: "Dubai Clinic:",
-    name: "Business Bay",
-    address: "Business Bay, Dubai",
-    mapUrl: null, // No map URL provided yet
-    image: null
   }
 ];
 

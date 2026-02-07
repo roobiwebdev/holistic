@@ -69,16 +69,18 @@ export function Hero() {
         </div> */}
 
         {/* Main Heading */}
-        <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-white mb-6 leading-tight max-w-5xl tracking-normal animate-fade-in-up delay-100 font-semibold">
-          An Alternative <br />
-          Approach to <span className="italic text-primary font-bold">Healing</span>
+        <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-white mb-0 leading-tight max-w-5xl tracking-normal animate-fade-in-up delay-100 font-semibold">
+          Holistic Rising
         </h1>
+        <h2 className="font-serif text-5xl md:text-7xl lg:text-6xl text-white mb-12 leading-tight max-w-5xl tracking-normal animate-fade-in-up delay-100 font-semibold">
+          An Alternative Approach to <span className="italic text-primary font-bold">Healing</span>
+        </h2>
 
         {/* Subheading Description */}
-        <p className="font-sans text-white text-lg md:text-xl max-w-2xl mb-12 leading-relaxed animate-fade-in-up delay-200">
+        {/* <p className="font-sans text-white text-lg md:text-xl max-w-2xl mb-12 leading-relaxed animate-fade-in-up delay-200">
           A sanctuary for the soul, mind, and body. Rooted in ancient wisdom,
           designed for modern healing.
-        </p>
+        </p> */}
 
         {/* CTA Buttons */}
         <div className="flex flex-col md:flex-row items-center gap-6 animate-fade-in-up delay-300">

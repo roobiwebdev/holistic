@@ -7,12 +7,8 @@ import Link from "next/link";
 
 const SERVICES = [
   {
-    title: "Trauma Healing",
-    description: `This treatment, designed by founder Maria Sarmiento, creates a profound release of trauma throughout the body.
-It combines sports therapy, Thai massage, and Raynor massage to work deeply through the body's physical and energetic systems.
-
-Sports massage is used to increase joint mobility and range of motion.
-Thai massage improves flexibility and works directly on the meridian system to clear energetic stagnation...`,
+    title: "Trauma Release",
+    description: `This treatment, designed by founder Maria Sarmiento, creates a profound release of trauma throughout the body. It combines sports therapy, Thai massage, and Raynor massage to work deeply through the body's physical and energetic systems. 1. Sports massage increases joint mobility and range of motion. 2. Thai massage improves flexibility and works directly on the meridian system. 3. Raynor massage focuses on releasing the fascial lines and stored tension.`,
     image: "/new_assets/Trauma frequency 2.jpg",
     imageColor: "from-emerald-500/20 to-teal-500/20",
     route: "/trauma-treatment",
@@ -50,7 +46,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     route: "/natural-glow",
   },
   {
-    title: "2x4",
+    title: "2by4",
     description:
       "Experience the profound synergy of two therapists working fluidly with one client. This unique triad creates an energetic alchemy that allows for deep release and realignment. With skilled fascia stretching and an intuitive understanding of biomechanics and energetic balance, tension is gently eased from both agonist and antagonist muscles. The result is a decompressing, harmonising treatment that restores flow, space, and holistic wellbeing.",
     image: "/new_assets/Fluidity & Flexibility_.jpg",
@@ -66,7 +62,7 @@ Thai massage improves flexibility and works directly on the meridian system to c
     route: "/healing-movement",
   },
   {
-    title: "Maternal Massage",
+    title: "Maternity Massage",
     description:
       "Tailored care for mothers before and after birth, focusing on the mental and emotional needs of this sacred transition while offering physical comfort and support.",
     image: "/new_assets/IMG_5594.jpg",

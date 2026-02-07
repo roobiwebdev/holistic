@@ -25,12 +25,10 @@ export function OurPromise() {
             Our Promise
           </p>
           <h2 className="font-serif text-3xl md:text-5xl text-white font-bold leading-tight">
-            Modern healing meets grounded support.
+            At Holistic Rising, you will always be:
           </h2>
           <p className="mt-4 text-sm md:text-lg text-white/80 leading-relaxed">
-            We promise you a sanctuary where every layer of your being is
-            honored— physical, emotional, and energetic. This isn’t a quick fix;
-            it’s a bold invitation to feel supported, seen, and heard.
+            Healing is not a destination — it’s a path we walk together.
           </p>
         </div>
 
@@ -43,7 +41,7 @@ export function OurPromise() {
             className="rounded-3xl border border-white/10 bg-white/10 backdrop-blur-xl p-8 flex flex-col gap-6"
           >
             <p className="text-sm uppercase tracking-[0.3em] text-primary font-semibold">
-              Always with you
+              Our Promise
             </p>
             <div className="space-y-4">
               {promises.map((item) => (
@@ -56,10 +54,6 @@ export function OurPromise() {
                 </div>
               ))}
             </div>
-            <p className="text-xs text-white/70 leading-relaxed">
-              We hold space for your story, your shifts, and your healing
-              unfolding.
-            </p>
           </motion.div>
 
           <motion.div
@@ -70,12 +64,10 @@ export function OurPromise() {
             className="rounded-3xl bg-gradient-to-br from-primary/90 to-purple-500/70 p-8 flex flex-col justify-between text-white shadow-2xl shadow-primary/40"
           >
             <p className="text-sm uppercase tracking-[0.3em] text-white/70 mb-4">
-              What we believe
+              Our Philosophy
             </p>
-            <p className="font-serif text-2xl md:text-3xl font-bold leading-snug">
-              “Healing is not a destination—it’s a path we walk together. With
-              heart. With love. We help you remember that you are already
-              whole.”
+            <p className="font-serif text-xl md:text-2xl font-bold leading-snug">
+              “Healing is not a destination — it’s a path we walk together. With heart. With love. And with the belief that you are already whole — we’re just here to help you remember.”
             </p>
             <p className="text-xs uppercase tracking-[0.4em] text-white/60 mt-8">
               Holistic Rising
