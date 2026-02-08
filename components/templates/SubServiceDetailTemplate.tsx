@@ -2,7 +2,7 @@
 
 import { Navbar } from "@/components/layout/Navbar";
 import { motion } from "framer-motion";
-import { ArrowLeft, Check, Play } from "lucide-react";
+import { ArrowLeft, Check } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 import { SubService } from "@/lib/services-data";
@@ -12,20 +12,14 @@ interface SubServiceDetailTemplateProps {
   serviceTitle: string;
   serviceSlug: string;
   subservice: SubService;
-  serviceVideoId?: string; // Fallback to service hero video
 }
 
 export function SubServiceDetailTemplate({
   serviceTitle,
   serviceSlug,
   subservice,
-  serviceVideoId,
 }: SubServiceDetailTemplateProps) {
-  // Use sub-service video if available, otherwise fallback to service hero video
-  const videoId = subservice.videoId || serviceVideoId;
-  const videoEmbedUrl = videoId
-    ? `https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1`
-    : null;
+
 
   // Booking now handled by Vagaro widget - no need for bookingUrl
 
@@ -78,7 +72,7 @@ export function SubServiceDetailTemplate({
       <section className="py-16 md:py-24 px-6 bg-background">
         <div className="container mx-auto max-w-7xl">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-start">
-            {/* Left: Video or Image */}
+            {/* Left: Image Only */}
             <motion.div
               initial={{ opacity: 0, x: -20 }}
               whileInView={{ opacity: 1, x: 0 }}
@@ -86,17 +80,7 @@ export function SubServiceDetailTemplate({
               transition={{ duration: 0.6 }}
               className="order-2 lg:order-1"
             >
-              {videoEmbedUrl ? (
-                <div className="relative aspect-video rounded-2xl overflow-hidden bg-neutral-900 border border-white/10 shadow-2xl">
-                  <iframe
-                    src={videoEmbedUrl}
-                    className="absolute inset-0 w-full h-full"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-                    title={subservice.title}
-                  />
-                </div>
-              ) : subservice.image ? (
+              {subservice.image ? (
                 <div className="relative aspect-video rounded-2xl overflow-hidden bg-neutral-900 border border-white/10 shadow-2xl">
                   <Image
                     src={subservice.image}
@@ -109,9 +93,8 @@ export function SubServiceDetailTemplate({
                 </div>
               ) : (
                 <div className="relative aspect-video rounded-2xl overflow-hidden bg-neutral-900 border border-white/10 shadow-2xl flex items-center justify-center">
-                  <div className="text-center">
-                    <Play className="w-16 h-16 text-white/20 mx-auto mb-4" />
-                    <p className="text-white/40 text-sm">Video Coming Soon</p>
+                  <div className="text-center font-serif text-white/10 text-4xl italic">
+                    {subservice.title}
                   </div>
                 </div>
               )}
@@ -155,7 +138,7 @@ export function SubServiceDetailTemplate({
 
               {/* Pricing Section */}
               {subservice.pricingOptions &&
-              subservice.pricingOptions.length > 0 ? (
+                subservice.pricingOptions.length > 0 ? (
                 <div>
                   <h2 className="font-serif text-3xl md:text-4xl text-foreground font-bold mb-8">
                     Pricing

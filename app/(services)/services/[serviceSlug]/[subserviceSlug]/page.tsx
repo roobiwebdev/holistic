@@ -37,7 +37,6 @@ async function SubServiceDetailContent({
       serviceTitle={service.hero.title}
       serviceSlug={serviceSlug}
       subservice={subservice}
-      serviceVideoId={service.hero.youtubeVideoId}
     />
   );
 }
