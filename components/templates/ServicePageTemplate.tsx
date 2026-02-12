@@ -210,14 +210,6 @@ const ServiceCardComponent = memo(
     card: ServiceCardData;
     index: number;
   }) {
-    const [isExpanded, setIsExpanded] = useState(false);
-    const MAX_LENGTH = 150; // Characters before showing "read more"
-    const shouldTruncate = card.description.length > MAX_LENGTH;
-    const displayText =
-      shouldTruncate && !isExpanded
-        ? card.description.slice(0, MAX_LENGTH)
-        : card.description;
-
     const hasLink = !!card.link;
     const isPriority = index < 6; // Load first 6 images with priority
 
@@ -254,50 +246,17 @@ const ServiceCardComponent = memo(
             {card.title}
           </h3>
           <p className="text-white/70 text-sm md:text-base leading-relaxed flex-1 font-medium">
-            {displayText}
-            {shouldTruncate && (
-              <>
-                {!isExpanded && "..."}
-                <button
-                  onClick={(e) => {
-                    e.preventDefault();
-                    e.stopPropagation();
-                    setIsExpanded(!isExpanded);
-                  }}
-                  className="text-primary hover:text-primary/80 font-semibold ml-1 underline underline-offset-2 transition-colors"
-                >
-                  {isExpanded ? "Show less" : "Read more"}
-                </button>
-              </>
-            )}
+            {card.description}
           </p>
 
           {/* Button Design */}
           <div className="mt-6 md:mt-8 pt-4 md:pt-6 w-full border-t border-white/10">
-            {hasLink ? (
-              <div className="w-full rounded-full border border-white/10 bg-white/5 backdrop-blur-sm hover:border-primary/50 hover:bg-primary/10 hover:shadow-[0_0_20px_-5px_rgba(124,58,237,0.5)] flex justify-between items-center px-4 md:px-6 py-3 md:py-4 text-sm md:text-base font-bold transition-all duration-200 group/btn text-white cursor-pointer relative overflow-hidden">
-                <span className="relative z-10 truncate">
-                  {card.ctaLabel || "More Info"}
-                </span>
-                <ArrowRight className="w-4 h-4 md:w-5 md:h-5 transition-transform group-hover/btn:translate-x-1 relative z-10 flex-shrink-0 ml-2" />
-              </div>
-            ) : (
-              <div
-                className="w-full rounded-full border border-white/10 bg-white/5 backdrop-blur-sm hover:border-primary/50 hover:bg-primary/10 hover:shadow-[0_0_20px_-5px_rgba(124,58,237,0.5)] flex justify-between items-center px-4 md:px-6 py-3 md:py-4 text-sm md:text-base font-bold transition-all duration-200 group/btn text-white/50 cursor-pointer relative overflow-hidden"
-                onClick={(e) => {
-                  e.preventDefault();
-                  setIsExpanded(!isExpanded);
-                }}
-              >
-                <span className="relative z-10">
-                  {isExpanded ? "Show Less" : "Read More"}
-                </span>
-                <ArrowRight
-                  className={`w-4 h-4 md:w-5 md:h-5 transition-transform duration-200 relative z-10 flex-shrink-0 ml-2 ${isExpanded ? "-rotate-90" : "group-hover/btn:translate-x-1"
-                    }`}
-                />
-              </div>
-            )}
+            <div className="w-full rounded-full border border-white/10 bg-white/5 backdrop-blur-sm hover:border-primary/50 hover:bg-primary/10 hover:shadow-[0_0_20px_-5px_rgba(124,58,237,0.5)] flex justify-between items-center px-4 md:px-6 py-3 md:py-4 text-sm md:text-base font-bold transition-all duration-200 group/btn text-white cursor-pointer relative overflow-hidden">
+              <span className="relative z-10 truncate">
+                {card.ctaLabel || "More Info"}
+              </span>
+              <ArrowRight className="w-4 h-4 md:w-5 md:h-5 transition-transform group-hover/btn:translate-x-1 relative z-10 flex-shrink-0 ml-2" />
+            </div>
           </div>
         </div>
       </>
