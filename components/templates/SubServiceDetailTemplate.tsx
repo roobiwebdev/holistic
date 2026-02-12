@@ -4,7 +4,6 @@ import { Navbar } from "@/components/layout/Navbar";
 import { motion } from "framer-motion";
 import { ArrowLeft, Check } from "lucide-react";
 import Link from "next/link";
-import Image from "next/image";
 import { SubService } from "@/lib/services-data";
 import { VagaroBookButton } from "@/components/booking/VagaroBookButton";
 
@@ -70,135 +69,101 @@ export function SubServiceDetailTemplate({
 
       {/* Main Content Section */}
       <section className="py-16 md:py-24 px-6 bg-background">
-        <div className="container mx-auto max-w-7xl">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-start">
-            {/* Left: Image Only */}
-            <motion.div
-              initial={{ opacity: 0, x: -20 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.6 }}
-              className="order-2 lg:order-1"
-            >
-              {subservice.image ? (
-                <div className="relative aspect-video rounded-2xl overflow-hidden bg-neutral-900 border border-white/10 shadow-2xl">
-                  <Image
-                    src={subservice.image}
-                    alt={subservice.title}
-                    fill
-                    className="object-cover"
-                    sizes="(max-width: 1024px) 100vw, 50vw"
-                    quality={90}
-                  />
+        <div className="container mx-auto max-w-4xl">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="space-y-16"
+          >
+            {/* Benefits Section */}
+            {subservice.benefits && subservice.benefits.length > 0 && (
+              <div>
+                <h2 className="font-serif text-3xl md:text-4xl text-foreground font-bold mb-8 text-center">
+                  Benefits
+                </h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-6">
+                  {subservice.benefits.map((benefit, index) => (
+                    <motion.div
+                      key={index}
+                      initial={{ opacity: 0, x: -10 }}
+                      whileInView={{ opacity: 1, x: 0 }}
+                      viewport={{ once: true }}
+                      transition={{ duration: 0.4, delay: index * 0.05 }}
+                      className="flex items-start gap-4 text-muted-foreground"
+                    >
+                      <div className="flex-shrink-0 w-6 h-6 rounded-full bg-primary/20 flex items-center justify-center mt-1">
+                        <Check className="w-4 h-4 text-primary" />
+                      </div>
+                      <span className="text-base md:text-lg leading-relaxed">
+                        {benefit}
+                      </span>
+                    </motion.div>
+                  ))}
                 </div>
-              ) : (
-                <div className="relative aspect-video rounded-2xl overflow-hidden bg-neutral-900 border border-white/10 shadow-2xl flex items-center justify-center">
-                  <div className="text-center font-serif text-white/10 text-4xl italic">
-                    {subservice.title}
-                  </div>
-                </div>
-              )}
-            </motion.div>
+              </div>
+            )}
 
-            {/* Right: Benefits and Pricing */}
-            <motion.div
-              initial={{ opacity: 0, x: 20 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.6 }}
-              className="order-1 lg:order-2 space-y-12"
-            >
-              {/* Benefits Section */}
-              {subservice.benefits && subservice.benefits.length > 0 && (
-                <div>
-                  <h2 className="font-serif text-3xl md:text-4xl text-foreground font-bold mb-8">
-                    Benefits
-                  </h2>
-                  <ul className="space-y-4">
-                    {subservice.benefits.map((benefit, index) => (
-                      <motion.li
-                        key={index}
-                        initial={{ opacity: 0, x: 10 }}
-                        whileInView={{ opacity: 1, x: 0 }}
-                        viewport={{ once: true }}
-                        transition={{ duration: 0.4, delay: index * 0.1 }}
-                        className="flex items-start gap-4 text-muted-foreground"
-                      >
-                        <div className="flex-shrink-0 w-6 h-6 rounded-full bg-primary/20 flex items-center justify-center mt-1">
-                          <Check className="w-4 h-4 text-primary" />
+            {/* Pricing Section */}
+            {subservice.pricingOptions &&
+              subservice.pricingOptions.length > 0 ? (
+              <div>
+                <h2 className="font-serif text-3xl md:text-4xl text-foreground font-bold mb-8 text-center">
+                  Pricing & Booking
+                </h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                  {subservice.pricingOptions.map((option, index) => (
+                    <motion.div
+                      key={index}
+                      initial={{ opacity: 0, y: 10 }}
+                      whileInView={{ opacity: 1, y: 0 }}
+                      viewport={{ once: true }}
+                      transition={{ duration: 0.4, delay: index * 0.1 }}
+                      className="bg-card border border-white/10 rounded-2xl p-6 md:p-8 hover:border-primary/30 transition-all duration-300 flex flex-col h-full"
+                    >
+                      <div className="flex flex-col gap-2 mb-6 flex-grow">
+                        <div>
+                          <h3 className="font-serif text-xl md:text-2xl text-foreground font-bold mb-1">
+                            {option.duration}
+                          </h3>
                         </div>
-                        <span className="text-base md:text-lg leading-relaxed">
-                          {benefit}
-                        </span>
-                      </motion.li>
-                    ))}
-                  </ul>
-                </div>
-              )}
-
-              {/* Pricing Section */}
-              {subservice.pricingOptions &&
-                subservice.pricingOptions.length > 0 ? (
-                <div>
-                  <h2 className="font-serif text-3xl md:text-4xl text-foreground font-bold mb-8">
-                    Pricing
-                  </h2>
-                  <div className="space-y-4">
-                    {subservice.pricingOptions.map((option, index) => (
-                      <motion.div
-                        key={index}
-                        initial={{ opacity: 0, y: 10 }}
-                        whileInView={{ opacity: 1, y: 0 }}
-                        viewport={{ once: true }}
-                        transition={{ duration: 0.4, delay: index * 0.1 }}
-                        className="bg-card border border-white/10 rounded-2xl p-6 md:p-8 hover:border-primary/30 transition-all duration-300"
-                      >
-                        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
-                          <div>
-                            <h3 className="font-serif text-xl md:text-2xl text-foreground font-bold mb-1">
-                              {subservice.title}
-                            </h3>
-                            <p className="text-muted-foreground">
-                              {option.duration}
-                            </p>
-                          </div>
-                          <div className="text-right">
-                            <p className="font-serif text-2xl md:text-3xl text-primary font-bold">
-                              {option.price}
-                            </p>
-                          </div>
+                        <div className="">
+                          <p className="font-serif text-2xl md:text-3xl text-primary font-bold">
+                            {option.price}
+                          </p>
                         </div>
-                        <VagaroBookButton
-                          variant="premium"
-                          size="lg"
-                          className="w-full font-bold"
-                          bookingUrl={option.bookingUrl}
-                        >
-                          Book Now
-                        </VagaroBookButton>
-                      </motion.div>
-                    ))}
-                  </div>
+                      </div>
+                      <VagaroBookButton
+                        variant="premium"
+                        size="lg"
+                        className="w-full font-bold"
+                        bookingUrl={option.bookingUrl}
+                      >
+                        Book Now
+                      </VagaroBookButton>
+                    </motion.div>
+                  ))}
                 </div>
-              ) : (
-                <motion.div
-                  initial={{ opacity: 0, y: 10 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  viewport={{ once: true }}
-                  transition={{ duration: 0.4 }}
-                  className="bg-card border border-white/10 rounded-2xl p-6 md:p-8"
+              </div>
+            ) : (
+              <motion.div
+                initial={{ opacity: 0, y: 10 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.4 }}
+                className="max-w-md mx-auto"
+              >
+                <VagaroBookButton
+                  variant="premium"
+                  size="lg"
+                  className="w-full font-bold"
                 >
-                  <VagaroBookButton
-                    variant="premium"
-                    size="lg"
-                    className="w-full font-bold"
-                  >
-                    Book a Session
-                  </VagaroBookButton>
-                </motion.div>
-              )}
-            </motion.div>
-          </div>
+                  Book a Session
+                </VagaroBookButton>
+              </motion.div>
+            )}
+          </motion.div>
         </div>
       </section>
     </main>
