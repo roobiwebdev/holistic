@@ -1974,40 +1974,6 @@ The original five-week rotational energetic foundation remains intact — now ex
         ],
       },
       {
-        slug: "feet-hand-therapy-deep-tissue",
-        title: "Feet Therapy or Hand Therapy & Therapeutic Deep Tissue Massage",
-        description:
-          "Indulge and restore with our deeply nourishing Feet or Hand Therapy, thoughtfully combined with a therapeutic deep tissue massage to create a full-body sense of release, balance, and renewal. This bespoke treatment begins with your choice of focused therapy for the hands or feet — areas that often work harder than any other part of the body and carry a surprising amount of tension.",
-        fullDescription:
-          "Indulge and restore with our deeply nourishing Feet or Hand Therapy, thoughtfully combined with a therapeutic deep tissue massage to create a full-body sense of release, balance, and renewal. This bespoke treatment begins with your choice of focused therapy for the hands or feet — areas that often work harder than any other part of the body and carry a surprising amount of tension.",
-        image:
-          "/new_assets/IMG_5707.jpg",
-        ctaLabel:
-          "Feet Therapy or Hand Therapy & Therapeutic Deep Tissue Massage",
-        benefits: [
-          "Deeply nourishing therapy",
-          "Choice of feet or hand therapy",
-          "Combined with therapeutic deep tissue massage",
-          "Full-body sense of release",
-          "Creates balance and renewal",
-          "Addresses areas that carry tension",
-        ],
-        pricingOptions: [
-          {
-            duration: "90 minutes",
-            price: "£120.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "120 minutes",
-            price: "£160.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
-      {
         slug: "sculpt-ayurveda-face-lift",
         title: "Sculpt & Ayurveda Face Lift",
         description:
@@ -2111,7 +2077,7 @@ The original five-week rotational energetic foundation remains intact — now ex
   {
     slug: "dr-hr-sports-london",
     hero: {
-      title: "DR / HR Sports Clinic \u2013 Specialist Sports Treatments",
+      title: "DR / HR Sports",
       subtitle: "Sports Massage and Treatments",
       description:
         "Designed by co-founder Diego Robinson, these high-performance, results-driven treatments aim to achieve measurable change in just one session. They combine elite-level sports therapy with biomechanical analysis, intuitive assessment, and functional movement expertise.",
@@ -2119,188 +2085,232 @@ The original five-week rotational energetic foundation remains intact — now ex
     },
     subservices: [
       {
-        slug: "full-body-reset",
-        title: "Full Body Reset",
-        description:
-          "This All-Encompassing 90 min manual therapy treatment closely analyses the anatomical movement of the full body, whilst strategically selecting the most effective modalities to increase mobility & stimulate the body's natural healing mechanisms.",
-        fullDescription:
-          "This All-Encompassing 90 min manual therapy treatment closely analyses the anatomical movement of the full body, whilst strategically selecting the most effective modalities to increase mobility & stimulate the body's natural healing mechanisms.",
-        image:
-          "/new_assets/DR_HR sports clinic_.jpg",
-        ctaLabel: "Full Body Reset",
-        benefits: [
-          "All-encompassing 90 min treatment",
-          "Closely analyses anatomical movement",
-          "Strategically selects effective modalities",
-          "Increases mobility",
-          "Stimulates natural healing mechanisms",
-          "Comprehensive full body approach",
-        ],
-        pricingOptions: [
-          {
-            duration: "90 minutes",
-            price: "£120.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
-      {
-        slug: "area-focused-sports-treatment",
-        title: "AREA-FOCUSED SPORTS TREATMENT",
-        description:
-          "This 1 hr Bespoke Treatment directly tackles habitually caused postural imabalances & primary areas of discomfort in the upper body. Aimed to increase mobility & reduce discomfort.",
-        fullDescription:
-          "This 1 hr Bespoke Treatment directly tackles habitually caused postural imabalances & primary areas of discomfort in the upper body. Aimed to increase mobility & reduce discomfort.",
-        image:
-          "/new_assets/IMG_5737.jpg",
-        ctaLabel: "AREA-FOCUSED SPORTS TREATMENT",
-        benefits: [
-          "1 hr bespoke treatment",
-          "Tackles postural imbalances",
-          "Addresses primary areas of discomfort",
-          "Focuses on upper body",
-          "Increases mobility",
-          "Reduces discomfort",
-        ],
-        pricingOptions: [
-          {
-            duration: "60 minutes",
-            price: "£80.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
-      {
         slug: "sports-massage",
-        title: "Sports Massage",
+        title: "Sports Massage – Performance, Recovery, and Injury Prevention",
         description:
-          "The Sports Massage offered at Holistic Rising is a highly effective, therapeutic treatment tailored for individuals who lead physically active lifestyles or engage in repetitive physical exertion. Whether you're a professional athlete, a dedicated gym-goer, a dancer, or someone with a physically demanding occupation, this treatment is designed to optimise muscular health, prevent injury, and aid recovery.",
+          "The Sports Massage offered at Holistic Rising is a highly effective, therapeutic treatment tailored for individuals who lead physically active lifestyles or engage in repetitive physical exertion. Whether you’re a professional athlete, a dedicated gym-goer, a dancer, or someone with a physically demanding occupation, this treatment is designed to optimise muscular health, prevent injury, and aid recovery.",
         fullDescription:
-          "The Sports Massage offered at Holistic Rising is a highly effective, therapeutic treatment tailored for individuals who lead physically active lifestyles or engage in repetitive physical exertion. Whether you're a professional athlete, a dedicated gym-goer, a dancer, or someone with a physically demanding occupation, this treatment is designed to optimise muscular health, prevent injury, and aid recovery.",
-        image:
-          "/new_assets/IMG_5738.jpg",
+          "What is Sports Massage?\n\nSports massage is a deep, focused bodywork technique that targets specific muscle groups, connective tissue, and joints. It incorporates techniques such as deep tissue manipulation, trigger point therapy, myofascial release, and passive stretching to break down muscular tension, restore mobility, and realign soft tissue imbalances caused by physical activity.\n\nKey Benefits:\n• Reduces muscle soreness and fatigue post-exercise\n• Prevents injury by improving flexibility and addressing tightness before it becomes problematic\n• Accelerates recovery time after intense physical exertion or sports training\n• Enhances athletic performance by maintaining muscular efficiency and joint mobility\n• Improves circulation, allowing for better oxygen and nutrient delivery to tissues\n• Breaks down scar tissue and adhesions formed from repetitive strain or past injury\n• Eases chronic pain and supports rehabilitation of old injuries\n\nWho is it for?\nThis treatment is ideal for:\n• Athletes and gym users at any level\n• Dancers, martial artists, and performers who rely on physical agility\n• Manual labourers or individuals in physically intense occupations\n• Office workers or drivers with repetitive posture-related strain\n• Individuals recovering from sports-related injuries\n• Anyone looking to improve range of motion, muscle tone, and postural alignment\n\nWhat to Expect:\nYour practitioner will assess your physical concerns and tailor the treatment to your body’s needs, focusing on the muscle groups most affected by your activity or lifestyle. Expect a combination of dynamic pressure, stretching, and releasing techniques that may feel intense but are deeply therapeutic.\n\nYou may experience a sense of lightness, improved posture, and a marked reduction in muscular discomfort after just one session. Regular treatments are highly recommended for those wishing to maintain their physical performance and muscular health over time.",
+        image: "/new_assets/IMG_5738.jpg",
         ctaLabel: "Sports Massage",
         benefits: [
-          "Highly effective therapeutic treatment",
-          "Tailored for active lifestyles",
-          "Optimises muscular health",
-          "Prevents injury",
-          "Aids recovery",
-          "Suitable for athletes, gym-goers, dancers",
+          "Reduces muscle soreness and fatigue post-exercise",
+          "Prevents injury by improving flexibility and addressing tightness",
+          "Accelerates recovery time after intense physical exertion",
+          "Enhances athletic performance by maintaining muscular efficiency",
+          "Improves circulation and oxygen delivery to tissues",
+          "Breaks down scar tissue and adhesions",
+          "Eases chronic pain and supports rehabilitation",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
             price: "£80.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
             price: "£110.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
       {
         slug: "dynamic-sports-massage-cupping-therapy",
-        title: "Dynamic Sports Massage & Cupping Therapy",
+        title: "Dynamic Sports Massage & Cupping Therapy – Deep Detox & Performance Recovery",
         description:
-          "This advanced therapeutic treatment is tailored for those who demand more from their bodies — whether through physical work, high-intensity sport, or everyday strain. Combining the muscle-targeting techniques of sports massage with the detoxifying power of dry cupping, this therapy reaches areas that standard treatments often overlook.",
+          "This advanced therapeutic treatment is tailored for those who demand more from their bodies — whether through physical work, high-intensity sport, or everyday strain. Combining the muscle-targeting techniques of sports massage with the detoxifying power of dry cupping, this therapy reaches areas that standard treatments often overlook. The fusion of these two practices supports total muscular recovery, drains built-up stagnation, and restores physical balance, while helping to prevent future injury.",
         fullDescription:
-          "This advanced therapeutic treatment is tailored for those who demand more from their bodies — whether through physical work, high-intensity sport, or everyday strain. Combining the muscle-targeting techniques of sports massage with the detoxifying power of dry cupping, this therapy reaches areas that standard treatments often overlook.",
-        image:
-          "/new_assets/IMG_5739.jpg",
+          "How it works?\nThe session begins with a bespoke sports massage, focusing on key muscle groups affected by repetitive strain, overuse, or lack of mobility. Using techniques such as kneading, friction, compression, and trigger point therapy, this phase helps to release lactic acid, ease tightness, and promote flexibility.\n\nFollowing this, dry cupping is applied to strategic points of tension. The cups create a gentle vacuum that lifts the skin and underlying fascia, enhancing lymphatic flow, encouraging cellular renewal, and helping to remove metabolic waste that may be contributing to fatigue or pain.\n\nTherapeutic Benefits:\n• Breaks down stubborn muscular knots and adhesions\n• Encourages a natural detox process through improved circulation\n• Relieves symptoms of stagnation, such as dull aches and heavy limbs\n• Reduces inflammation and calms nerve-related discomfort\n• Aids in injury prevention and post-workout recovery\n• Improves joint mobility, especially in hips, shoulders, and lower back\n• Can support relief from sciatica, plantar fasciitis, neck pain, and tight calves\n• Helps realign posture and supports greater body awareness\n\nWhat to Expect:\nThis is an invigorating yet therapeutic treatment. The sports massage element delivers deep and precise work to muscle layers, while the cupping introduces a lighter, lifting sensation that many describe as both unusual and deeply relieving.\n\nUnlike the compressive pressure of massage alone, cupping allows the tissue to decompress, offering a different kind of release that can shift long-held blockages. Some clients may notice light circular marks afterwards — a natural result of the detoxification process, usually fading within a few days.\n\nWho Can Benefit?\nThis combination therapy is perfect for:\n• Athletes and performers in training or recovery\n• Clients with repetitive strain injuries or long-term tension\n• Those suffering from sluggish circulation, chronic inflammation, or poor lymph drainage\n• Anyone with a sedentary job looking to awaken the body and release tension\n• Individuals on a weight loss or detox programme, as it assists natural elimination processes",
+        image: "/new_assets/IMG_5739.jpg",
         ctaLabel: "Dynamic Sports Massage",
         benefits: [
-          "Advanced therapeutic treatment",
-          "Combines sports massage with cupping",
-          "Detoxifying power of dry cupping",
-          "Reaches areas standard treatments overlook",
-          "Tailored for high-intensity demands",
-          "Muscle-targeting techniques",
+          "Breaks down stubborn muscular knots and adhesions",
+          "Encourages a natural detox process through improved circulation",
+          "Relieves symptoms of stagnation, dull aches and heavy limbs",
+          "Reduces inflammation and calms nerve-related discomfort",
+          "Aids in injury prevention and post-workout recovery",
+          "Improves joint mobility in hips, shoulders, and lower back",
+          "Helps realign posture and supports greater body awareness",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
-            price: "£80.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£90.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
-            price: "£110.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£120.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
       {
         slug: "sports-stretch",
-        title: "Sports & Stretch",
+        title: "Sports and Stretch – Targeted Performance and Flexibility",
         description:
           "Our Sports and Stretch treatment is a focused, dynamic therapy designed to enhance the function and flexibility of one specific area of the body. This tailored session combines expert sports massage techniques with carefully guided stretching, both during the treatment and with personalised exercises for home practice.",
         fullDescription:
-          "Our Sports and Stretch treatment is a focused, dynamic therapy designed to enhance the function and flexibility of one specific area of the body. This tailored session combines expert sports massage techniques with carefully guided stretching, both during the treatment and with personalised exercises for home practice.",
-        image:
-          "/new_assets/IMG_5741.jpg",
-        ctaLabel: "Sports & Stretch",
+          "What the Treatment Involves?\nDuring the session, your therapist will work closely with you to identify a particular muscle group or joint that requires attention — whether it’s tight hamstrings, restricted shoulders, stiff calves, or a problematic lower back. The treatment blends sports massage techniques such as deep tissue work, trigger point release, and myofascial release with active and passive stretches specifically suited to that area.\n\nThe stretches used may include:\n• Static stretching to improve muscle length and reduce tightness\n• PNF (Proprioceptive Neuromuscular Facilitation) stretching to increase flexibility by alternating contraction and relaxation of muscles\n• Dynamic stretches to promote movement through a full range of motion\n• Assisted or partner stretches to deepen release safely\n\nHow Sports and Stretch Work Together\nThe massage component targets adhesions, knots, and muscular tension that restrict movement, preparing the muscles for stretching. The stretches then help to lengthen and realign these tissues, improving elasticity and joint mobility. This harmonious combination encourages the body to move more freely and efficiently, reducing the risk of injury and enhancing overall performance.\n\nYou will also receive a personalised stretching routine to continue at home, ensuring lasting benefits and empowering you to maintain your mobility and reduce future discomfort.\n\nBenefits of Sports and Stretch\n• Improves flexibility and range of motion in targeted areas\n• Releases muscular tension and reduces the risk of injury\n• Enhances muscle recovery after intense activity or strain\n• Increases circulation and promotes efficient movement patterns\n• Supports posture correction by releasing tight muscles and realigning joints\n• Ideal for athletes, dancers, manual workers, or anyone experiencing stiffness or mobility restrictions\n• Helps maintain long-term joint health and muscular balance",
+        image: "/new_assets/IMG_5741.jpg",
+        ctaLabel: "Sports and Stretch",
         benefits: [
-          "Focused, dynamic therapy",
-          "Enhances function and flexibility",
-          "Targets one specific area",
-          "Combines sports massage with stretching",
-          "Includes personalised home exercises",
-          "Expert techniques",
+          "Improves flexibility and range of motion in targeted areas",
+          "Releases muscular tension and reduces the risk of injury",
+          "Enhances muscle recovery after intense activity or strain",
+          "Increases circulation and promotes efficient movement patterns",
+          "Supports posture correction by realigning joints",
+          "Maintains long-term joint health and muscular balance",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
-            price: "£80.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£90.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
-            price: "£110.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£120.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
       {
         slug: "runner-specific-massage",
-        title: "Runner Specific Massage",
+        title: "Runner Specific Massage – Targeted Care for Feet, Legs, Thighs, and Glutes",
         description:
-          "Our Runner Specific Massage is a specialised treatment designed exclusively for runners of all levels—from beginners to seasoned marathoners. This focused therapy targets the key areas that bear the brunt of running: the feet, calves, shins, thighs, and glutes. It's tailored to address common running-related issues such as gait imbalances, muscle tightness, and the often-debilitating condition of shin splints.",
+          "Our Runner Specific Massage is a specialised treatment designed exclusively for runners of all levels—from beginners to seasoned marathoners. This focused therapy targets the key areas that bear the brunt of running: the feet, calves, shins, thighs, and glutes. It’s tailored to address common running-related issues such as gait imbalances, muscle tightness, and the often-debilitating condition of shin splints.",
         fullDescription:
-          "Our Runner Specific Massage is a specialised treatment designed exclusively for runners of all levels—from beginners to seasoned marathoners. This focused therapy targets the key areas that bear the brunt of running: the feet, calves, shins, thighs, and glutes. It's tailored to address common running-related issues such as gait imbalances, muscle tightness, and the often-debilitating condition of shin splints.",
-        image:
-          "/new_assets/IMG_5743.jpg",
+          "Why Runners Need This Treatment\nRunning places repetitive strain on muscles, tendons, and joints, frequently leading to overuse injuries, discomfort, and mobility restrictions. This massage supports your body in coping with these demands, promoting quicker recovery, injury prevention, and enhanced performance.\n\nRunners often develop tightness in the calves and thighs, imbalance in the glute muscles, or poor foot mechanics that can affect their gait, leading to further strain or injury. The Runner Specific Massage works deeply to release tension, improve circulation, and restore balance, helping to keep you moving smoothly and efficiently.\n\nWhat the Treatment Involves\n• Targeted Massage of Feet, Calves, Shins, Thighs, and Glutes: Focused techniques relieve muscle knots, ease stiffness, and encourage healthy blood flow to speed up recovery\n• Assessment and Correction of Gait Issues: The therapist evaluates muscle imbalances and tension patterns that may contribute to inefficient running mechanics and discomfort\n• Stretches and Mobility Exercises: Specific stretches are applied during the session to lengthen tight muscles, improve flexibility, and restore proper alignment\n• Relief from Shin Splints: Careful work around the shins reduces inflammation and muscle tightness, a common complaint among runners that can otherwise sideline training\n• Advice on post-run care and injury prevention tailored to your unique needs\n\nBenefits of Runner Specific Massage\n• Reduces muscle soreness and accelerates recovery post-run\n• Minimises the risk of common injuries like shin splints, IT band syndrome, and hamstring strains\n• Enhances overall running performance by improving muscle function and joint mobility\n• Corrects gait imbalances that can lead to chronic issues\n• Increases range of motion in hips, knees, and ankles, improving stride efficiency\n• Promotes mental relaxation and focus, essential for training endurance",
+        image: "/new_assets/IMG_5743.jpg",
         ctaLabel: "Runner Specific Massage",
         benefits: [
-          "Specialised for runners of all levels",
-          "Targets feet, calves, shins, thighs, and glutes",
-          "Addresses gait imbalances",
-          "Reduces muscle tightness",
-          "Helps with shin splints",
-          "Focused therapy for running-specific issues",
+          "Reduces muscle soreness and accelerates recovery post-run",
+          "Minimises the risk of common injuries like shin splints",
+          "Enhances running performance by improving muscle function",
+          "Corrects gait imbalances that can lead to chronic issues",
+          "Increases range of motion in hips, knees, and ankles",
+          "Promotes mental relaxation and focus for endurance",
+        ],
+        pricingOptions: [
+          {
+            duration: "60 minutes",
+            price: "£90.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "specialised-hands-therapy",
+        title: "Specialised Hands Therapy",
+        description:
+          "This is a specialised treatment designed for individuals experiencing difficulty mobilising the hands, arms, and shoulders. It combines Thai healing techniques, Raynor massage, and physiotherapy-based mobility work to address the fascia lines of the upper limbs, helping to restore movement, reduce discomfort, and improve strength and flexibility.",
+        image: "/new_assets/IMG_5660.jpg",
+        ctaLabel: "Specialised Hands Therapy",
+        benefits: [
+          "Restores movement, reduces discomfort, and improves strength",
+          "Combines Thai healing techniques and Raynor massage",
+          "Includes physiotherapy-based mobility work",
+          "Addresses fascia lines of the upper limbs",
+          "Ideal for individuals with difficulty mobilising hands/arms",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
             price: "£80.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
             price: "£110.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "feet-hand-therapy-deep-tissue",
+        title: "Feet Therapy or Hand Therapy & Therapeutic Deep Tissue Massage",
+        description:
+          "Indulge and restore with our deeply nourishing Feet or Hand Therapy, thoughtfully combined with a therapeutic deep tissue massage to create a full-body sense of release, balance, and renewal. This bespoke treatment begins with your choice of focused therapy for the hands or feet — areas that often work harder than any other part of the body and carry a surprising amount of tension.",
+        fullDescription:
+          "Key Benefits\nWe tailor the session using a variety of advanced techniques, including:\n• Traditional Thai reflexology\n• Hot stone reflexology\n• Fascia release therapy, targeting specific concerns such as arthritis, osteoporosis, or joint impingements in the smaller bones of the hands and feet\n\nReflexology in this treatment goes beyond relaxation; it is used to rejuvenate the internal body as a whole by stimulating key meridians and energy lines. By activating these reflex points, the therapy supports the body’s natural healing processes, helping to restore energetic flow and balance across all systems.\n\nThese specialised methods work to untangle restriction, promote circulation, and free the delicate yet vital structures within the extremities. As the session continues, it is seamlessly blended with a therapeutic deep tissue massage, allowing the rest of the body to benefit from the improved energetic and structural flow initiated in the hands or feet.\n\nAs the extremities open and release, the body responds with greater efficiency and fluidity — a ripple effect that grounds, centres, and rejuvenates. Giving focused attention to these often-overlooked areas invites a deep and wholesome sense of well-being that radiates throughout the entire body.",
+        image: "/new_assets/IMG_5707.jpg",
+        ctaLabel: "Feet & Hand Therapy",
+        benefits: [
+          "Traditional Thai reflexology",
+          "Hot stone reflexology",
+          "Fascia release therapy for arthritis and osteoporosis",
+          "Rejuvenates the internal body by stimulating meridians",
+          "Blended with therapeutic deep tissue massage",
+          "Grounds, centres, and rejuvenates the entire body",
+        ],
+        pricingOptions: [
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "specialised-sports-feet-ankle-therapy",
+        title: "Specialised SpORTS Feet & ANKLE Therapy",
+        description:
+          "This is a specialised foot and ankle treatment that combines traditional Thai reflexology with Raynor massage to target the fascia lines in small areas such as the toes, hands, and wrists. The therapy is designed to improve mobility, ease discomfort, and restore movement, particularly in the feet and ankles. Ideal for people who frequently use their hands, those with physically demanding, standing jobs, and especially dancers, this treatment enhances foot and ankle stability and balance. By improving mobility in these areas, it reduces pressure on the knees and hips, safeguarding the body’s overall alignment.",
+        fullDescription:
+          "Benefits\nThis therapy helps to minimise and reduce a variety of ailments including:\n• Osteoporosis\n• Arthritis and general joint pain\n• Tired, achy feet and ankles from prolonged standing or walking\n• Swelling and inflammation in the lower limbs\n• Plantar fasciitis and other foot-related discomforts\n• Poor circulation and stiffness\n• Muscle tension and cramps in the feet and calves\n• Symptoms related to multiple sclerosis (MS) and other neurological conditions affecting limb mobility.\n\nAdditionally, the treatment works with the body’s energy lines and meridians, restoring energetic balance, and stimulates lymphatic drainage in the feet and toes, helping to alleviate swelling and promote detoxification.\n\nThis specialised treatment supports physical mobility and energetic wellbeing, leaving clients feeling balanced, supported, and more comfortable in their daily movements.",
+        image: "/new_assets/IMG_5600.jpg",
+        ctaLabel: "Feet and Ankle Therapy",
+        benefits: [
+          "Minimises osteoporosis and arthritis joint pain",
+          "Reduces swelling and inflammation in lower limbs",
+          "Relieves plantar fasciitis and foot discomfort",
+          "Improves circulation, stiffness, and muscle cramps",
+          "Supports limb mobility for MS and neurological conditions",
+          "Restores energetic balance and lymphatic drainage",
+          "Enhances foot and ankle stability and balance",
+        ],
+        pricingOptions: [
+          {
+            duration: "60 minutes",
+            price: "£80.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£110.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£140.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
