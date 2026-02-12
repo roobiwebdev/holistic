@@ -55,7 +55,7 @@ export const SERVICES_DATA: Service[] = [
       title: "Healing / Trauma Release",
       subtitle: "Holistic Healing",
       description:
-        "This treatment was designed by founder Maria Sarmiento. It facilitates a profound release of trauma throughout the body, providing a nervous system reset. Combining sports therapy, Thai massage, and Raynor massage, it works deeply through the body's physical and energetic systems.",
+        "This treatment, designed by founder Maria Sarmiento, creates a profound release of trauma throughout the body. It combines sports therapy, Thai massage, and Raynor massage to work deeply through the body's physical and energetic systems:\n\n\u2022 Sports massage is used to increase joint mobility and range of motion.\n\u2022 Thai massage helps improve flexibility and works directly on the meridian system to clear energetic stagnation.\n\u2022 Raynor massage focuses on releasing the fascial lines and deeply stored tension in the connective tissues.\n\nAdditional massage modalities are incorporated to move fluids through the system, supporting detoxification and encouraging a full-body reset. This integrative approach supports trauma release through physical, emotional, and energetic pathways.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
@@ -599,10 +599,10 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
   {
     slug: "holistic-therapies",
     hero: {
-      title: "Holistic Treatments",
+      title: "Holistic Treatments and Therapies",
       subtitle: "Integrative Healing",
       description:
-        "Unique to Holistic Rising, these sessions combine multiple modalities into one experience. Created by Maria Sarmiento, they are intuitively layered to meet each client where they are — emotionally, physically, and spiritually — helping to reset the system and bring about a deep state of mental and energetic restoration.",
+        "Unique to Holistic Rising, these sessions combine multiple modalities into one experience. Created by Maria Sarmiento, they are intuitively layered to meet each client where they are\u2014emotionally, physically, and spiritually\u2014helping to reset the system and bring about a deep state of mental and energetic restoration.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
@@ -1089,7 +1089,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
       title: "Natural Glow",
       subtitle: "Integrative Skincare",
       description:
-        "Inspired by the time-honoured practices of Ayurveda, our treatments are designed to bring you back into balance—physically, emotionally, and energetically. Each session honours your unique constitution (dosha) and supports natural healing through marma point therapy, detoxifying tools like the Kansa Wand, and grounding, intentional touch. Whether you're seeking relief from physical discomfort, emotional overwhelm, or simply craving stillness, our Ayurvedic offerings invite you to reconnect with your inner rhythm and restore harmony from within.",
+        "An integrative approach to skincare that nourishes both skin and spirit. Using all-natural products and conscious touch, these treatments aim to enhance your inner glow by supporting your body's natural beauty rhythms.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
@@ -1653,7 +1653,7 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
       title: "HEALING MOVEMENT",
       subtitle: "Integrative Mind-Body Practice",
       description:
-        "Healing Movement at Holistic Rising This evolving programme includes a variety of healing modalities such as: Core and Pelvic Floor Activation Yoga Class, Hatha Flow Class, Meditation, Yin Class, Qigong Classes, Breathwork, Self-Healing, Sharing Circle, and Self-Healing Techniques. Together, these practices form a holistic movement experience that supports physical release, energetic alignment, emotional awareness, nervous system regulation and spiritual connection.",
+        "A mindful practice combining breath, intuitive motion, and energy awareness. Designed to support nervous system regulation, emotional flow, and reconnection to the self through movement.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
@@ -1823,11 +1823,10 @@ The original five-week rotational energetic foundation remains intact — now ex
   {
     slug: "maternal-massage",
     hero: {
-      title:
-        "MATERNAL MASSAGES FOR PRENATAL, MATERNAL & POSTNATAL MASSAGE TREATMENTS",
+      title: "Maternity Massage (Prenatal & Postnatal)",
       subtitle: "Specialised Maternity Care",
       description:
-        "At Holistic Rising, we offer specialised maternity massage treatments from as early as 4 to 6 weeks of pregnancy, continuing right through to 39 to 40 weeks.",
+        "Tailored care for mothers before and after birth, focusing on the mental and emotional needs of this sacred transition while offering physical comfort and support.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
@@ -1935,10 +1934,10 @@ The original five-week rotational energetic foundation remains intact — now ex
   {
     slug: "2by4",
     hero: {
-      title: "2by4 Treatments",
+      title: "2by4",
       subtitle: "Dual Therapist Experience",
       description:
-        "Experience the profound synergy of two therapists working fluidly with one client. This unique triad creates an energetic alchemy that allows for deep release and realignment. With skilled fascia stretching and an intuitive understanding of biomechanics and energetic balance, tension is gently eased from both agonist and antagonist muscles.",
+        "Experience the profound synergy of two therapists working fluidly with one client. This unique triad creates an energetic alchemy that allows for deep release and realignment. With skilled fascia stretching and an intuitive understanding of biomechanics and energetic balance, tension is gently eased from both agonist and antagonist muscles. The result is a decompressing, harmonising treatment that restores flow, space, and holistic wellbeing.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
@@ -2147,7 +2146,7 @@ The original five-week rotational energetic foundation remains intact — now ex
   {
     slug: "dr-hr-sports-london",
     hero: {
-      title: "DR / HR Sports Clinic",
+      title: "DR / HR Sports Clinic \u2013 Specialist Sports Treatments",
       subtitle: "Sports Massage and Treatments",
       description:
         "Designed by co-founder Diego Robinson, these high-performance, results-driven treatments aim to achieve measurable change in just one session. They combine elite-level sports therapy with biomechanical analysis, intuitive assessment, and functional movement expertise.",

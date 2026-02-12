@@ -20,16 +20,20 @@ export function OurPromise() {
       </div>
 
       <div className="relative z-20 container mx-auto px-6">
-        <div className="max-w-3xl text-center mx-auto">
-          <p className="text-xs uppercase tracking-[0.4em] text-white/60 font-semibold mb-3">
-            Our Promise
-          </p>
-          <h2 className="font-serif text-3xl md:text-5xl text-white font-bold leading-tight">
-            At Holistic Rising, you will always be:
-          </h2>
-          <p className="mt-4 text-sm md:text-lg text-white/80 leading-relaxed">
-            Healing is not a destination — it’s a path we walk together.
-          </p>
+        <div className="max-w-4xl text-center mx-auto mb-16">
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+          >
+            <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl text-primary mb-6">
+              Our Promises
+            </h2>
+            <p className="font-serif text-xl md:text-2xl text-white/90 italic">
+              At Holistic Rising, you will always be:
+            </p>
+          </motion.div>
         </div>
 
         <div className="mt-12 grid gap-6 md:grid-cols-2">
@@ -74,6 +78,19 @@ export function OurPromise() {
             </p>
           </motion.div>
         </div>
+
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.8, delay: 0.4 }}
+          className="mt-16 max-w-4xl mx-auto text-center"
+        >
+          <p className="text-lg md:text-xl lg:text-2xl text-white/90 font-serif italic leading-relaxed">
+            “Healing is not a destination — it’s a path we walk together. With heart. With love. And with the belief that you are already whole — we’re just here to help you remember.”
+          </p>
+          <div className="mt-6 w-24 h-px bg-primary/50 mx-auto" />
+        </motion.div>
       </div>
     </section>
   );
