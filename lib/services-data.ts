@@ -572,72 +572,6 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
     },
     subservices: [
       {
-        slug: "abdominal-treatment",
-        title: "Abdominal Treatment",
-        description:
-          "Our specialised Abdominal Treatment is a deeply therapeutic and restorative experience designed to relieve abdominal cramping, bloating, and the build-up of excess fat and fluid, helping to reduce inflammation throughout the core of the body.",
-        fullDescription:
-          "Our specialised Abdominal Treatment is a deeply therapeutic and restorative experience designed to relieve abdominal cramping, bloating, and the build-up of excess fat and fluid, helping to reduce inflammation throughout the core of the body. This treatment works holistically to release deep-seated tension, enhance digestion, support natural detoxification, ease lower back discomfort, promote scar tissue regeneration, improve hip mobility, and help expand lung capacity for easier breathing.",
-        image:
-          "/new_assets/IMG_5602.jpg",
-        ctaLabel: "Abdominal Treatment",
-        benefits: [
-          "Relieves abdominal cramping and bloating",
-          "Reduces excess fat and fluid build-up",
-          "Decreases inflammation throughout the core",
-          "Enhances digestion and supports detoxification",
-          "Eases lower back discomfort",
-          "Improves hip mobility and lung capacity",
-        ],
-        pricingOptions: [
-          {
-            duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
-      {
-        slug: "combined-massage",
-        title: "Combined Massage",
-        description:
-          "Our Combined Massage is a beautifully fluid and intuitive treatment that blends a variety of therapeutic techniques to meet your unique needs in the moment. Drawing from relaxing, deep tissue, aromatherapy, sports, and sculpting methods, this massage is tailored specifically to you — allowing your body and energy on the day to guide the perfect combination.",
-        fullDescription:
-          "Our Combined Massage is a beautifully fluid and intuitive treatment that blends a variety of therapeutic techniques to meet your unique needs in the moment. Drawing from relaxing, deep tissue, aromatherapy, sports, and sculpting methods, this massage is tailored specifically to you — allowing your body and energy on the day to guide the perfect combination.",
-        image:
-          "/new_assets/IMG_5605.jpg",
-        ctaLabel: "Combined Massage",
-        benefits: [
-          "Fluid and intuitive treatment approach",
-          "Blends multiple therapeutic techniques",
-          "Tailored to your unique needs",
-          "Combines relaxing, deep tissue, and sports methods",
-          "Adapts to your body's energy on the day",
-          "Creates the perfect combination for you",
-        ],
-        pricingOptions: [
-          {
-            duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
-      {
         slug: "specialised-feet-ankle-therapy",
         title: "Specialised Feet and Ankle Therapy",
         description:
@@ -1249,206 +1183,241 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         ],
       },
       {
-        slug: "full-body-gentle-balance-release-ritual",
-        title: "Full Body Gentle Balance & Release Ritual",
+        slug: "face-neck-sculpting-treatment",
+        title: "Face & Neck Sculpting treatment, incorporates buccal massage & opi ear candle",
         description:
-          "Our Full-Body Gentle Balance and Release Ritual treats the body to support the release of the mind. Through slow, calming, full-body massage techniques and mindful energetic intention, the treatment guides the nervous system into a state of safety and ease—allowing the body to unwind so the mind can let go.",
+          "Our Face and Neck Sculpting Treatment is a deeply restorative and rejuvenating experience that blends therapeutic techniques with natural beauty enhancement.",
         fullDescription:
-          "Our Full-Body Gentle Balance and Release Ritual treats the body to support the release of the mind. Through slow, calming, full-body massage techniques and mindful energetic intention, the treatment guides the nervous system into a state of safety and ease—allowing the body to unwind so the mind can let go.\n\nThis ritual is ideal for clients experiencing signs of stress, tension, insomnia, disrupted sleep patterns, lack of rest, or difficulty switching off. While the treatment is applied to the body, its purpose is to create the conditions the mind truly needs—space, stillness, and permission to pause.\n\nIt is not designed to target muscle aches or ease physical pain. Instead, it is crafted to give clients meaningful time away from the demands of daily life, offering the opportunity to rest, breathe, and restore. Many clients naturally drift into deep relaxation, and some may even fall into light sleep during the session—an encouraged part of the experience.\n\nThe ritual supports you to:\n\t•\tFind inner calm and mental clarity\n\t•\tReset from chronic fatigue or sleeplessness\n\t•\tRest and restore your system in a supported environment\n\t•\tRecalibrate your emotional and energetic balance\n\t•\tStep away from a busy life to pause, reflect, and reset\n\t•\tReconnect to yourself and regain a sense of equilibrium\n\t•\tLeave feeling mentally lighter, centred, and renewed\n\nThis treatment creates a moment of stillness for the mind, using the body as the pathway to release. It invites rest, supports deep relaxation, and helps clients reset their internal rhythm—so they can return to life feeling grounded, restored, and recalibrated.\n\nA gentle pause. A mental reset. A return to balance",
-        image:
-          "/new_assets/IMG_5729.jpg",
-        ctaLabel: "Full Body Gentle Balance & Release Ritual",
+          "This unique treatment combines buccal massage, opiate ear candle therapy, gua sha, sculptural face lifting, and face yoga to create an overall sense of openness, clarity, and renewed energy. Designed to de-puff the face, unblock the sinuses, and improve circulation and lymphatic drainage, this treatment supports the body’s natural detoxification process and enhances facial tone and definition. By relieving pressure in the sinuses and inner ears, it is particularly beneficial for those suffering with hay fever, sinusitis, blocked sinuses, or vertigo.\n\nImproved breathing leads to increased oxygen intake, which not only supports brain clarity, focus, and reaction time but also contributes to long-term health and vitality—helping to improve both the quality and longevity of life. The buccal massage works inside the mouth to release tension in the jaw and facial muscles—perfect for those who experience jaw tightness, grinding teeth, or stress-related clenching. It also promotes a slimmer, more youthful appearance by lifting and sculpting the face and neck naturally.",
+        image: "/new_assets/IMG_5766.jpg",
+        ctaLabel: "Face & Neck Sculpting",
         benefits: [
-          "Find inner calm and mental clarity",
-          "Reset from chronic fatigue or sleeplessness",
-          "Rest and restore your system in a supported environment",
-          "Recalibrate your emotional and energetic balance",
-          "Step away from a busy life to pause, reflect, and reset",
-          "Reconnect to yourself and regain a sense of equilibrium",
-          "Leave feeling mentally lighter, centred, and renewed",
+          "Reduce facial puffiness",
+          "Relieve sinus pressure or vertigo",
+          "Improve breathing and mental clarity",
+          "Release jaw tension and facial stress",
+          "Enhance natural facial contours",
+          "Supports long-term health and vitality",
+        ],
+        pricingOptions: [
+          {
+            duration: "60 minutes",
+            price: "£90.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£110.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "sculpting-treatment",
+        title: "SCULPTING TREATMENT – DEEP TISSUE BODY CONTOURING",
+        description:
+          "The Sculpting Treatment at Holistic Rising is a targeted and transformative therapy designed to address stubborn fat and deeply stored fluid retention that may not respond to diet and exercise alone.",
+        fullDescription:
+          "This dynamic technique works through the deeper layers of the skin and fascia, encouraging the body to naturally detoxify, mobilise stored fat, and refine the silhouette. Using firm, focused movements and advanced body sculpting techniques, this treatment supports the breakdown of adipose tissue, helping to contour the body and reduce the appearance of stubborn fat and cellulite.\n\nBy stimulating the lymphatic system, this therapy directs fluid and metabolic waste toward the lymph nodes, encouraging the body to eliminate excess toxins and fat more efficiently. As the deeper tissue layers are worked, circulation is improved, inflammation is reduced, and the skin begins to appear smoother, firmer, and more sculpted.",
+        image: "/new_assets/IMG_5740.jpg",
+        ctaLabel: "Body Sculpting",
+        benefits: [
+          "Reduces stubborn fat around hips and underarms",
+          "Diminishes cellulite on thighs, hamstrings, and glutes",
+          "Reduces localised water retention and inflammation",
+          "Refines even skin texture and tone",
+          "Encourages natural detoxification and fat mobilisation",
+          "Supports post-workout recovery and metabolism",
+        ],
+        pricingOptions: [
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "basalt-hot-stone-massage",
+        title: "Basalt Hot Stone Massage",
+        description:
+          "Indulge in one of the most luxurious treatments we offer with our Basalt Hot Stone Full Body Massage—a deeply restorative experience that invites your body to unwind, your energy to rebalance, and your spirit to soften.",
+        fullDescription:
+          "Smooth, heated basalt stones are expertly glided across the body, their warmth penetrating the top layers of the skin to gently encourage circulation, soothe sore muscles, and awaken the body’s natural healing flow. The heat from the stones works in harmony with flowing massage techniques to release deep-seated tension and bring about a profound sense of relaxation.\n\nIdeal for those feeling tired, run-down, heavy or emotionally drained, this treatment is also wonderfully beneficial for water retention, aching muscles, and those needing a little extra support to return to balance. It’s a decadent ritual of warmth, stillness and renewal.",
+        image: "/new_assets/IMG_5752.jpg",
+        ctaLabel: "Hot Stone Massage",
+        benefits: [
+          "Deeply relaxes the body and calms the mind",
+          "Improves circulation and lymphatic flow",
+          "Eases muscular aches, stiffness and fatigue",
+          "Reduces water retention and swelling",
+          "Restores balance to both body and energy",
+        ],
+        pricingOptions: [
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "glow-deep-tissue-massage",
+        title: "THERAPEUTIC DEEP TISSUE MASSAGE – RESTORE, REALIGN, REBALANCE",
+        description:
+          "Our Therapeutic Deep Tissue Massage is a powerful and purposeful treatment designed to target chronic tension, muscular pain, and postural imbalances.",
+        fullDescription:
+          "This is not a simple relaxation massage — it is a restorative therapy tailored to those who carry tension deep within the muscles and connective tissues, whether from physical exertion, repetitive strain, stress, or long-term poor posture. This massage works to release adhesions (also known as “knots”), improve circulation, and promote full-body realignment.\n\nDuring the session, the therapist uses slow, deliberate strokes and sustained pressure to access the deeper layers of fascia and muscle, gradually softening and unwinding areas of chronic tightness. Each treatment is highly individualised and may incorporate myofascial release, trigger point therapy, stretching, and neuromuscular therapy.",
+        image: "/new_assets/IMG_5671.jpg",
+        ctaLabel: "Deep Tissue Massage",
+        benefits: [
+          "Reduces chronic pain and muscle tension",
+          "Improves postural alignment and mobility",
+          "Increases range of motion in hips, shoulders and back",
+          "Aids recovery from injury by breaking down adhesions",
+          "Supports mental clarity and calms the nervous system",
+          "Relieves tension headaches and sciatic discomfort",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
             price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£90.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£120.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "60 minutes (with Dry Cupping)",
+            price: "£80.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes (with Dry Cupping)",
+            price: "£110.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes (with Dry Cupping)",
+            price: "£140.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "combined-massage",
+        title: "Combined Massage",
+        description:
+          "Our Combined Massage is a beautifully fluid and intuitive treatment that blends a variety of therapeutic techniques to meet your unique needs in the moment.",
+        fullDescription:
+          "Drawing from relaxing, deep tissue, aromatherapy, sports, and sculpting methods, this massage is tailored specifically to you — allowing your body and energy on the day to guide the perfect combination.\n\nThis holistic approach encourages deep relaxation, eases physical and emotional tension, and supports overall well-being. Whether you’re in need of soothing aromatherapy, focused deep tissue work, or a rejuvenating head and foot massage, this treatment brings together the most effective elements of each style to deliver a truly bespoke experience.\n\nPerfect for those seeking a more personalised, responsive treatment, the Combined Massage is designed to restore balance, promote ease, and leave you feeling renewed from head to toe. It’s a therapeutic journey that adapts to your body’s rhythm — offering a deeper sense of connection, calm, and release.",
+        image: "/new_assets/IMG_5605.jpg",
+        ctaLabel: "Combined Massage",
+        benefits: [
+          "Fluid and intuitive treatment tailored to you",
+          "Blends relaxing, deep tissue, aromatherapy, and sports techniques",
+          "Eases physical and emotional tension holistically",
+          "Restores balance and promotes head-to-toe renewal",
+          "Adapts to your body's specific rhythm and energy",
+          "Promotes deep connection, calm, and release",
+        ],
+        pricingOptions: [
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
             price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
-      /* {
-        slug: "face-neck-sculpting-treatment",
-        title: "FACE & NECK SCULPTING TREATMENT",
-        description:
-          "Our Face and Neck Sculpting Treatment is a deeply restorative and rejuvenating experience that blends therapeutic techniques with natural beauty enhancement. This unique treatment combines buccal massage, opiate ear candle therapy, gua sha, sculptural face lifting, and face yoga to create an overall sense of openness, clarity, and renewed energy.",
-        fullDescription:
-          "Our Face and Neck Sculpting Treatment is a deeply restorative and rejuvenating experience that blends therapeutic techniques with natural beauty enhancement. This unique treatment combines buccal massage, opiate ear candle therapy, gua sha, sculptural face lifting, and face yoga to create an overall sense of openness, clarity, and renewed energy.",
-        image:
-          "/new_assets/IMG_5766.jpg",
-        ctaLabel: "FACE & NECK SCULPTING",
-        benefits: [
-          "Deeply restorative and rejuvenating",
-          "Blends therapeutic techniques with beauty enhancement",
-          "Combines buccal massage and gua sha",
-          "Includes sculptural face lifting and face yoga",
-          "Creates openness, clarity, and renewed energy",
-          "Natural beauty enhancement",
-        ],
-        pricingOptions: [
-          {
-            duration: "90 minutes",
-            price: "£120.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "120 minutes",
-            price: "£160.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      }, */
-      // {
-      //   slug: "ayurveda-sculpting-facelift-ritual",
-      //   title: "Ayurveda Sculpting Facelift Ritual",
-      //   description:
-      //     "A restorative wellness treatment focused on the head, neck, jaw, and face. Designed to support the relief of TMJ symptoms, jaw tension, and stress-related clenching, using external body and fascia-based techniques to help the mind release as the body unwinds.",
-      //   fullDescription:
-      //     "Our Ayurveda Sculpting Facelift Ritual is a restorative wellness treatment focused on the head, neck, jaw, and face. It is designed to support the relief of TMJ symptoms, including jaw tension, discomfort, and stress-related clenching, using external body and fascia-based techniques to help the mind release as the body unwinds.\n\nThis ritual incorporates buccal (intra-oral) massage, Gua Sha, and opiate ear candle therapy as traditional cleansing elements to encourage a feeling of unblocking across the head and facial pathways. The treatment works intentionally along the fascia lines of the face, neck, and jaw to release tension and promote a sense of openness, internal balance, and recalibration.\n\nWhile not positioned as a medical cure, clients commonly seek this ritual for support with lifestyle-related symptoms, including:\n\t•\tTMJ-related tension and discomfort\n\t•\tStuttering or speech tension patterns, such as stutters or stammers\n\t•\tHearing congestion or blocked sensations in the ear and head area\n\t•\tSinus pressure, blocked sensations, or seasonal sensitivities\n\t•\tMigraines or head pressure sensations\n\t•\tEye strain, blurred focus, or tension around the eyes affecting visual clarity\n\t•\tFacial puffiness or fluid retention\n\nMany clients also choose this treatment for a mental and sensory reset, reporting a sense of:\n\t•\tFeeling lighter and depuffed in the face\n\t•\tA clearer, more open sensation across the head, sinuses, jaw, and ears\n\t•\tReduced pressure sensations in the head and eye area\n\t•\tA sense of improved visual ease or clarity after eye strain or fatigue\n\t•\tRelief from heaviness affecting focus or perception\n\nThis ritual is crafted as a profound experience—ideal for those seeking healing from daily restrictions to restore balance across the head, neck, jaw, and face.",
-      //   image:
-      //     "/new_assets/IMG_5767.jpg",
-      //   videoId: "S_-e1AOuPug",
-      //   ctaLabel: "Ayurveda Sculpting Facelift Ritual",
-      //   benefits: [
-      //     "Relief of TMJ symptoms and jaw tension",
-      //     "Support for speech tension and stuttering patterns",
-      //     "Clears hearing congestion and blocked sensations",
-      //     "Eases sinus pressure and head pressure",
-      //     "Reduces migraines and eye strain tension",
-      //     "Depuffs face and reduces fluid retention",
-      //     "Mental and sensory reset and recalibration",
-      //   ],
-      //   pricingOptions: [
-      //     {
-      //       duration: "90 minutes",
-      //       price: "£120.00",
-      //       bookingUrl:
-      //         "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-      //     },
-      //     {
-      //       duration: "120 minutes",
-      //       price: "£160.00",
-      //       bookingUrl:
-      //         "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-      //     },
-      //   ],
-      // },
-
-      {
-        slug: "sculpting-treatment",
-        title: "SCULPTING TREATMENT",
-        description:
-          "The Sculpting Treatment at Holistic Rising is a targeted and transformative therapy designed to address stubborn fat and deeply stored fluid retention that may not respond to diet and exercise alone. This dynamic technique works through the deeper layers of the skin and fascia, encouraging the body to naturally detoxify, mobilise stored fat, and refine the silhouette.",
-        fullDescription:
-          "The Sculpting Treatment at Holistic Rising is a targeted and transformative therapy designed to address stubborn fat and deeply stored fluid retention that may not respond to diet and exercise alone. This dynamic technique works through the deeper layers of the skin and fascia, encouraging the body to naturally detoxify, mobilise stored fat, and refine the silhouette.",
-        image:
-          "/new_assets/IMG_5740.jpg",
-        ctaLabel: "SCULPTING TREATMENT",
-        benefits: [
-          "Targeted and transformative therapy",
-          "Addresses stubborn fat and fluid retention",
-          "Works through deeper layers of skin and fascia",
-          "Encourages natural detoxification",
-          "Mobilises stored fat",
-          "Refines the silhouette",
-        ],
-        pricingOptions: [
-          {
-            duration: "90 minutes",
-            price: "£120.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "120 minutes",
-            price: "£160.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
-
-
-      {
-        slug: "basalt-hot-stone-massage",
-        title: "RBASALT HOT STONE MASSAGE",
-        description:
-          "Indulge in one of the most luxurious treatments we offer with our Basalt Hot Stone Full Body Massage—a deeply restorative experience that invites your body to unwind, your energy to rebalance, and your spirit to soften.",
-        fullDescription:
-          "Indulge in one of the most luxurious treatments we offer with our Basalt Hot Stone Full Body Massage—a deeply restorative experience that invites your body to unwind, your energy to rebalance, and your spirit to soften.",
-        image:
-          "/new_assets/IMG_5752.jpg",
-        ctaLabel: "RBASALT HOT STONE MASSAGE",
-        benefits: [
-          "One of the most luxurious treatments",
-          "Deeply restorative experience",
-          "Invites body to unwind",
-          "Rebalances energy",
-          "Softens the spirit",
-          "Full body basalt hot stone massage",
-        ],
-        pricingOptions: [
-          {
-            duration: "90 minutes",
-            price: "£120.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "120 minutes",
-            price: "£160.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
       {
-        slug: "radiance-renewal-ritual",
-        title: "RADIANCE RENEWAL DETOX RITUAL",
+        slug: "gua-sha-release-ritual",
+        title: "Gua Sha RELEASE RITUAL",
         description:
-          "Step into a journey of renewal, where skin and spirit are gently awakened. With this ritual experience Neal's yard oils, masks and deep organic glow, focusing on deep detoxification, unclogging pores and removing impurities, while sweeping away dull and tired cells to reveal your natural luminosity beneath.",
+          "Gua Sha cranial therapy is a deeply restorative treatment that uses a rose quartz crystal Gua Sha tool to gently massage the head, neck, and face.",
         fullDescription:
-          "Step into a journey of renewal, where skin and spirit are gently awakened. With this ritual experience Neal's yard oils, masks and deep organic glow, focusing on deep detoxification, unclogging pores and removing impurities, while sweeping away dull and tired cells to reveal your natural luminosity beneath.",
-        image:
-          "/new_assets/IMG_5753.jpg",
-        ctaLabel: "RADIANCE RENEWAL DETOX RITUAL",
+          "This therapy is excellent for alleviating headaches, migraines, bruising, tinnitus, and sleep difficulties by clearing and calming the mind while lifting energy. It works to remove inflammation and stagnation from the head, neck, and facial areas, promoting decompression and encouraging optimal function and wellbeing. The rose quartz Gua Sha is especially significant due to its natural vibration of self-love, helping to nurture the connection between heart and mind.\n\nThis healing energy supports clients in releasing heavy mental burdens and fostering a deeper sense of compassion and acceptance within themselves. This treatment is particularly beneficial for those who have undergone hair transplants or are experiencing dizziness, problems with eyesight, or other sensory issues. It also helps stimulate hair growth by improving circulation in the scalp. Additionally, Gua Sha cranial therapy enhances focus and reaction times, making it ideal for people with high-stress office jobs or demanding cognitive workloads. By releasing migraines and reducing tension, clients are left feeling refreshed, balanced, and mentally clear.",
+        image: "/new_assets/IMG_5703.jpg",
+        ctaLabel: "Gua Sha Ritual",
         benefits: [
-          "Journey of renewal",
-          "Gently awakens skin and spirit",
-          "Neal's Yard oils and masks",
-          "Deep detoxification",
-          "Unclogs pores and removes impurities",
-          "Reveals natural luminosity",
+          "Alleviates headaches, migraines and tinnitus",
+          "Clears inflammation and stagnation from head and face",
+          "Nurtures the connection between heart and mind",
+          "Supports recovery from hair transplants/scalp issues",
+          "Improves focus, reaction times and mental clarity",
+          "Encourages deep self-love and emotional release",
         ],
         pricingOptions: [
           {
+            duration: "45 minutes",
+            price: "£70.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "60 minutes",
+            price: "£90.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
             duration: "90 minutes",
             price: "£120.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "medicinal-aromatherapy-treatment",
+        title: "AROMATHERAPY TREATMENT",
+        description:
+          "At Holistic Rising, our Medicinal Aromatherapy Treatment offers a deeply personalised approach to healing through the power of essential oils.",
+        fullDescription:
+          "Unlike traditional aromatherapy, this treatment is therapeutically focused and tailored specifically to the individual’s physical and emotional needs at the time of their session. Using high-quality, plant-based essential oils, a unique blend is created on the spot for each client. These blends are designed to help relieve a wide range of concerns, including muscle aches, swollen joints, irregular menstrual cycles, IBS, PCOS, fatigue, and stress-related imbalances.\n\nThe oils are applied using gentle massage techniques that support the absorption of the medicinal properties through the skin and into the bloodstream. These carefully selected oils work in harmony with the body’s natural processes to ease discomfort, regulate hormonal function, soothe inflammation, and calm the nervous system. Every session is an intuitive and nurturing experience that considers not only the presenting symptoms but the client’s emotional and energetic state, recognising that the mind and body are deeply connected.",
+        image: "/new_assets/The essence_.jpg",
+        ctaLabel: "Medicinal Aromatherapy",
+        benefits: [
+          "Personalised oil blends created on the spot",
+          "Relieves muscle aches and swollen joints",
+          "Supports hormonal balance (IBS, PCOS, Cycles)",
+          "Eases inflammation and calms the nervous system",
+          "Nurturing experience for physical and emotional needs",
+          "Promotes deep mind-body connection and healing",
+        ],
+        pricingOptions: [
+          {
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "90 minutes",
+            price: "£90.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "120 minutes",
-            price: "£160.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£110.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
