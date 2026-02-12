@@ -884,32 +884,30 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         slug: "energy-healing-combined-five",
         title: "Energy Healing Combined With The Energy of Five",
         description:
-          "A powerful fusion of five ancient healing modalities to restore balance, alignment, and authentic transformation. At Holistic Rising, our Integrated Energy Healing combines the profound wisdom and techniques of Japanese Reiki, Crystal Healing, Shamanic Healing, Buddhist Healing, and Yogic Healing into a seamless, intuitive experience. This unique fusion works holistically to cultivate direction, leadership, balance, transformation, and abundance in the client's life",
+          "A powerful fusion of five ancient healing modalities to restore balance, alignment, and authentic transformation. At Holistic Rising, our Integrated Energy Healing combines the profound wisdom and techniques of Japanese Reiki, Crystal Healing, Shamanic Healing, Buddhist Healing, and Yogic Healing into a seamless, intuitive experience. This unique fusion works holistically to cultivate direction, leadership, balance, transformation, and abundance in the client’s life.",
         fullDescription:
-          "A powerful fusion of five ancient healing modalities to restore balance, alignment, and authentic transformation. At Holistic Rising, our Integrated Energy Healing combines the profound wisdom and techniques of Japanese Reiki, Crystal Healing, Shamanic Healing, Buddhist Healing, and Yogic Healing into a seamless, intuitive experience. This unique fusion works holistically to cultivate direction, leadership, balance, transformation, and abundance in the client's life",
-        image:
-          "/new_assets/Energy Healing_.jpg",
+          "Each modality brings its own unique gifts to the healing journey:\n\nJapanese Reiki\nWorks to clear energetic blockages and invigorate the body’s natural flow, facilitating the release of stagnant energy and encouraging deep restoration on a subtle level.\n\nCrystal Healing\nThis is used to gently alter and elevate the client’s vibrational field, helping to harmonise energy and promote emotional and spiritual clarity.\n\nShamanic Healing\nProvides a pathway to explore ancestral traumas and deeper layers of the self, reaching beyond the present moment to uncover and release inherited patterns that may be inhibiting the human experience.\n\nBuddhist Healing\nIs centred on restoring balance within the body and mind, with a particular focus on clearing physical ailments such as pain or blockages in the heart chakra, promoting holistic wellbeing.\n\nYogic Healing\nuses breath and movement techniques to open energy lines and release heavy or stagnant energy, restoring flow and vitality throughout the energetic body.\n\nKey Benefits\nHarnessing the energy of these five powerful traditions, this healing is designed to align you with your higher self, guiding you to manifest a reality that is true, innate, and unique to you. It facilitates the liberation of spirit and nourishment of the soul, supporting deep inner work that transcends the limitations of ego.\n\nThis journey encourages the shedding of dogma, suffering, judgment, and ego-based conditioning, paving the way for the emergence of your authentic self. Through intuitive guidance, the treatment draws on ancestral and lineage energies, honouring your bloodlines and your connection to the divine—both the God Creator and Mother Nature.\n\nClients often experience a profound sense of clarity, empowerment, and renewal, with tools integrated to support manifestation, abundance, and personal transformation.\n\nThis is a deeply spiritual and personalised healing, tailored to meet you where you are on your path, helping you reconnect with your soul’s purpose and live in alignment with your highest potential.",
+        image: "/new_assets/Energy Healing_.jpg",
         ctaLabel: "Book Energy Healing Of Five",
         benefits: [
-          "Five ancient healing modalities combined",
-          "Restores balance, alignment, and transformation",
-          "Combines Japanese Reiki, Crystal, Shamanic, Buddhist, and Yogic Healing",
-          "Seamless, intuitive experience",
-          "Cultivates direction, leadership, and abundance",
-          "Holistic approach to transformation",
+          "Aligns you with your higher self and soul's purpose",
+          "Liberates the spirit and nourishes the soul",
+          "Encourages shedding of dogma, suffering, and ego conditioning",
+          "Honours ancestral, lineage, and divine connections",
+          "Supports manifestation, abundance, and transformation",
+          "Restores balance to body, mind, and energetic systems",
+          "Customised intuitive guidance for your unique path",
         ],
         pricingOptions: [
           {
             duration: "90 minutes",
-            price: "£120.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£100.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "120 minutes",
-            price: "£160.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£140.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
@@ -917,32 +915,30 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         slug: "japanese-reiki",
         title: "Japanese Reiki",
         description:
-          "An ancient healing technique rooted in Japanese tradition, designed to clear energy blockages and promote deep restoration. Japanese Reiki is a gentle yet powerful energy healing method that traces its origins back to early 20th-century Japan, rooted in much older principles of ancient Chinese medicine and energy work. It forms part of a long lineage of healing arts that focus on balancing the body's subtle energy systems to support holistic wellbeing.",
+          "An ancient healing technique rooted in Japanese tradition, designed to clear energy blockages and promote deep restoration. Japanese Reiki is a gentle yet powerful energy healing method that traces its origins back to early 20th-century Japan, rooted in much older principles of ancient Chinese medicine and energy work. It forms part of a long lineage of healing arts that focus on balancing the body’s subtle energy systems to support holistic wellbeing.",
         fullDescription:
-          "An ancient healing technique rooted in Japanese tradition, designed to clear energy blockages and promote deep restoration. Japanese Reiki is a gentle yet powerful energy healing method that traces its origins back to early 20th-century Japan, rooted in much older principles of ancient Chinese medicine and energy work. It forms part of a long lineage of healing arts that focus on balancing the body's subtle energy systems to support holistic wellbeing.",
-        image:
-          "/new_assets/IMG_5677.jpg",
+          "This healing technique uses light touch or hands held slightly above the body to channel universal life energy, known in Japanese as Ki. Practitioners employ a series of hand placements over key energy centres and meridians to clear blockages, restore energetic flow, and invigorate the body’s natural healing abilities.\n\nTechniques used in Japanese Reiki include:\n• Gentle hand placements on or just above the body, targeting chakras and meridian points.\n• Breathwork and meditation integrated to enhance energy flow and deepen relaxation.\n• Use of specific symbols and mantras (in some lineages) to focus and direct healing energy.\n• Intuitive adjustments based on the client’s needs, allowing the energy to move where it is most required.\n\nWhat Clients Can Expect\nDuring a Japanese Reiki session, you will typically lie comfortably fully clothed while the practitioner works intuitively with their hands. Many clients report sensations of warmth, tingling, or gentle pulsing as the energy shifts. The experience is deeply relaxing and can bring about profound emotional and physical release.",
+        image: "/new_assets/IMG_5677.jpg",
         ctaLabel: "Book Japanese Reiki",
         benefits: [
-          "Ancient healing technique from Japan",
-          "Clears energy blockages",
-          "Promotes deep restoration",
-          "Gentle yet powerful method",
-          "Rooted in Chinese medicine principles",
-          "Balances subtle energy systems",
+          "Clearing energetic blockages that contribute to discomfort or fatigue",
+          "Supporting the body’s natural ability to heal itself and maintain balance",
+          "Promoting deep relaxation and reducing anxiety or tension",
+          "Enhancing mental clarity and emotional wellbeing",
+          "Complementing other therapies by preparing the body energetically",
+          "Supporting recovery from illness, chronic pain, or trauma",
+          "Non-invasive healing method suitable for all ages and conditions",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
             price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
             price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
@@ -952,31 +948,28 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         description:
           "Crystal healing utilises the natural vibrational properties of crystals to target and shift energy within the body. Each body part holds different frequencies due to the emotions stored within them. Practitioners place specific crystals on or around these areas to raise their frequency and release density. The crystals act as conduits for subtle energy, supporting clarity, emotional healing, and a lighter energetic state.",
         fullDescription:
-          "Crystal healing utilises the natural vibrational properties of crystals to target and shift energy within the body. Each body part holds different frequencies due to the emotions stored within them. Practitioners place specific crystals on or around these areas to raise their frequency and release density. The crystals act as conduits for subtle energy, supporting clarity, emotional healing, and a lighter energetic state.",
-        image:
-          // "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1920&auto=format&fit=crop",
-          "/new_assets/IMG_5751.jpg",
+          "At Holistic Rising, our crystal healing treatments work with the natural energy of crystals to enhance or soothe the body’s vibration, supporting both physical and energetic healing. Crystals are used intuitively to target specific areas where trauma, injury, or emotional blocks may have disrupted the flow of energy.\n\nBenefits\nDuring times of soul trauma, or when there is a disconnection between the healing process and conscious awareness, the body can hold tension or develop areas of stagnation. For example, the arms are often linked to the heart space—symbolically and energetically—so when they are blocked, we may experience difficulty expressing or receiving love. By placing crystals on or around these areas, we help to revitalise and restore the natural flow of energy, enhancing the overall vibration and promoting a deeper sense of wellbeing.\n\nWhen combined with massage, this treatment becomes even more powerful—addressing both the physical and energetic aspects of the block, allowing for true alignment and release. Crystals can also be used to deepen your connection with your higher self, offer protection from heavy or disruptive energies, ground your energy, and support a more lucid and restful way of dreaming. By working with beta wave states during sleep, crystals can help to build a more active relationship between the waking world and the subconscious, allowing your imagination and intuition to work in greater harmony.\n\nThis subtle yet effective process encourages deep rest, inner clarity, and a stronger connection to your inner guidance.",
+        image: "/new_assets/IMG_5751.jpg",
         ctaLabel: "Book Crystal Healing",
         benefits: [
-          "Uses natural vibrational properties of crystals",
-          "Targets and shifts energy within the body",
-          "Raises frequency and releases density",
-          "Acts as conduits for subtle energy",
-          "Supports clarity and emotional healing",
-          "Creates lighter energetic state",
+          "Enhances vibration to support physical and energetic healing",
+          "Targets specific areas where trauma or emotional blocks disrupt flow",
+          "Revitalises energetic stagnation, especially in the heart space connection",
+          "True alignment and release when combined with massage",
+          "Deepens connection with higher self and grounded energy",
+          "Offers protection from heavy or disruptive energies",
+          "Supports lucid dreaming and subconscious harmony",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
             price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
             price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
@@ -986,30 +979,28 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         description:
           "Shamanic healing is a sacred journey of reconnection—with the self, the Earth, and the greater mystery of existence. Rather than focusing solely on the retrieval of lost soul aspects, this path embraces the understanding that we are not merely people, but eternal energy beings. Healing arises through communion with the wisdom of the land and the elemental forces around us—the flowing rivers, the ever-changing wind, the rhythm of the sea, and the pulse of the earth. By aligning with these natural flows, we remember our place in creation and tap into energies that nourish the spirit. This deep connection allows us to rise above the confines of the human mind and return to a more expansive, timeless awareness.",
         fullDescription:
-          "Shamanic healing is a sacred journey of reconnection—with the self, the Earth, and the greater mystery of existence. Rather than focusing solely on the retrieval of lost soul aspects, this path embraces the understanding that we are not merely people, but eternal energy beings. Healing arises through communion with the wisdom of the land and the elemental forces around us—the flowing rivers, the ever-changing wind, the rhythm of the sea, and the pulse of the earth. By aligning with these natural flows, we remember our place in creation and tap into energies that nourish the spirit. This deep connection allows us to rise above the confines of the human mind and return to a more expansive, timeless awareness.",
-        image:
-          "/new_assets/Frequency & Energetic Integrity.jpg",
+          "Benefits\nOur sessions combine a range of sacred practices:\n• Journeying: Entering altered states through drumming and chanting to access the spirit world for insight and healing.\n• Extraction: Removing energetic blockages or intrusive energies from the body to restore vitality.\n• Soul Retrieval: Recovering lost soul fragments caused by trauma, restoring wholeness and empowerment.\n• Ceremony and Ritual: Creating sacred space and working with plants, herbs, through oils for massage incorporating Ayurveda and earth-based wisdom for deep healing.\n• Divination: Receiving spiritual guidance to uncover root causes of imbalance.\n• Herbal Medicine: Utilising sacred plants and traditional remedies to support healing and altered states of awareness.\n• Power Animal Retrieval: Connecting you with spirit allies for protection, strength, and guidance.\n• Energy Clearing and Cleansing: Using smudging, sound, and crystals to release stagnant energies and restore flow.\n\nWhether you are seeking freedom from anxiety, healing from trauma, removal of heavy or foreign energies, or a deeper connection to yourself, shamanic healing offers a transformative journey back to inner peace, balance, and self-love.",
+        image: "/new_assets/Frequency & Energetic Integrity.jpg",
         ctaLabel: "Book Shamanic Healing",
         benefits: [
-          "Sacred journey of reconnection",
-          "Reconnects with self, Earth, and existence",
-          "Communion with wisdom of the land",
-          "Aligns with elemental forces",
-          "Remembers place in creation",
-          "Rises above human mind limitations",
+          "Spirit world journeying for insight and healing",
+          "Extraction of energetic blockages and intrusive energies",
+          "Soul retrieval to restore wholeness and empowerment",
+          "Ceremony, ritual, and earth-based wisdom integration",
+          "Spiritual divination to uncover root causes of imbalance",
+          "Power animal retrieval for protection and strength",
+          "Energy clearing and cleansing via smudging, sound, and crystals",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
             price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
             price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
@@ -1017,146 +1008,130 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         slug: "buddhist-energy-healing",
         title: "Buddhist Energy Healing",
         description:
-          "This tradition focuses primarily on healing physical illness and restoring the body's vibrational harmony. Illness is often seen as a manifestation of karmic imbalance or emotional density that lowers the frequency of certain areas of the body. Healers use subtle hand movements and energetic scanning to identify and clear these dense zones, often placing hands on the head to connect with the client's consciousness. The process may involve multiple healers, especially for acute conditions, and is rooted in a deep understanding of Dharma, compassion, and the mind–body connection.",
+          "This tradition focuses primarily on healing physical illness and restoring the body’s vibrational harmony. Illness is often seen as a manifestation of karmic imbalance or emotional density that lowers the frequency of certain areas of the body. Healers use subtle hand movements and energetic scanning to identify and clear these dense zones, often placing hands on the head to connect with the client’s consciousness. The process may involve multiple healers, especially for acute conditions, and is rooted in a deep understanding of Dharma, compassion, and the mind–body connection.",
         fullDescription:
-          "This tradition focuses primarily on healing physical illness and restoring the body's vibrational harmony. Illness is often seen as a manifestation of karmic imbalance or emotional density that lowers the frequency of certain areas of the body. Healers use subtle hand movements and energetic scanning to identify and clear these dense zones, often placing hands on the head to connect with the client's consciousness. The process may involve multiple healers, especially for acute conditions, and is rooted in a deep understanding of Dharma, compassion, and the mind–body connection.",
-        image:
-          "/new_assets/Heart-Led Healing.jpg",
+          "This tradition focuses primarily on healing physical illness and restoring the body's vibrational harmony. Illness is often seen as a manifestation of karmic imbalance or emotional density that lowers the frequency of certain areas of the body. Healers use subtle hand movements and energetic scanning to identify and clear these dense zones, often placing hands on the head to connect with the client's consciousness. The process may involve multiple healers, especially for acute conditions, and is rooted in a deep understanding of Dharma, compassion, and the mind–body connection. Through this focused attention to areas of dis-ease, Buddhist energy healing nurtures both the spiritual and physical body, restoring flow and harmony.",
+        image: "/new_assets/Heart-Led Healing.jpg",
         ctaLabel: "Book Buddhist Energy Healing",
         benefits: [
-          "Focuses on healing physical illness",
-          "Restores body's vibrational harmony",
-          "Addresses karmic imbalance",
-          "Clears emotional density",
-          "Uses subtle hand movements and scanning",
+          "Restores vibrational harmony and physical health",
+          "Addresses karmic imbalance and emotional density",
+          "Utilises subtle hand movements and energetic scanning",
+          "Clears dense zones to raise body frequency",
           "Rooted in Dharma and compassion",
+          "Supports healing of acute conditions through focused consciousness",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
             price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
             price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
     ],
+    bottomContent: "About Healing\nAt Holistic Rising, healing is not seen as a destination but as a sacred unfolding. Through Reiki, clients experience the calming and recalibrating touch of pure light.\n\nCrystal healing offers a vibrational uplift that realigns emotional imbalances. Shamanic healing opens the door to timeless wisdom and elemental connection, empowering clients to transcend personal limitations.\n\nYogic healing restores flow and harmony to body and breath, while Buddhist energy healing brings focused attention to areas of dis-ease, nurturing both the spiritual and physical body.",
   },
   {
     slug: "natural-glow",
     hero: {
-      title: "Natural Glow",
+      title: "NAURAL GLOW",
       subtitle: "Integrative Skincare",
       description:
-        "An integrative approach to skincare that nourishes both skin and spirit. Using all-natural products and conscious touch, these treatments aim to enhance your inner glow by supporting your body's natural beauty rhythms.",
+        "Inspired by the time-honoured practices of Ayurveda, our treatments are designed to bring you back into balance—physically, emotionally, and energetically. Each session honours your unique constitution (dosha) and supports natural healing through marma point therapy, detoxifying tools like the Kansa Wand, and grounding, intentional touch. Whether you’re seeking relief from physical discomfort, emotional overwhelm, or simply craving stillness, our Ayurvedic offerings invite you to reconnect with your inner rhythm and restore harmony from within.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
-      {
-        slug: "therapeutic-foot-massage-kansa-wand",
-        title: "Therapeutic Foot Massage with Kansa Wand",
-        description:
-          "An Ayurvedic-inspired grounding ritual to soothe, detoxify, and restore balance. The Therapeutic Foot Massage with Kansa Wand at Holistic Rising is a deeply restorative treatment rooted in Ayurvedic tradition, combining the therapeutic benefits of reflexology with the healing power of the Kansa Wand—a sacred metal tool known in Ayurveda for its balancing and detoxifying properties.",
-        fullDescription:
-          "An Ayurvedic-inspired grounding ritual to soothe, detoxify, and restore balance. The Therapeutic Foot Massage with Kansa Wand at Holistic Rising is a deeply restorative treatment rooted in Ayurvedic tradition, combining the therapeutic benefits of reflexology with the healing power of the Kansa Wand—a sacred metal tool known in Ayurveda for its balancing and detoxifying properties.",
-        image:
-          "/new_assets/IMG_5589.jpg",
-        ctaLabel: "Therapeutic Foot Massage with Kansa Wand",
-        benefits: [
-          "Ayurvedic-inspired grounding ritual",
-          "Soothes, detoxifies, and restores balance",
-          "Combines reflexology with Kansa Wand",
-          "Uses sacred metal tool for healing",
-          "Deeply restorative treatment",
-          "Rooted in Ayurvedic tradition",
-        ],
-        pricingOptions: [
-          {
-            duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
       {
         slug: "facial-rejuvenation-massage-kansa-wand",
         title: "Facial Rejuvenation Massage with Kansa Wand",
         description:
           "An Ayurvedic ritual to tone, detoxify and restore radiance to the skin and spirit. The Facial Rejuvenation Massage with Kansa Wand is a luxurious Ayurvedic treatment that works to revitalise the skin, calm the nervous system, and promote a natural glow from within. Rooted in ancient Indian healing traditions, this treatment uses the Kansa Wand — a sacred bronze tool made from a healing alloy of copper, tin, and zinc — renowned for its detoxifying and balancing properties.",
         fullDescription:
-          "An Ayurvedic ritual to tone, detoxify and restore radiance to the skin and spirit. The Facial Rejuvenation Massage with Kansa Wand is a luxurious Ayurvedic treatment that works to revitalise the skin, calm the nervous system, and promote a natural glow from within. Rooted in ancient Indian healing traditions, this treatment uses the Kansa Wand — a sacred bronze tool made from a healing alloy of copper, tin, and zinc — renowned for its detoxifying and balancing properties.",
-        image:
-          "/new_assets/IMG_5612.jpg",
-        ctaLabel: "Facial Rejuvenation Massage with Kansa Wand",
+          "The Kansa Wand is gently massaged over the face, neck, and décolletage using specialised marma point techniques. These energy points, central to Ayurvedic therapy, help to release blockages, improve lymphatic drainage, and stimulate prana (life force energy) through the facial tissues. The unique metal of the Kansa Wand also works to draw out heat, acidity, and toxins, creating a calming and alkalising effect on the skin and underlying tissues.\n\nCombined with nourishing Ayurvedic oils chosen for your specific dosha or skin needs, this treatment enhances elasticity, promotes circulation, and softens fine lines — all while providing a grounding and deeply soothing experience.\n\nIdeal for those experiencing fatigue, skin imbalances, emotional stress, or seeking a holistic, non-invasive approach to facial rejuvenation, this treatment is both beautifying and therapeutic. It aligns the physical, energetic and emotional bodies — offering a moment of stillness, balance, and glow from the inside out.",
+        image: "/new_assets/IMG_5612.jpg",
+        ctaLabel: "Facial Rejuvenation Massage",
         benefits: [
-          "Tones, detoxifies and restores radiance",
-          "Revitalises the skin",
-          "Calms the nervous system",
-          "Promotes natural glow from within",
-          "Uses sacred bronze Kansa Wand",
-          "Rooted in ancient Indian traditions",
+          "Natural toning and firming of facial muscles",
+          "Detoxification and alkalisation of the skin",
+          "Stimulation of marma points for energetic balance",
+          "Reduction of puffiness, congestion, and dullness",
+          "Enhanced lymphatic flow and improved complexion",
+          "Calming of the mind and nervous system",
+          "Promotion of deep relaxation and inner stillness",
         ],
         pricingOptions: [
           {
-            duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            duration: "45 minutes",
+            price: "£50.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
-
       {
-        slug: "revitalising-head-scalp-shoulders-face-massage",
-        title:
-          "Revitalising Head, Scalp, Shoulders, and Face Massage (Indian head massage)",
+        slug: "holistic-abdominal-massage",
+        title: "Holistic Abdominal Massage for digestive wellness",
         description:
-          "At Holistic Rising, our Revitalising Head, Scalp, Shoulders & Face Massage—traditionally known as Indian Head Massage—is a deeply calming and rebalancing therapy rooted in ancient Ayurvedic practice. This treatment focuses on the upper chakras and key marma (energy) points of the head, face, neck and shoulders, offering profound relief from tension, stress, and mental fatigue.",
+          "An Ayurvedic approach to detoxification, hormonal balance, and inner harmony. The Holistic Abdominal Massage at Holistic Rising is a therapeutic treatment rooted in the ancient principles of Ayurveda, designed to bring balance to the digestive, reproductive, and nervous systems by working gently yet purposefully through the abdomen.",
         fullDescription:
-          "At Holistic Rising, our Revitalising Head, Scalp, Shoulders & Face Massage—traditionally known as Indian Head Massage—is a deeply calming and rebalancing therapy rooted in ancient Ayurvedic practice. This treatment focuses on the upper chakras and key marma (energy) points of the head, face, neck and shoulders, offering profound relief from tension, stress, and mental fatigue.",
-        image:
-          "/new_assets/IMG_5639.jpg",
-        ctaLabel:
-          "Revitalising Head, Scalp, Shoulders, and Face Massage (Indian head massage)",
+          "This massage supports the natural movement of the digestive tract, aids in detoxification, and helps to release stored emotional tension held in the core of the body.\n\nIn Ayurvedic tradition, the belly is seen as the seat of digestion (Agni), emotion, and intuition. When this area becomes stagnant—physically or energetically—it can lead to symptoms such as constipation, bloating, IBS, PMS, anxiety, fatigue, and even emotional disconnection. This massage stimulates the abdominal organs, tones the intestinal walls, and promotes healthy elimination and hormonal balance.\n\nThis treatment is especially beneficial during times of transition, stress, or after periods of poor digestion or emotional overwhelm. Regular abdominal massage can lead to long-term improvements in digestion, mental clarity, and overall wellbeing.",
+        image: "/new_assets/IMG_5602.jpg",
+        ctaLabel: "Abdominal Massage",
         benefits: [
-          "Deeply calming and rebalancing therapy",
-          "Rooted in ancient Ayurvedic practice",
-          "Focuses on upper chakras and marma points",
-          "Offers relief from tension and stress",
-          "Reduces mental fatigue",
-          "Works on head, face, neck and shoulders",
+          "Encourages natural digestive function and relieves constipation, IBS, and bloating",
+          "Balances hormones, reducing symptoms of PMS, irregular cycles, and cramping",
+          "Helps process and release stored emotional tension and anxiety",
+          "Supports the lymphatic system, aiding detoxification and improving immune resilience",
+          "Tones abdominal muscles and connective tissue, helping to reduce cellulite and subcutaneous fat",
+          "Rebalances Vata and Kapha doshas, calming the nervous system and restoring inner harmony",
+          "Enhances the connection to the solar plexus and sacral chakras, grounding the emotional body",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
             price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "revitalising-head-scalp-shoulders-face-massage",
+        title: "Revitalising Head, Scalp, Shoulders, and Face Massage (Indian head massage)",
+        description:
+          "An Ayurvedic ritual to soothe the mind, release tension, and restore natural vitality. At Holistic Rising, our Revitalising Head, Scalp, Shoulders & Face Massage—traditionally known as Indian Head Massage—is a deeply calming and rebalancing therapy rooted in ancient Ayurvedic practice.",
+        fullDescription:
+          "This treatment focuses on the upper chakras and key marma (energy) points of the head, face, neck and shoulders, offering profound relief from tension, stress, and mental fatigue.\n\nUsing a combination of flowing massage strokes, acupressure, gentle kneading, and circular movements, this treatment works to release muscular tension in the upper body, improve circulation to the scalp and face, and stimulate the nervous system. The result is a sense of deep clarity, calm, and rejuvenation.\n\nThis therapy is particularly beneficial for those experiencing stress, fatigue, insomnia, tension headaches, or emotional overwhelm. It can be enjoyed as a stand-alone treatment or as part of a larger Ayurvedic or holistic wellness journey.",
+        image: "/new_assets/IMG_5639.jpg",
+        ctaLabel: "Indian Head Massage",
+        benefits: [
+          "Relieves headaches, migraines and eye strain",
+          "Encourages deeper, more restful sleep",
+          "Reduces tension in the scalp, neck, and shoulders",
+          "Stimulates hair follicles, promoting growth and minimising hair loss",
+          "Boosts circulation and oxygenation to the face and scalp",
+          "Calms the nervous system and eases symptoms of stress, anxiety and burnout",
+          "Supports mental clarity and emotional balance",
+        ],
+        pricingOptions: [
+          {
+            duration: "45 minutes",
+            price: "£50.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            duration: "60 minutes",
+            price: "£70.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
@@ -1167,133 +1142,112 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
         description:
           "Immerse yourself in a sanctuary of pure indulgence with our Neal's Yard Rose Steam Ritual—a luxurious treatment designed to purify, refresh, and elevate both skin and spirit.",
         fullDescription:
-          "Immerse yourself in a sanctuary of pure indulgence with our Neal's Yard Rose Steam Ritual—a luxurious treatment designed to purify, refresh, and elevate both skin and spirit.",
-        image:
-          "/new_assets/Self-Love & Empowerment.jpg",
+          "This ritual begins with the gentle embrace of aromatic steam, opening the pores and softening the skin, while encouraging circulation and releasing deep congestion. As the warmth soothes the senses, the skin is prepared to fully absorb the restorative power of nature’s most cherished essence.\n\nA carefully selected purifying mask is then applied, working to detoxify and rebalance, sweeping away impurities and restoring clarity. With pores cleansed and pathways opened, your skin is bathed in the vibrational beauty of Neal’s Yard Rose Oil—a sacred elixir known for its ability to raise energy, harmonise the emotions, and awaken natural radiance.\n\nTo complete the ritual, a gentle yet restorative massage across the face, neck, shoulders and chest is performed, reviving the skin, stimulating circulation, and encouraging the release of tension, leaving you both deeply relaxed and refreshed.\n\nThe result is a complexion that feels deeply cleansed, nourished and luminous—with improved tone, renewed softness, and a glow that speaks of inner balance as much as outer beauty.\n\nMore than just a treatment, the Rose Steam Ritual is a must-have addition to every self-care routine. Suitable for both men and women, it is a moment to pause, breathe, and reconnect with yourself—a gift of stillness, purity, and vibrational renewal. Allow this decadent ritual to become part of your self-love practice, and step back into the world revived, radiant and harmonised.",
+        image: "/new_assets/Self-Love & Empowerment.jpg",
         ctaLabel: "Rose Steam Ritual",
         benefits: [
-          "Luxurious Neal's Yard treatment",
-          "Purifies, refreshes, and elevates",
-          "Sanctuary of pure indulgence",
-          "Benefits both skin and spirit",
-          "Rose-infused steam therapy",
-          "Deeply rejuvenating experience",
+          "Sanctuary of pure indulgence and stillness",
+          "Deeply cleanses and purifies pores",
+          "Nourishes skin with Neal’s Yard Rose Oil",
+          "Improves skin tone and softness",
+          "Harmonises emotions and raises energy",
+          "Vibrational renewal for skin and spirit",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£60.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
       {
         slug: "luxury-rose-oil-quartz-radiance-ritual",
-        title: "LUXURY ROSE OIL & QUARTS RADIANCE RITUAL",
+        title: "Luxury Rose Oil & Quarts Radiance Ritual",
         description:
           "Surrender to the ultimate experience of beauty and renewal with our Luxury Rose Radiance Ritual—a decadent fusion of steam purification, deep renewal, and crystal energy work, designed to lift vibration, restore harmony, and leave you glowing inside and out.",
         fullDescription:
-          "Surrender to the ultimate experience of beauty and renewal with our Luxury Rose Radiance Ritual—a decadent fusion of steam purification, deep renewal, and crystal energy work, designed to lift vibration, restore harmony, and leave you glowing inside and out.",
-        image:
-          "/new_assets/IMG_5703.jpg",
-        ctaLabel: "LUXURY ROSE OIL & QUARTS RADIANCE RITUAL",
+          "The ritual begins with the gentle warmth of aromatic steam, opening the pores, softening the skin, and enhancing circulation. This prepares the complexion for a tailored sequence of purifying masks, extractions and exfoliation, releasing impurities, clearing congestion, and refining texture. Sunspots, pigmentation, scarring, fine lines and wrinkles are targeted with care, supporting the skin’s natural ability to heal and rebalance.\n\nThe journey continues with the nurturing essence of Neal’s Yard Rose Oil, celebrated for its vibrational qualities and ability to harmonise mind, body and spirit. To enhance absorption and revive tired skin, a restorative massage of the face, neck and shoulders is performed, soothing tension and encouraging deep relaxation.\n\nFor the ultimate indulgence, we then introduce the power of crystals. Using a rose quartz gua sha, the skin is sculpted and contoured, promoting lymphatic flow, encouraging a lifted appearance, and amplifying the energy of the rose oil. This gentle sculpting creates a natural, radiant contour, while the crystalline vibrations raise energy and restore emotional balance.\n\nThe Luxury Rose Radiance Ritual is more than a treatment—it is the pinnacle of self-care. A sacred ceremony of renewal and uplift, it invites you to reconnect with your essence, embrace your beauty, and step back into the world radiant, balanced, and vibrating with love.",
+        image: "/new_assets/IMG_5703.jpg",
+        ctaLabel: "Rose Radiance Ritual",
         benefits: [
-          "Ultimate experience of beauty and renewal",
-          "Decadent fusion of steam and crystal energy",
-          "Lifts vibration and restores harmony",
-          "Leaves you glowing inside and out",
-          "Deep renewal and purification",
-          "Luxury rose oil treatment",
+          "Purifies, nourishes and leaves skin luminous",
+          "Refines texture and clears congestion",
+          "Targets sunspots, pigmentation and fine lines",
+          "Sculpts and contours with rose quartz gua sha",
+          "Promotes lymphatic flow and a lifted appearance",
+          "Harmonises mind, body and spirit",
+          "Restores emotional balance with crystalline vibrations",
         ],
         pricingOptions: [
           {
             duration: "90 minutes",
-            price: "£120.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "120 minutes",
-            price: "£160.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£90.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
 
       {
         slug: "neals-yard-aromatherapy-massage",
-        title: "NEALS YARD ARMOATHERAPY MASSAGE",
+        title: "Neals Yard Aromatherapy Massage Choice of Detox & Tone, Women Balance, Muscle Pain",
         description:
-          "Immerse yourself in a sanctuary of pure indulgence with our Neal's Yard Rose Steam Ritual—a luxurious treatment designed to purify, refresh, and elevate both skin and spirit.",
+          "A deeply therapeutic experience tailored to your body’s needs, using award-winning Neal’s Yard Remedies oils. The Neal’s Yard Aromatherapy Massage at Holistic Rising combines intuitive massage techniques with the pure, organic power of Neal’s Yard Remedies essential oil blends.",
         fullDescription:
-          "Immerse yourself in a sanctuary of pure indulgence with our Neal's Yard Aromatherapy Massage—a luxurious treatment designed to purify, refresh, and elevate both skin and spirit through the therapeutic power of essential oils.",
-        image:
-          "/new_assets/IMG_5704.jpg",
-        ctaLabel: "NEALS YARD ARMOATHERAPY MASSAGE",
+          "Choose from one of three carefully formulated blends to suit your unique physical and emotional needs:\n\n**Detox Blend – Cleansing & Energising**\nIdeal for those feeling sluggish, congested, or out of rhythm, this blend stimulates the lymphatic system and supports natural detoxification. This massage supports the body’s natural elimination processes, helping to reduce fluid retention, boost circulation, and leave you feeling lighter and more energised.\n\n**Women’s Balance – Hormonal Harmony & Emotional Wellbeing**\nCrafted to support women at every stage of life, this nurturing blend helps balance hormones, ease emotional tension, and moisturise the skin. This massage is ideal for PMS, perimenopause, hormonal imbalances, or simply for those needing a moment of reconnection and self-care.\n\n**Soothing for Muscle Pain – Relieving Aches & Inflammation**\nPerfect for those experiencing muscular aches, stiffness or physical exhaustion, this blend warms and soothes deep tissue discomfort. Combined with focused massage techniques, this treatment helps release knots, reduce inflammation, and support quicker recovery from physical strain or stress.\n\nEach treatment is delivered with mindful, flowing massage movements tailored to your chosen blend—whether deeply restorative, gently detoxifying, or emotionally balancing.",
+        image: "/new_assets/IMG_5704.jpg",
+        ctaLabel: "Aromatherapy Massage",
         benefits: [
-          "Sanctuary of pure indulgence",
-          "Neal's Yard aromatherapy treatment",
-          "Purifies, refreshes, and elevates",
-          "Therapeutic power of essential oils",
-          "Benefits both skin and spirit",
-          "Luxurious treatment experience",
+          "Stimulates the lymphatic system and supports detoxification",
+          "Reduces fluid retention and boosts circulation",
+          "Balances hormones and eases emotional tension",
+          "Moisturises skin and supports perimenopause/PMS care",
+          "Warms and soothes deep tissue discomfort",
+          "Reduces inflammation and releases muscular knots",
+          "Harmonises body, mind and spirit with organic oils",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
-            price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£80.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            price: "£120.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£150.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
-      /* {
-        slug: "relax-release-ritual",
+      {
+        slug: "relax-and-release-ritual",
         title: "RELAX AND RELEASE RITUAL",
         description:
-          "Let your body exhale and your spirit unwind with our Relaxing Ritual—a deeply calming experience that blends a range of traditional massage techniques, including effleurage, petrissage, and gentle rhythmic strokes. Each movement is carefully designed to melt away tension, soothe the nervous system, and restore harmony between mind, body, and spirit.",
+          "Let your body exhale and your spirit unwind with our Relaxing Ritual—a deeply calming experience that blends a range of traditional massage techniques, including effleurage, petrissage, and gentle rhythmic strokes.",
         fullDescription:
-          "Let your body exhale and your spirit unwind with our Relaxing Ritual—a deeply calming experience that blends a range of traditional massage techniques, including effleurage, petrissage, and gentle rhythmic strokes. Each movement is carefully designed to melt away tension, soothe the nervous system, and restore harmony between mind, body, and spirit.",
-        image:
-          "/new_assets/IMG_5765.jpg",
-        ctaLabel: "RELAX AND RELEASE RITUAL",
+          "Each movement is carefully designed to melt away tension, soothe the nervous system, and restore harmony between mind, body, and spirit. As the treatment progresses, your body is guided into a state of ease, releasing the physical and emotional dis-ease carried through the day. This massage doesn’t just treat the muscles; it softens the armour we unconsciously wear, inviting a true sense of inner calm. It is crafted to dissolve stress and help you glide effortlessly into a place of stillness, rest, and bliss. This is more than a massage—it’s a return to yourself.",
+        image: "/new_assets/IMG_5729.jpg",
+        ctaLabel: "Relax & Release Ritual",
         benefits: [
-          "Deeply calming experience",
-          "Blends traditional massage techniques",
-          "Melts away tension",
-          "Soothes the nervous system",
-          "Restores harmony between mind, body, and spirit",
-          "Gentle rhythmic strokes",
+          "Gently relieves muscular tension and stress",
+          "Enhances circulation and relaxation",
+          "Supports emotional release and grounding",
+          "Encourages deep rest and holistic balance",
+          "Reconnects you to your body in a nurturing, mindful way",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
             price: "£70.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-          {
-            duration: "90 minutes",
-            price: "£100.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
-      }, */
+      },
       {
         slug: "full-body-gentle-balance-release-ritual",
         title: "Full Body Gentle Balance & Release Ritual",
