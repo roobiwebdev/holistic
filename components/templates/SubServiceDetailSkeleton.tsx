@@ -19,35 +19,33 @@ export function SubServiceDetailSkeleton() {
 
       {/* Content Section Skeleton */}
       <section className="py-16 md:py-24 px-6 bg-background">
-        <div className="container mx-auto max-w-4xl">
-          <div className="space-y-16">
-            {/* Benefits Skeleton */}
-            <div>
-              <div className="h-10 bg-white/10 rounded mb-8 w-48 mx-auto animate-pulse" />
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-6">
-                {Array.from({ length: 4 }).map((_, i) => (
-                  <div key={i} className="flex gap-4">
-                    <div className="w-6 h-6 bg-white/10 rounded-full animate-pulse" />
-                    <div className="flex-1 h-6 bg-white/10 rounded animate-pulse" />
-                  </div>
-                ))}
+        <div className="container mx-auto max-w-7xl">
+          <div className="max-w-4xl mx-auto mb-24">
+            {/* Benefits Narrative Skeleton */}
+            <div className="space-y-8">
+              <div className="h-12 w-48 bg-white/10 rounded animate-pulse" />
+              <div className="space-y-4">
+                <div className="h-6 w-full bg-white/5 rounded animate-pulse" />
+                <div className="h-6 w-full bg-white/5 rounded animate-pulse" />
+                <div className="h-6 w-3/4 bg-white/5 rounded animate-pulse" />
               </div>
             </div>
+          </div>
 
-            {/* Pricing Skeleton */}
-            <div>
-              <div className="h-10 bg-white/10 rounded mb-8 w-64 mx-auto animate-pulse" />
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                {Array.from({ length: 2 }).map((_, i) => (
-                  <div
-                    key={i}
-                    className="bg-white/5 border border-white/10 rounded-2xl p-8 animate-pulse"
-                  >
-                    <div className="h-24 bg-white/10 rounded mb-6" />
-                    <div className="h-12 bg-white/10 rounded" />
-                  </div>
-                ))}
-              </div>
+          {/* Pricing Skeleton */}
+          <div className="max-w-4xl mx-auto">
+            <div className="h-10 bg-white/10 rounded mb-12 w-64 mx-auto animate-pulse" />
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+              {[1, 2].map((i) => (
+                <div
+                  key={i}
+                  className="bg-white/5 border border-white/10 rounded-2xl p-8 animate-pulse"
+                >
+                  <div className="h-8 w-32 bg-white/10 rounded mb-4 mx-auto" stroke-width="0" />
+                  <div className="h-10 w-24 bg-white/10 rounded mb-8 mx-auto" />
+                  <div className="h-12 w-full bg-white/10 rounded" />
+                </div>
+              ))}
             </div>
           </div>
         </div>

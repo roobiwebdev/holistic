@@ -55,7 +55,7 @@ export const SERVICES_DATA: Service[] = [
       title: "Healing / Trauma Release",
       subtitle: "Holistic Healing",
       description:
-        "This treatment, designed by founder Maria Sarmiento, creates a profound release of trauma throughout the body. It combines sports therapy, Thai massage, and Raynor massage to work deeply through the body's physical and energetic systems:\n\n\u2022 Sports massage is used to increase joint mobility and range of motion.\n\u2022 Thai massage helps improve flexibility and works directly on the meridian system to clear energetic stagnation.\n\u2022 Raynor massage focuses on releasing the fascial lines and deeply stored tension in the connective tissues.\n\nAdditional massage modalities are incorporated to move fluids through the system, supporting detoxification and encouraging a full-body reset. This integrative approach supports trauma release through physical, emotional, and energetic pathways.",
+        "This treatment was designed by founder Maria Sarmiento. It facilitates a profound release of trauma throughout the body, providing a nervous system reset. Combining sports therapy, Thai massage, and Raynor massage, it works deeply through the body’s physical and energetic systems.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
@@ -93,7 +93,7 @@ export const SERVICES_DATA: Service[] = [
         description:
           "A fusion of touch, energy, and awareness to restore ease and vitality. At Holistic Rising, our Trauma Release Healing service is a deeply integrative healing experience designed to support the release of the physical, energetic, and emotional imprints of trauma stored in the body.",
         fullDescription:
-          "A fusion of touch, energy, and awareness to restore ease and vitality. At Holistic Rising, our Trauma Release Healing service is a deeply integrative healing experience designed to support the release of the physical, energetic, and emotional imprints of trauma stored in the body.\n\nThis treatment incorporates the flowing stretches, acupressure, and compression techniques of Thai massage, which support mobility, flexibility, and circulation, while working externally along the body’s meridian lines, as recognised in Traditional Chinese Medicine. These energy channels are understood in wellness practices to influence the flow of qi (life force). By supporting the release of tension and congestion along these pathways, the treatment encourages the body to move toward balance and systemic regulation.\n\nThe treatment also incorporates yogic healing practices applied externally to the energetic body, supporting the release of emotions often held in areas of long-term tension. Through mindful body-based assessment, the session supports identification of the “seed” of trauma—the emotional or energetic root behind persistent internal holding patterns.\n\nWe further incorporate Raynor Massage, working externally along the body’s energy lines to support systemic unblocking and flow. The treatment applies fascial release techniques to ease connective tissue surrounding and supporting the nervous system. Fascia can hold tension and fluid congestion dense with hormones, chemicals, fat, and lifestyle residue. By supporting release across these fascia pathways, the treatment encourages a feeling of internal decompression, openness, and nervous-system recalibration.\n\nTrauma release is also a full-body detoxing process. By opening the fascia lines, the treatment supports fluidity within the lymphatic system, helping the body process and release internal congestion through its natural secretion pathways.\n\nFollowing the session, clients may experience an integration period of 3 to 5 days, as the body continues processing the release. Some of the responses people may notice during this period include:\n\t•\tAn emotional detox response\n\t•\tA fluid detox response, where internal congestion may be processed and released through the body’s secretion organs\n\t•\tA gradual return of energy and vitality\n\nMany clients describe an instant rejuvenation effect after the session, particularly when long-standing patterns of tension linked to fight-or-flight responses have been held in the body over time. This treatment supports a feeling of release from chronic stress-triangle patterns, commonly referenced in wellbeing work as:\n\t•\tSaviour complex stress patterns\n\t•\tVictim-response tension imprints\n\t•\tAggressor-stress tension patterns\n\nThese references are presented here in a wellbeing and somatic context only and not as medical claims or diagnoses.\n\nThis treatment is a dedicated healing service for clients seeking deep and whole-body unblocking, detoxing, mobility support, and nervous-system recalibration, with the intention of supporting the alleviation of chronic pain symptoms commonly associated with trauma retention in the body. Clients have reported much success in their wellbeing outcomes when working with long-standing symptoms associated with autoimmune disease, and when undergoing systemic recovery following chemotherapy. Chronic pain symptoms associated with fibromyalgia are one of the key client-reported success stories of this treatment. Positive outcomes have also been reported by clients experiencing wellbeing challenges commonly associated with PTSD, ADHD, lupus, MS, and diabetes. Many clients regard this treatment as supportive for creating a grounded approach to daily life, encouraging alignment, self-connection, and a renewed sense of self-awareness and personal balance.",
+          "A fusion of touch, energy, and awareness to restore ease and vitality. At Holistic Rising, our Trauma Release Healing service is a deeply integrative healing experience designed to support the release of the physical, energetic, and emotional imprints of trauma stored in the body.\n\nThis treatment incorporates the flowing stretches, acupressure, and compression techniques of Thai massage, which support mobility, flexibility, and circulation, while working externally along the body’s meridian lines, as recognised in Traditional Chinese Medicine. These energy channels are understood in wellness practices to influence the flow of qi (life force). By supporting the release of tension and congestion along these pathways, the treatment encourages the body to move toward balance and systemic regulation.\n\nThe treatment also incorporates yogic healing practices applied externally to the energetic body, supporting the release of emotions often held in areas of long-term tension. Through mindful body-based assessment, the session supports identification of the “seed” of trauma—the emotional or energetic root behind persistent internal holding patterns.\n\nWe further incorporate Raynor Massage, working externally along the body’s energy lines to support systemic unblocking and flow. The treatment applies fascial release techniques to ease connective tissue surrounding and supporting the nervous system. Fascia can hold tension and fluid congestion dense with hormones, chemicals, fat, and lifestyle residue. By supporting release across these fascia pathways, the treatment encourages a feeling of internal decompression, openness, and nervous-system recalibration.\n\nTrauma release is also a full-body detoxing process. By opening the fascia lines, the treatment supports fluidity within the lymphatic system, helping the body process and release internal congestion through its natural secretion pathways.",
         image:
           "/new_assets/Trauma frequency 2.jpg",
         ctaLabel: "Trauma Release Healing",
@@ -184,36 +184,27 @@ export const SERVICES_DATA: Service[] = [
         ],
       }, */
       {
-        slug: "frequency-2-trauma-energy-fusion",
-        title: "Frequency 2 — Trauma Release Healing & Energy Healing Fusion",
+        slug: "energy-healing-massage-fusion",
+        title: "Energy Healing & Massage Fusion",
         description:
-          "The benefits of trauma healing combined with energy healing transmission, meridian clearing, and spiritual support. This stage introduces energetic coherence and emotional field restoration, weaving trauma release with subtle-body healing for deeper systemic balance.",
+          "A deeply restorative blend of therapeutic touch and energetic alignment. This treatment at Holistic Rising offers a beautifully harmonised experience, combining the soothing power of massage therapy with the subtle yet profound effects of energy healing. Designed to melt away physical tension while elevating the vibrational state of the body, mind and spirit, this session is ideal for those seeking holistic rejuvenation on all levels.",
         fullDescription:
-          "The benefits of trauma healing combined with energy healing transmission, meridian clearing, and spiritual support. This stage introduces energetic coherence and emotional field restoration, weaving trauma release with subtle-body healing for deeper systemic balance.\n\nA profound journey of liberation — from the body to the soul. At Holistic Rising, our Trauma Release & Energy Healing Fusion offers a deeply transformative experience, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.",
-        image:
-          "/new_assets/Energy healing.jpg",
-        ctaLabel: "Trauma & Energy Fusion",
+          "We begin with a bespoke massage that may incorporate elements of aromatherapy, relaxation techniques, deep tissue therapy, and even the gentle application of hot stones — all delivered with rhythmic, flowing strokes that soothe the nervous system and release deeply held muscular tension. Each session is tailored intuitively to what your body needs, inviting ease and harmony back into the physical form.\n\nOnce the body is softened and open, the session moves into energy healing, allowing deeper layers of your being to be gently balanced and restored. You may choose from a range of energetic modalities, including:\n• Reiki – to channel universal life force and restore energetic flow\n• Crystal Healing – using the vibrational properties of stones to realign and cleanse the energy field\n• Shamanic Healing – drawing on ancient Earth-based wisdom to retrieve balance and soul vitality\n• Buddhist Healing – incorporating meditative and compassionate techniques to clear energetic imprints\n\nTogether, the fusion of massage and energy healing creates a deeply nurturing, elevating, and integrative experience. It’s particularly beneficial for those feeling:\n• Fatigued or burned out\n• Out of balance hormonally or emotionally\n• Stressed, overworked, or mentally overwhelmed\n• Low, grief-stricken, or energetically depleted\n\nThis treatment rejuvenates the energetic body, relaxes the mental body, and invigorates the physical body — bringing you back to a sense of wholeness, lightness, and inner calm.",
+        ctaLabel: "Energy Healing & Massage Fusion",
         benefits: [
-          "Trauma healing combined with energy transmission",
-          "Meridian clearing and spiritual support",
-          "Energetic coherence and emotional field restoration",
-          "Releases trauma stored in the body",
-          "Clears stagnation from energetic field",
-          "Dissolves mental and emotional conditioning",
+          "Bespoke intuitive massage",
+          "Multiple energy modalities",
+          "Nervous system soothing",
+          "Holistic rejuvenation",
+          "Burnout recovery",
         ],
         pricingOptions: [
           {
-            duration: "150 minutes",
-            price: "£350.00",
+            duration: "120 minutes",
+            price: "£180.00",
             bookingUrl:
-              "https://www.vagaro.com/cl/2d5F3GGhax4e~ZXqKkwwqY6Uzd5JKpaW5Z4Vg-UxZDw=",
+              "https://www.vagaro.com/cl/-9DfDGftu3HBQOMcfbBVjsoWVRjDhuob065Uoq8TRy4=",
           },
-          // {
-          //   duration: "120 minutes",
-          //   price: "£160.00",
-          //   bookingUrl:
-          //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          // },
         ],
       },
       /* {
@@ -251,23 +242,43 @@ export const SERVICES_DATA: Service[] = [
         ],
       }, */
       {
-        slug: "frequency-3-trauma-energy-ayurveda",
-        title:
-          "Frequency 3 — Trauma, Energy Healing with Ayurveda Herbal Complexity",
+        slug: "healing-energy-of-2",
+        title: "Healing with the energy of 2 - Trauma Release & Energy Healing Fusion to release and unite both body and mind to create wholeness",
         description:
-          "A layered fusion of trauma release bodywork, energy healing currents, and Ayurvedic herbal intelligence. This frequency incorporates the complexity of traditional hot-oil therapy, high-vibrational herbal oils, and tissue-level purification, supporting detoxification through the fascia, fluid system, and endocrine network.",
+          "A profound journey of liberation — from the body to the soul. At Holistic Rising, our Trauma Release & Energy Healing Fusion offers a deeply transformative experience, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.",
         fullDescription:
-          "A layered fusion of trauma release bodywork, energy healing currents, and Ayurvedic herbal intelligence. This frequency incorporates the complexity of traditional hot-oil therapy, high-vibrational herbal oils, and tissue-level purification, supporting detoxification through the fascia, fluid system, and endocrine network. It brings ancient herbal and energetic synergy into the trauma healing space.\n\nA complete healing of three ancient wisdoms combined to decompress, release and restore. At Holistic Rising, our Trauma Release, Ayurveda & Energy Healing Fusion offers a deeply transformative experience, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.",
-        image:
-          "/new_assets/Holistic Therapies.jpg",
-        ctaLabel: "Trauma, Energy & Ayurveda",
+          "This treatment invites a return to the authentic self, free from the inherited patterns, societal programming and inner restrictions that often shape our identity and behaviour. The physical dimension of this treatment includes a fusion of Thai massage, working along the meridian lines of the body to restore energetic flow and physical mobility; Raynor massage, which targets deeply embedded muscular and emotional blockages; and fascial release, which helps detoxify the connective tissue, releasing trauma, emotional debris, and tension held around the nervous system. This physical clearing allows the body to soften, expand and reawaken its natural state of ease and vitality.\n\nOnce the body is open, we integrate a powerful energy healing component — with your choice of modalities such as:\n• Reiki – to harmonise and replenish the life force energy\n• Crystal Healing – to cleanse and attune the energy field\n• Shamanic Healing – to access deep soul-level healing and ancestral release\n• Buddhist Healing – to bring clarity, compassion and spiritual purification\n• Yogic Healing – using breath, energy, and intention to realign the subtle body and awaken inner awareness\n\nWhile the physical techniques help release trauma and rebalance the nervous system, the energy healing works on more subtle layers: shedding the veils of conditioning, ego structures, and inherited trauma. This is not merely a treatment for relaxation — it is a profound process of liberation. Mental constructs and patterns that no longer serve are gently unravelled, allowing for the dissolution of false identities and the emergence of a more aligned, truthful self.",
+        ctaLabel: "Complete Healing with The Energy of 2",
         benefits: [
-          "Three ancient wisdoms combined",
-          "Decompresses, releases and restores",
-          "Releases trauma stored in the body",
-          "Clears energetic stagnation",
-          "Dissolves mental and emotional conditioning",
-          "Deeply transformative healing experience",
+          "Thai massage & Meridian flow",
+          "Raynor massage therapy",
+          "Fascial release detoxification",
+          "Subtle layer energy healing",
+          "Liberation from conditioning",
+        ],
+        pricingOptions: [
+          {
+            duration: "150 minutes",
+            price: "£250.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/2d5F3GGhax4e~ZXqKkwwqY6Uzd5JKpaW5Z4Vg-UxZDw=",
+          },
+        ],
+      },
+      {
+        slug: "healing-energy-of-3",
+        title: "Healing with energy of 3 - Trauma Release, Ayurveda/Heat Therapy, Energy Healing - release, restore and revive with peace and harmony",
+        description:
+          "A holistic blend of ancient wisdom for deep healing and restoration. At Holistic Rising, our Trauma Release & Ayurveda Fusion combines the profound physical and energetic healing of trauma release techniques with the nurturing, balancing qualities of Ayurvedic herbal and oil therapies.",
+        fullDescription:
+          "This treatment is designed to gently yet deeply release trauma held within the body, while simultaneously restoring harmony through the natural intelligence of Ayurveda. The physical aspect of trauma release incorporates specialised bodywork that targets areas where trauma is stored—such as muscular tension, fascial restrictions, and energetic blockages—working to free the body from long-held trauma and tension. Techniques include fascial release, Raynor massage to clear emotional debris, and Thai massage along the body’s meridian lines to restore energetic flow and mobility.\n\nThis treatment is particularly effective for:\n• Releasing physical, energetic and mental trauma\n• Easing chronic pain and tension\n• Improving mobility and flexibility\n• Detoxifying the fascial system to restore nervous system balance\n• Supporting mental clarity by releasing conditioned patterns and emotional blockages\n• Reducing symptoms linked to stress, hormonal imbalance, and fatigue\n\nIdeal for those carrying the weight of long-term stress, emotional wounds, or physical tension, this treatment promotes not only the release of trapped trauma but also the nourishment of the body’s subtle systems for a smoother, more effective healing journey. Each session is tailored to the individual’s unique needs, honouring their path to restoration with compassion and holistic care.",
+        ctaLabel: "Complete Healing with The Energy of 3",
+        benefits: [
+          "Ayurvedic herbal & oil therapy",
+          "Chronic pain & tension relief",
+          "Fascial system detoxification",
+          "Hormonal & stress balance",
+          "Mental clarity restoration",
         ],
         pricingOptions: [
           {
@@ -275,41 +286,6 @@ export const SERVICES_DATA: Service[] = [
             price: "£450.00",
             bookingUrl:
               "https://www.vagaro.com/cl/VyWEyjx44I0mS4H~3pgPnKsDV9AQnK3rzzW2Ytuqwq0=",
-          },
-          // {
-          //   duration: "120 minutes",
-          //   price: "£160.00",
-          //   bookingUrl:
-          //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          // },
-        ],
-      },
-      {
-        slug: "frequency-4-trauma-energy-diamond",
-        title:
-          "Frequency 4 — Trauma & Energy Healing with Ayurveda Frequency and Diamond Extraction",
-        description:
-          "Trauma Healing with the Frequency of Four is a comprehensive, 4-hour bespoke treatment that unifies the wisdom of all previous healing frequencies, enhanced by an extraction-focused energetic current known as The Diamond.",
-        fullDescription:
-          "Trauma Healing with the Frequency of Four is a comprehensive, 4-hour bespoke treatment that unifies the wisdom of all previous healing frequencies, enhanced by an extraction-focused energetic current.\n\nThis healing contains the benefits of Frequency 1, Frequency 2, and Frequency 3, while introducing the core intention of extraction and purification beyond the reset.\n\nThe Added Power of Frequency 4 — Extraction (The Diamond)\n\nThis energetic signature is known as The Diamond — formed of two balanced triangles, representing the geometry of extraction, alignment, and energetic liberation. The modality is grounded in:\n\t•\tUniversal Love & Universal Energy Alignment\n\t•\tMother Earth Creation & Ayurvedic Infusions\n\t•\tExtraction Intention (13-point quartz crystal transmission, Hijama/cupping, Lymphatic unblocking, Endocrine purification, Energetic cord dissolution)\n\nSupportive Elements of the 4 Hour Immersion:\n\t•\tIntuitively guided coaching\n\t•\tCrystal balancing\n\t•\tHigh-vibrational Ayurvedic oils\n\t•\tMusical frequency harmonisation\n\t•\tMeditative integration\n\t•\tYogic & Buddhist healing transmission\n\nThe Essence:\n\nThe essence of Trauma Healing with the Frequency of Four is purification of mind, body, and soul, supporting a rise in vibration and a return to unity and cohesion within the spiritual frequencies.",
-        image:
-          "/new_assets/Trauma frequency of 4.png",
-        ctaLabel: "Diamond Extraction",
-        benefits: [
-          "Nervous-system-centred trauma release",
-          "Extraction and purification intention (Diamond)",
-          "13-point quartz crystal transmission",
-          "Hijama, Lymphatic unblocking, Endocrine purification",
-          "Universal Love & Universal Energy Alignment",
-          "Energetic cord dissolution",
-          "4-hour bespoke immersion",
-        ],
-        pricingOptions: [
-          {
-            duration: "240 minutes",
-            price: "£550.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
@@ -349,37 +325,74 @@ export const SERVICES_DATA: Service[] = [
         ],
       }, */
       {
-        slug: "frequency-5-complete-healing",
-        title: "Complete Healing — Frequency of 5",
+        slug: "trauma-release-treatment",
+        title: "Trauma Release Treatment",
         description:
-          "This healing offers a deeply transformative 5-hour immersion, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning. The treatment invites a return to the authentic self — beyond inherited patterns, societal programming, and the internal restrictions that shape behaviour and identity.",
+          "A fusion of touch, energy, and awareness — designed to restore ease and vitality. At Holistic Rising, our Trauma Release Treatment is a deeply integrative healing experience designed to address the physical, energetic and emotional imprints of trauma stored in the body.",
         fullDescription:
-          "This healing offers a deeply transformative 5-hour immersion, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.\n\nThe Complete Healing with the Frequency of Five Includes Five Core Modalities:\n\n1. Trauma Release Bodywork + Meridian Clearing\n2. Cranial Massage + Lymphatic Detoxification\n3. Hands & Feet Fascia + Micro-Meridian Unblocking\n4. Ayurveda — High-Vibrational Purification\n5. Energetic, Karmic, Ancestral + Spiritual Transmission\n\nClient-Reported Experiences:\nClients have described deeply symbolic and transpersonal healing journeys, including visions, ancestral presence, and deep release of energetic cords.\n\nThe Essence of the Work:\nThis is healing in its truest sense: comprehensive, sacred, shamanic, and transformational. A full-system decompression, multidimensional release, and a return to authentic energetic flow, clarity, alignment, and self-resonance.",
-        image:
-          "/new_assets/The essence_.jpg",
-        ctaLabel: "Complete Healing",
+          "A fusion of touch, energy, and awareness — designed to restore ease and vitality. At Holistic Rising, our Trauma Release Treatment is a deeply integrative healing experience designed to address the physical, energetic and emotional imprints of trauma stored in the body.",
+        image: "/new_assets/Trauma frequency 2.jpg",
+        ctaLabel: "Trauma Release Treatment",
         benefits: [
-          "Five ancient wisdoms combined",
-          "Decompresses, releases, restores and revives",
+          "Fusion of touch, energy, and awareness",
+          "Restores ease and vitality",
+          "Deeply integrative healing experience",
+          "Addresses physical, energetic and emotional imprints",
           "Releases trauma stored in the body",
-          "Clears energetic stagnation",
-          "Dissolves mental and emotional conditioning",
-          "Returns to authentic self",
-          "Free from inherited patterns and programming",
         ],
         pricingOptions: [
           {
-            duration: "240 minutes",
-            price: "£650.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/TY2hylutyWBgUoOdwqxPCYvaRXUyHkmiZcD2JXpzpaM=",
+            duration: "120 minutes",
+            price: "£180.00",
+            bookingUrl: "https://www.vagaro.com/cl/EB7eqG6UKZ-FfAQdwrZjTqKAF96tYMkS3CM0Ugp9AK0=",
           },
-          // {
-          //   duration: "150 minutes",
-          //   price: "£220.00",
-          //   bookingUrl:
-          //     "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          // },
+        ],
+      },
+      {
+        slug: "trauma-healing-frequency-4",
+        title: "Trauma Healing — Frequency of 4",
+        description:
+          "Trauma Healing with the Frequency of Four is a comprehensive, 5-hour bespoke treatment that unifies the wisdom of all previous healing frequencies, enhanced by an extraction-focused energetic current.",
+        fullDescription:
+          "This healing contains:\n\nFrequency 1 — Trauma Healing\nA nervous-system-centred trauma release treatment that supports emotional decompression, relief of chronic pain, clearing of somatic fluid stagnation, restoration of homeostasis, and support for symptoms linked to PTSD, ADHD, and chronic mental fatigue.\n\nFrequency 2 — Trauma Healing + Energy Fusion\nThe benefits of trauma healing combined with energy healing transmission, meridian clearing, and spiritual support. This stage introduces energetic coherence and emotional field restoration.\n\nFrequency 3 — Trauma Healing + Energy + Ayurvedic Herbal Complexity\nA layered fusion of trauma release bodywork, energy healing currents, and Ayurvedic herbal intelligence. This frequency incorporates traditional hot-oil therapy, high-vibrational herbal oils, and tissue-level purification.\n\n⸻\n\nThe Added Power of Frequency 4 — Extraction (The Diamond)\nFrequency of Four introduces the core intention of extraction and purification beyond the reset. This energetic signature is known as The Diamond — formed of two balanced triangles, representing the geometry of extraction, alignment, and energetic liberation. The modality is grounded in Universal Love, Mother Earth Creation, and Extraction Intention (13-point quartz crystal transmission, Hijama/cupping, Lymphatic unblocking, and Endocrine purification).\n\n⸻\n\nSupportive Elements of the 5 Hour Immersion\nThroughout the treatment, healing is supported and anchored by intuitively guided coaching, crystal balancing, high-vibrational Ayurvedic oils, musical frequency harmonisation, and meditative integration using Yogic and Buddhist healing principles.\n\n⸻\n\nIntention & Experience\nThis healing is offered as a sacred, integrative, and transformational immersion. The essence of this work is the purification of mind, body, and soul, supporting a rise in vibration and a return to unity and cohesion within the spiritual frequencies.",
+        ctaLabel: "Frequency 4 Immersion",
+        benefits: [
+          "Frequency 1, 2, & 3 integration",
+          "The Diamond Extraction method",
+          "13-point quartz transmission",
+          "Hijama & Endocrine purification",
+          "Sacred transformational immersion",
+        ],
+        pricingOptions: [
+          {
+            duration: "300 minutes",
+            price: "£550.00",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "frequency-5-complete-healing",
+        title: "Complete Healing — Frequency of 5",
+        description:
+          "This healing offers a deeply transformative 5-hour immersion, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.",
+        fullDescription:
+          "This healing offers a deeply transformative 5-hour immersion, created to release trauma stored within the body, clear stagnation from the energetic field, and dissolve layers of mental and emotional conditioning.",
+        image: "/new_assets/The essence_.jpg",
+        ctaLabel: "Frequency 5 Complete Healing",
+        benefits: [
+          "Transformative 5-hour immersion",
+          "Releases trauma stored within the body",
+          "Clears stagnation from energetic field",
+          "Dissolves layers of conditioning",
+          "Return to authentic self",
+        ],
+        pricingOptions: [
+          {
+            duration: "300 minutes",
+            price: "£650.00",
+            bookingUrl: "https://www.vagaro.com/cl/TY2hylutyWBgUoOdwqxPCYvaRXUyHkmiZcD2JXpzpaM=",
+          },
         ],
       },
     ],
@@ -387,158 +400,109 @@ export const SERVICES_DATA: Service[] = [
   {
     slug: "profound-trauma-release-men",
     hero: {
-      title: "PROFOUND TRAUMA RELEASE FOR MEN",
+      title: "Profound Trauma Release for Men",
       subtitle: "Restoring Presence, Strength & Resilience",
       description:
-        "For men ready to reclaim their body, reset their system and restore what survival once cost them. Delivered by Isaac — Trauma Specialist, Master’s-Trained Physiotherapist and Body-Based Healing Practitioner — this treatment unites clinical expertise with the powerful somatic trauma-release system developed at Holistic Rising.",
+        "For men ready to reclaim their body, reset their system and restore what survival once cost them.\n\nAt Holistic Rising, we know that trauma is not simply remembered — it is held within the body. In posture, breath, nervous system responses, scar tissue and chronic tension. This work has been created for men who have carried the weight of endurance, protection and exhaustion, and who are now ready for a profound return to presence, strength and embodied resilience.\n\nDelivered by Isaac — Trauma Specialist, Master’s-Trained Physiotherapist and Body-Based Healing Practitioner — this treatment unites clinical expertise with the powerful somatic trauma-release system developed at Holistic Rising.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
       {
         slug: "trauma-release-1-men",
-        title: "Trauma Release 1 — Core Fascia Release",
+        title: "Core Fascia Release",
         description:
-          "For men who are outwardly coping but internally overloaded. This level supports nervous system regulation, emotional grounding, and a mental ‘exhale’ through physical release.",
+          "Men who are outwardly coping but internally overloaded. Their body and nervous system are still responsive to strong work, yet not ready for the deepest somatic unravelling.",
         fullDescription:
-          "Trauma Release 1 — Core Fascia Release (2 Hours)\n\nClient Profile\n\nMen who are outwardly coping but internally overloaded. Their body and nervous system are still responsive to strong work, yet not ready for the deepest somatic unravelling.\n\nThis may include men who:\n• Feel mentally overextended, emotionally fatigued, or psychologically pressured\n• Experience anxiety, low mood, emotional suppression, or early signs of depression\n• Carry tension through jaw, chest, shoulders, diaphragm, or breath-holding patterns\n• Live on low reserves, brain fog, irritability, or poor sleep due to stress\n• Have a history of surgical or medical trauma that is stable but still held physically\n• Are navigating mental health strain such as stress, anxiety, panic responses, or emotional burnout\n• Want to feel more present in their body but feel disconnected, heavy, or tense\n• Are managing mild to moderate mental health challenges alongside physical exhaustion\n\nThis level supports nervous system regulation, emotional grounding, and a mental ‘exhale’ through physical release.\n\nWhen fascia begins to release, the brain follows — easing internal pressure and supporting emotional regulation.",
+          "Core Fascia Release\n\nMen who are outwardly coping but internally overloaded. Their body and nervous system are still responsive to strong work, yet not ready for the deepest somatic unravelling.",
         image: "/new_assets/Trauma release for men.jpg",
-        ctaLabel: "Trauma Release 1",
+        ctaLabel: "Core Fascia Release",
         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
         benefits: [
-          "Core fascia release",
-          "Nervous system regulation",
-          "Emotional grounding",
-          "Mental exhale through physical release",
-          "Targets tension in jaw, chest, shoulders",
-          "Supports stress and burnout recovery"
+          "Supports outwardly coping but internally overloaded systems",
+          "Responsive yet safe approach for somatic work",
+          "Fascia-level release",
+          "Supports inner unravelling",
         ],
         pricingOptions: [
           {
             duration: "120 minutes",
             price: "£250.00",
-            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw="
-          }
-        ]
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
       },
       {
         slug: "trauma-release-2-men",
-        title: "Trauma Release 2 — Layered Release",
+        title: "Layered Release",
         description:
-          "For men carrying both physical trauma and psychological or emotional layering. This level works into deeper fascia and stress-system holding, allowing the brain to release defence naturally through somatic work.",
+          "Men carrying both physical trauma and psychological or emotional layering. Their pain, tension, and stress patterns live equally in body and mind.",
         fullDescription:
-          "Trauma Release 2 — Layered Release (3 hours)\n\nClient Profile\n\nMen carrying both physical trauma and psychological or emotional layering. Their pain, tension, and stress patterns live equally in body and mind.\n\nThis may include men who:\n• Experience chronic pain combined with nervous system fatigue\n• Struggle with persistent anxiety, depression, intrusive thoughts, compulsive patterns, emotional dysregulation, or dissociation linked to stress\n• Present with conditions such as: Chronic pain, Fatigue syndromes, Chronic pain with fatigue\n• Carry long-term muscular and fascial guarding\n• Are navigating an array of mental health challenges, including: Generalised anxiety disorder, Complex depression tied to trauma, PTSD or C-PTSD traits, Intrusive thoughts, Sensory overload, Compulsive behaviors, Mood instability\n\nThis level works into deeper fascia and stress-system holding, allowing the brain to release defence naturally through somatic work.\n\nBy releasing fascia, the system signals safety to the brain — reducing mental noise, easing emotional load, and calming psychological defence patterns without needing to ‘force’ cognitive release.\n\nClients often say:\n\n“My body hurts because my brain never stops.”\n“I’m tired in my bones, not just my head.”",
+          "Layered Release\n\nMen carrying both physical trauma and psychological or emotional layering. Their pain, tension, and stress patterns live equally in body and mind.",
         image: "/new_assets/IMG_5671.jpg",
-        ctaLabel: "Trauma Release 2",
+        ctaLabel: "Layered Release",
         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
         benefits: [
-          "Layered release for contents",
-          "Works into deeper fascia and stress-system",
-          "Allows brain to release defence naturally",
-          "Signals safety to the brain",
-          "Reduces mental noise and emotional load",
-          "Addresses chronic pain and fatigue"
+          "Addresses physical and emotional trauma layering",
+          "Works with deep-seated pain and stress patterns",
+          "Supports mental and physical integration",
+          "Nervous system recalibration",
         ],
         pricingOptions: [
           {
             duration: "180 minutes",
             price: "£350.00",
-            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw="
-          }
-        ]
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
       },
       {
         slug: "trauma-release-3-men",
-        title: "Trauma Release 3 — Profound Reclamation",
+        title: "Profound Reclamation",
         description:
-          "For men holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.",
+          "Men holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.",
         fullDescription:
-          "Trauma Release 3 — Profound Reclamation (4 Hours)\n\nClient Profile\n\nMen holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.\n\nThis may include men who:\n• Experience nervous system freeze, shutdown, or collapse responses\n• Live with mobility restriction, movement fear, or functional limitation\n• Carry conditions that impact systemic inflammation, immunity, neurological signalling, or fascia holding (Lupus, MS, Fibromyalgia, Diabetes, etc.)\n• Have fascial restriction, circulation issues, or numbness\n• Experience depression, neurodivergent trauma layering, or long-term mental health illness stored somatically\n\nThis level helps men rebuild trust in movement, release fascia that has been bracing for years, and restore agency over their body and system.\n\nAs fascia unravels, the brain is given permission to release survival-mode signalling — easing emotional weight, reducing neurological defence, and supporting mental health at a foundational, physiological level.\n\nClients often say:\n\n“I don’t feel safe in my body anymore.”\n“I shut down when it’s too much.”\n“I don’t know how to release without losing strength.”",
+          "Profound Reclamation\n\nMen holding complex, long-term, neuroimmune, neurological, or mobility-restricting trauma at the deepest physiological level. This level requires powerful work delivered slowly, safely, and respectfully.",
         image: "/new_assets/IMG_5667.jpg",
-        ctaLabel: "Trauma Release 3",
+        ctaLabel: "Profound Reclamation",
         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
         benefits: [
-          "Profound reclamation for complex trauma",
-          "Addresses neuroimmune and neurological conditions",
-          "Rebuilds trust in movement",
-          "Releases fascia bracing for years",
-          "Restores agency over body and system",
-          "Supports mental health at physiological level"
+          "Supports complex, long-term trauma",
+          "Safe and respectful deep physiological work",
+          "Addresses neuroimmune and neurological restrictions",
+          "Supports mobility and systemic restoration",
         ],
         pricingOptions: [
           {
             duration: "240 minutes",
             price: "£450.00",
-            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw="
-          }
-        ]
-      },
-      {
-        slug: "trauma-release-4-men",
-        title: "Trauma Release 4",
-        description:
-          "A deeper level of profound trauma release work for men seeking extended support.",
-        fullDescription:
-          "Trauma Release 4\n\nThis advanced session offers extended time for deep systemic integration and trauma release. Please contact us for more details on the specifics of this level.",
-        image:
-          "/new_assets/IMG_5664.jpg",
-        ctaLabel: "Trauma Release 4",
-        bookingUrl:
-          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-        benefits: [
-          "Extended duration",
-          "Deep systemic integration",
-          "Advanced trauma release",
-        ],
-        pricingOptions: [
-          {
-            duration: "300 minutes", // Assuming 5h based on pattern
-            price: "£550.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-          },
-        ],
-      },
-      {
-        slug: "trauma-release-5-men",
-        title: "Trauma Release 5",
-        description:
-          "The highest level of profound trauma release immersion for total systemic reset.",
-        fullDescription:
-          "Trauma Release 5\n\nThe pinnacle of our trauma release work for men, offering the maximum time for a complete reset and embodied restoration.",
-        image:
-          "/new_assets/IMG_5663.jpg",
-        ctaLabel: "Trauma Release 5",
-        bookingUrl:
-          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-        benefits: [
-          "Maximum depth and duration",
-          "Total systemic reset",
-          "Embodied restoration",
-        ],
-        pricingOptions: [
-          {
-            duration: "360 minutes", // Assuming 6h based on pattern
-            price: "£650.00",
-            bookingUrl:
-              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+            bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
         ],
       },
     ],
     bottomContent: `### Isaac’s Expertise
 
-* **Fully trained Trauma-Focused Physiotherapist**
-* **Holds a Master’s degree in Trauma-Based Physiotherapy**
-* **Certified Trauma Specialist**
-* Extensive experience working in NHS hospitals with trauma patients, supporting recuperation, rehabilitation and long-term recovery
-* Worked pitch-side for elite rugby clubs and professional teams, managing chronic injuries, acute trauma and high-impact physical injury
-* Completed advanced practitioner training in the Holistic Rising Method, working directly alongside founder Maria Sarmiento
-* Mentored and certified by Maria Sarmiento, contributing to the evolution of trauma-release protocols tailored specifically for men
-* Now pioneering Profound Trauma Release for male clients, offering this work to men for the very first time
+• Fully trained Trauma-Focused Physiotherapist
+
+• Holds a Master’s degree in Trauma-Based Physiotherapy
+
+• Certified Trauma Specialist
+
+• Extensive experience working in NHS hospitals with trauma patients, supporting recuperation, rehabilitation and long-term recovery
+
+• Worked pitch-side for elite rugby clubs and professional teams, managing chronic injuries, acute trauma and high-impact physical injury
+
+• Completed advanced practitioner training in the Holistic Rising Method, working directly alongside founder Maria Sarmiento
+
+• Mentored and certified by Maria Sarmiento, contributing to the evolution of trauma-release protocols tailored specifically for men
+
+• Now pioneering Profound Trauma Release for male clients, offering this work to men for the very first time
 
 Isaac blends clinical trauma-rehabilitation knowledge with profound somatic and energetic release work — providing a space where strength is not in conflict with healing, and where the body is finally met with understanding, not pressure.
 
-### 1. The Burnout & Exhaustion Body
+⸻
+
+### The Burnout & Exhaustion Body
 
 **For the warrior who kept going long after his body said stop.**
 
@@ -546,15 +510,14 @@ Isaac blends clinical trauma-rehabilitation knowledge with profound somatic and 
 Physically drained, mentally worn, emotionally muted. A body running on empty. Moving through life with low reserves. Feeling heavy, numb or disconnected.
 
 **What This Work Delivers:**
-
-* Profound reawakening of energy and presence
-* Restored connection to physical and emotional self
-* Reset of exhaustion held in breath, muscle and nervous system tone
-* A return to clarity, strength and embodied vitality
+• Profound reawakening of energy and presence
+• Restored connection to physical and emotional self
+• Reset of exhaustion held in breath, muscle and nervous system tone
+• A return to clarity, strength and embodied vitality
 
 > "This is not gentle recovery — this is profound restoration. The moment the body stops surviving and starts living again."
 
-### 2. The Medical & Surgical Trauma Body
+### The Medical & Surgical Trauma Body
 
 **For the body that has endured pain, procedures and clinical environments.**
 
@@ -562,15 +525,14 @@ Physically drained, mentally worn, emotionally muted. A body running on empty. M
 Surgeries, injuries or long medical histories. Scar tissue, restriction, numbness or a sense of disconnection from parts of the body. A body that still holds memory, even when the mind has tried to move forward.
 
 **What This Work Delivers:**
-
-* Profound reconnection to areas once shut down or guarded
-* Softening of scar and fascial restrictions
-* Restored circulation, sensation and internal trust
-* A renewed sense of bodily ownership, flow and resilience
+• Profound reconnection to areas once shut down or guarded
+• Softening of scar and fascial restrictions
+• Restored circulation, sensation and internal trust
+• A renewed sense of bodily ownership, flow and resilience
 
 > "Because true healing is not about forgetting the past — it is about freeing the body from repeating it."
 
-### 3. The Hyper-Vigilant & Fight-Mode Body
+### The Hyper-Vigilant & Fight-Mode Body
 
 **For the protector who learned to stay alert to survive.**
 
@@ -578,11 +540,10 @@ Surgeries, injuries or long medical histories. Scar tissue, restriction, numbnes
 Deep tension in the jaw, chest, shoulders and diaphragm. Shallow breathing. Fast reactions. A nervous system locked in ‘fight’ — always prepared, never fully settled.
 
 **What This Work Delivers:**
-
-* Profound release of survival-based holding patterns
-* Nervous system regulation at the deepest level
-* Restored breath, emotional safety and internal steadiness
-* A transition from fight-mode to felt strength and personal agency
+• Profound release of survival-based holding patterns
+• Nervous system regulation at the deepest level
+• Restored breath, emotional safety and internal steadiness
+• A transition from fight-mode to felt strength and personal agency
 
 > "This is the reset your system has been waiting for — the moment protection becomes a conscious choice, not a default state."
 
@@ -594,7 +555,7 @@ A nervous system that can finally stand down without shutting off or losing stre
 
 This is Profound Trauma Release for Men — delivered by a practitioner who understands trauma clinically, neurologically and somatically.
 
-Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising Method.`
+Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising Method.`,
   },
   {
     slug: "holistic-therapies",
