@@ -1541,156 +1541,164 @@ Led by Isaac. Supported alongside Maria Sarmiento. Rooted in the Holistic Rising
       title: "HEALING MOVEMENT",
       subtitle: "Integrative Mind-Body Practice",
       description:
-        "A mindful practice combining breath, intuitive motion, and energy awareness. Designed to support nervous system regulation, emotional flow, and reconnection to the self through movement.",
+        "At Holistic Rising, Healing Movement is an integrative mind-body practice that supports the deepening of your healing journey. Designed to complement our therapeutic treatments, these practices empower you to continue nurturing your well-being on a daily basis, fostering a sense of freedom, presence, and transformation.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
-      /* {
-        slug: "core-pelvic-floor-activation",
-        title: "Core and Pelvic Floor Activation Yoga Class",
-        description:
-          "Focused on deep core engagement, pelvic stability, posture support and embodied strength.",
-        image:
-          "/new_assets/IMG_5760.jpg",
-        ctaLabel: "Book Class",
-        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-      }, */
       {
         slug: "core-pelvic-floor-activation",
-        title: "Healing Movement \u2014 Core & Pelvic Floor Activation Yang Yoga",
+        title: "Core & Pelvic Floor Activation Yang Yoga",
         description:
           "This healing movement class follows a five-week rotational structure, designed to work in harmony with our existing Healing Movement sequences. Each session focuses on specific meridian pathways, supporting a circular, fluid energetic journey rooted in elemental balance, embodiment, and nervous-system regulation.",
         fullDescription:
-          "This healing movement class follows a five-week rotational structure, designed to work in harmony with our existing Healing Movement sequences. Each session focuses on specific meridian pathways, supporting a circular, fluid energetic journey rooted in elemental balance, embodiment, and nervous-system regulation.\n\nThis class was created in response to client demand, recognising a common gap in many modern movement and fitness routines, where the inner core and deep stabilising structures of the body are often under-activated.\n\nThe Yang yoga approach brings intentional, dynamic engagement to the internal muscular system — the muscles closest to the skeletal structure — which play a vital role in:\n\t•\tJoint protection and support\n\t•\tPostural integrity\n\t•\tInjury prevention\n\t•\tLong-term physical resilience\n\t•\tReducing stored trauma responses held in the body\n\nThese deep muscles are closely interconnected with ligaments and tendons, and are directly linked to the body’s protective reflexes, including the Golgi tendon response, which regulates sudden, reactive, or jerking movements often associated with physical strain or past injury.\n\nEach class includes focused activation and conscious release of the pelvic floor, a foundational energetic and physical centre that is frequently overlooked in conventional movement practices.\n\nA balanced and strengthened pelvic floor supports:\n\t•\tSexual health and vitality\n\t•\tHormonal balance and regulation\n\t•\tCore stability\n\t•\tEmotional grounding\n\t•\tWhole-system homeostasis\n\nRooted in the energetic intelligence of the root chakra, this class teaches how to build strength from the inside out and the ground up, supporting embodied awareness, stability, grounded manifestation, and internal energetic cohesion.\n\nThis practice is designed to support the body in feeling strong, regulated, purified, grounded, and in flow — creating balance that can ripple outward into family connection, daily life, and the home environment.",
-        image:
-          "/new_assets/Holistic Therapies.jpg",
+          "This healing movement class follows a five-week rotational structure, designed to work in harmony with our existing Healing Movement sequences. Each session focuses on specific meridian pathways, supporting a circular, fluid energetic journey rooted in elemental balance, embodiment, and nervous-system regulation.\n\nThis class was created in response to client demand, recognising a common gap in many modern movement and fitness routines, where the inner core and deep stabilising structures of the body are often under-activated.\n\nThe Yang yoga approach brings intentional, dynamic engagement to the internal muscular system — the muscles closest to the skeletal structure — which play a vital role in:\n• Joint protection and support\n• Postural integrity\n• Injury prevention\n• Long-term physical resilience\n• Reducing stored trauma responses held in the body\n\nThese deep muscles are closely interconnected with ligaments and tendons, and are directly linked to the body’s protective reflexes, including the Golgi tendon response, which regulates sudden, reactive, or jerking movements often associated with physical strain or past injury.\n\nEach class includes focused activation and conscious release of the pelvic floor, a foundational energetic and physical centre that is frequently overlooked in conventional movement practices.\n\nA balanced and strengthened pelvic floor supports:\n• Sexual health and vitality\n• Hormonal balance and regulation\n• Core stability\n• Emotional grounding\n• Whole-system homeostasis\n\nRooted in the energetic intelligence of the root chakra, this class teaches how to build strength from the inside out and the ground up, supporting embodied awareness, stability, grounded manifestation, and internal energetic cohesion.\n\nThis practice is designed to support the body in feeling strong, regulated, purified, grounded, and in flow — creating balance that can ripple outward into family connection, daily life, and the home environment.",
+        image: "/new_assets/Holistic Therapies.jpg",
         ctaLabel: "Book Class",
-        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        benefits: [
+          "Five-week rotational structure",
+          "Works in harmony with existing sequences",
+          "Focuses on deep core engagement and pelvic stability",
+          "Activates internal muscular system",
+          "Supports joint protection and postural integrity",
+          "Strengthens pelvic floor for vitality and stability",
+        ],
       },
-      /* {
-        slug: "hatha-flow",
-        title: "Hatha Flow Class",
-        description:
-          "A grounding, breath-led flow that balances effort and ease while supporting energetic circulation.",
-        image:
-          "/new_assets/IMG_5761.jpg",
-        ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-      }, */
       {
         slug: "hatha-flow",
         title: "Hatha Flow: Healing Movement for the Body",
         description:
           "Hatha Flow at Holistic Rising is a dynamic and grounding practice that balances strength and softness, breath and movement, and the physical and energetic bodies.",
         fullDescription:
-          "Hatha Flow at Holistic Rising is a dynamic and grounding practice that balances strength and softness, breath and movement, and the physical and energetic bodies.\n\nThis class follows the same five-week cyclical rotation, rooted in the five elements — Earth, Water, Fire, Air, and Ether — with each session focusing on a specific body region and its corresponding meridian pathways. Over the course of five weeks, participants move through an intentional, breath-led sequence that supports physical release, postural strength, flexibility, and energetic activation.\n\nThe practice is steady, flowing and intentional, honouring the body’s natural rhythm while restoring energetic circulation through meridian awareness. The structure mirrors both the cycles of nature and the internal cycles of the body, creating a cohesive movement experience designed for integration, grounding and deep internal alignment.\n\nThis healing movement system incorporates a 3-stage energetic awareness cycle throughout the immersion:\n\t1.	Activation through conscious, stabilising strength\n\t2.	Release through breath-supported movement and stillness\n\t3.	Energetic recalibration through meridian focus and embodiment\n\nTogether, these stages support a return to balance, internal flow, and body-mind cohesion, helping participants feel more grounded, aligned, energetically clear and connected to the subtle body.\n\nThis is movement for healing — intentional, restorative, and held within the intelligence of the body as a whole.",
-        image:
-          "/new_assets/Fluidity & Flexibility_.jpg",
+          "Hatha Flow at Holistic Rising is a dynamic and grounding practice that balances strength and softness, breath and movement, and the physical and energetic bodies.\n\nThis class follows the same five-week cyclical rotation, rooted in the five elements — Earth, Water, Fire, Air, and Ether — with each session focusing on a specific body region and its corresponding meridian pathways. Over the course of five weeks, participants move through an intentional, breath-led sequence that supports physical release, postural strength, flexibility, and energetic activation.\n\nThe practice is steady, flowing and intentional, honouring the body’s natural rhythm while restoring energetic circulation through meridian awareness. The structure mirrors both the cycles of nature and the internal cycles of the body, creating a cohesive movement experience designed for integration, grounding and deep internal alignment.\n\nThis healing movement system incorporates a 3-stage energetic awareness cycle throughout the immersion:\n1. Activation through conscious, stabilising strength\n2. Release through breath-supported movement and stillness\n3. Energetic recalibration through meridian focus and embodiment\n\nTogether, these stages support a return to balance, internal flow, and body-mind cohesion, helping participants feel more grounded, aligned, energetically clear and connected to the subtle body.\n\nThis is movement for healing — intentional, restorative, and held within the intelligence of the body as a whole.",
+        image: "/new_assets/Fluidity & Flexibility_.jpg",
         ctaLabel: "Book Class",
-        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        benefits: [
+          "Dynamic and grounding practice",
+          "Balances strength and softness",
+          "Follows five-week cyclical rotation",
+          "Incorporates 3-stage energetic awareness cycle",
+          "Supports return to balance and internal flow",
+          "Restorative and held within body intelligence",
+        ],
       },
       {
         slug: "meditation",
         title: "Meditation",
         description:
           "Guided practices to cultivate presence, mental clarity and nervous system calm.",
-        image:
-          "/new_assets/IMG_5747.jpg",
+        image: "/new_assets/IMG_5747.jpg",
         ctaLabel: "Book Class",
-        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
-      /* {
-        slug: "yin-class",
-        title: "Yin Class",
-        description:
-          "Long-held postures supported by breath to encourage deep tissue, fascia and emotional release.",
-        image:
-          "/new_assets/IMG_5763.jpg",
-        ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-      }, */
       {
         slug: "yin-class",
         title: "Healing Movement Yin: Meridian-Based Release and Recovery",
         description:
           "Healing Movement Yin is a deeply restorative practice that combines Yin yoga postures, gentle transitionary movement, free movement, self-healing techniques and guided meditation.",
         fullDescription:
-          "Healing Movement Yin is a deeply restorative practice that combines Yin yoga postures, gentle transitionary movement, free movement, self-healing techniques and guided meditation.\n\nThe class follows a five-week cyclical rotation, working intentionally through the five elemental meridian pathways of the body — channels through which vital energy (qi) flows. Each session focuses on a specific body region and its corresponding meridian, gently stimulating these internal pathways to support emotional release, organ-system nourishment, nervous-system recovery and embodied stillness.\n\nThis healing movement experience is supported by a 3-stage rotation throughout the four-hour immersion:\n\t1.	Activation — gentle engagement to prepare the fascia, joints and subtle channels\n\t2.	Release — long-held postures supported by conscious breath, allowing deep tissue and energetic tension to soften\n\t3.	Recalibration — intentional meridian awareness to restore energetic circulation and internal balance\n\nPostures are held for extended periods, creating space for the connective tissues and fascia to release stored tension, supporting both physical decompression and energetic clarity.\n\nThe practice also incorporates free movement, inviting natural expression to support embodied emotional release, alongside self-healing techniques that empower personal awareness and energetic cleansing from the inside out.\n\nEach class includes a guided meditation, offering a gentle, compassionate internal reset, supporting nervous-system calm, mental clarity and deeper integration within the body-mind.\n\nThis is a sacred movement space designed to support recovery, release and internal alignment — helping you reconnect to your body, restore energetic flow, and feel more grounded and cohesive within the subtle self.",
-        image:
-          "/new_assets/IMG_5591.jpg",
+          "Healing Movement Yin is a deeply restorative practice that combines Yin yoga postures, gentle transitionary movement, free movement, self-healing techniques and guided meditation.\n\nThe class follows a five-week cyclical rotation, working intentionally through the five elemental meridian pathways of the body — channels through which vital energy (qi) flows. Each session focuses on a specific body region and its corresponding meridian, gently stimulating these internal pathways to support emotional release, organ-system nourishment, nervous-system recovery and embodied stillness.\n\nThis healing movement experience is supported by a 3-stage rotation throughout the four-hour immersion:\n1. Activation — gentle engagement to prepare the fascia, joints and subtle channels\n2. Release — long-held postures supported by conscious breath, allowing deep tissue and energetic tension to soften\n3. Recalibration — intentional meridian awareness to restore energetic circulation and internal balance\n\nPostures are held for extended periods, creating space for the connective tissues and fascia to release stored tension, supporting both physical decompression and energetic clarity.\n\nThe practice also incorporates free movement, inviting natural expression to support embodied emotional release, alongside self-healing techniques that empower personal awareness and energetic cleansing from the inside out.\n\nEach class includes a guided meditation, offering a gentle, compassionate internal reset, supporting nervous-system calm, mental clarity and deeper integration within the body-mind.\n\nThis is a sacred movement space designed to support recovery, release and internal alignment — helping you reconnect to your body, restore energetic flow, and feel more grounded and cohesive within the subtle self.",
+        image: "/new_assets/IMG_5591.jpg",
         ctaLabel: "Book Class",
-        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        benefits: [
+          "Deeply restorative practice",
+          "Combines Yin yoga, gentle movement, and free movement",
+          "Follows five-week elemental rotation",
+          "Supported by 3-stage rotation (Activation, Release, Recalibration)",
+          "Supports emotional release and organ-system nourishment",
+          "Includes guided meditation for nervous system calm",
+        ],
       },
       {
         slug: "qigong-classes",
         title: "Qigong Classes",
         description:
           "Gentle, intentional energy-based movement to unblock meridians, support qi flow and harmonise internal systems.",
-        image:
-          "/new_assets/IMG_5750.jpg",
+        image: "/new_assets/IMG_5750.jpg",
         ctaLabel: "Book Class",
-        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
       {
         slug: "breathwork",
         title: "Breathwork",
         description:
           "Conscious breathing practices to regulate the nervous system, release stored emotional tension, expand prana, and support energetic clearing through the subtle body.",
-        image:
-          "/new_assets/The essence_.jpg",
+        image: "/new_assets/The essence_.jpg",
         ctaLabel: "Book Class",
-        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
       {
         slug: "self-healing",
         title: "Self-Healing",
         description:
           "Practical somatic and energetic tools for personal regulation and restoration.",
-        image:
-          "/new_assets/IMG_5605.jpg",
+        image: "/new_assets/IMG_5605.jpg",
         ctaLabel: "Book Class",
-        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
-      /* {
-        slug: "sharing-circle",
-        title: "Sharing Circle",
-        description:
-          "A held space for reflection, community connection and emotional expression.",
-        image:
-          "/new_assets/IMG_5764.jpg",
-        ctaLabel: "Book Class",
-         bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
-      }, */
       {
         slug: "sharing-circle",
         title: "Healing Movement Sharing Circle",
         description:
           "The Healing Movement Sharing Circle takes place every Sunday from 8:00–8:30pm, and is a gentle, open, community space for anyone who feels called to join us.",
         fullDescription:
-          "The Healing Movement Sharing Circle takes place every Sunday from 8:00–8:30pm, and is a gentle, open, community space for anyone who feels called to join us.\n\nThis is a place where we hold space with love and care for those who want support, connection, grounding, or simply a moment to pause and be in the presence of like-minded people. Whether you want to share, chat, socialise, or just sit in stillness — you are welcome. There is no pressure to speak. You can also simply come in to meditate.\n\nThe circle incorporates a guided meditation aligned to the meridian themes explored in the wider Healing Movement classes, supporting energetic awareness and inner cohesion. It may also include soft community drumming or light shamanic drumming, offered in a grounding, rhythmic way to support emotional and energetic release.\n\nThis space can also include:\n\t•	Breathwork for nervous system calm and energetic regulation\n\t•	Grounding practices and body check-ins\n\t•	Somatic self-healing techniques\n\t•	Calming body scans and gentle nervous system support\n\t•	Drumming for grounding and connection\n\t•	Practical grounding tools for emotional and energetic balance\n\nThe intention of this circle is community support, shared healing time, and connection — for anyone navigating stress, fatigue, emotional overload, energetic sensitivity, or simply seeking a safe space to feel supported and understood. It is open to those who may be finding internal or external change difficult to navigate, those seeking harmony in the home or family field, or anyone who simply wants to connect, chat, or share this time in a meaningful way.\n\nThis circle is completely free for all, and is our dedicated weekly offering to the community. We hold the space for everyone with deep love, integrity, respect and healing intention.\n\nIf you’ve been feeling tender, tired, overwhelmed, energetically stretched, or simply in need of connection — come along and share this gentle half hour with us. A moment of healing, presence and community can change more than you think.\n\nYou are welcome. You are held. You are enough.",
-        image:
-          "/new_assets/IMG_5758.jpg",
+          "The Healing Movement Sharing Circle takes place every Sunday from 8:00–8:30pm, and is a gentle, open, community space for anyone who feels called to join us.\n\nThis is a place where we hold space with love and care for those who want support, connection, grounding, or simply a moment to pause and be in the presence of like-minded people. Whether you want to share, chat, socialise, or just sit in stillness — you are welcome. There is no pressure to speak. You can also simply come in to meditate.\n\nThe circle incorporates a guided meditation aligned to the meridian themes explored in the wider Healing Movement classes, supporting energetic awareness and inner cohesion. It may also include soft community drumming or light shamanic drumming, offered in a grounding, rhythmic way to support emotional and energetic release.\n\nThis space can also include:\n• Breathwork for nervous system calm and energetic regulation\n• Grounding practices and body check-ins\n• Somatic self-healing techniques\n• Calming body scans and gentle nervous system support\n• Drumming for grounding and connection\n• Practical grounding tools for emotional and energetic balance\n\nThe intention of this circle is community support, shared healing time, and connection — for anyone navigating stress, fatigue, emotional overload, energetic sensitivity, or simply seeking a safe space to feel supported and understood. It is open to those who may be finding internal or external change difficult to navigate, those seeking harmony in the home or family field, or anyone who simply wants to connect, chat, or share this time in a meaningful way.\n\nThis circle is completely free for all, and is our dedicated weekly offering to the community. We hold the space for everyone with deep love, integrity, respect and healing intention.\n\nIf you’ve been feeling tender, tired, overwhelmed, energetically stretched, or simply in need of connection — come along and share this gentle half hour with us. A moment of healing, presence and community can change more than you think.\n\nYou are welcome. You are held. You are enough.\n\n💛",
+        image: "/new_assets/IMG_5758.jpg",
         ctaLabel: "Book Class",
-        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        benefits: [
+          "Gentle, open, community space",
+          "Free for all",
+          "Takes place every Sunday 8:00–8:30pm",
+          "Incorporates guided meditation and light drumming",
+          "Shared healing time and connection",
+          "Safe space for support and understanding",
+        ],
       },
       {
         slug: "self-healing-techniques",
         title: "Self-Healing Techniques",
         description:
           "Intuitive practices that empower self-awareness, energetic cleansing and internal balance.",
-        image:
-          "/new_assets/IMG_5759.jpg",
+        image: "/new_assets/IMG_5759.jpg",
         ctaLabel: "Book Class",
-        bookingUrl: "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+        bookingUrl:
+          "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
       },
     ],
-    bottomContent: `### A Journey of Transformation
+    bottomContent: `### Healing Movement at Holistic Rising
+This evolving programme includes a variety of healing modalities such as:
+* Core and Pelvic Floor Activation Yoga Class — focused on deep core engagement, pelvic stability, posture support and embodied strength
+* Hatha Flow Class — a grounding, breath-led flow that balances effort and ease while supporting energetic circulation
+* Meditation — guided practices to cultivate presence, mental clarity and nervous system calm
+* Yin Class — long-held postures supported by breath to encourage deep tissue, fascia and emotional release
+* Qigong Classes — gentle, intentional energy-based movement to unblock meridians, support qi flow and harmonise internal systems
+* Breathwork — conscious breathing practices to regulate the nervous system, release stored emotional tension, expand prana, and support energetic clearing through the subtle body
+* Self-Healing — practical somatic and energetic tools for personal regulation and restoration
+* Sharing Circle — a held space for reflection, community connection and emotional expression
+* Self-Healing Techniques — intuitive practices that empower self-awareness, energetic cleansing and internal balance
 
-This profound healing sequence was designed by the Holistic Rising yoga specialist Georgia and Founder María. They combined their expertise to create this transformative practice that encompasses the body holistically, bringing together a wholesome healing experience.
+Together, these practices form a holistic movement experience that supports physical release, energetic alignment, emotional awareness, nervous system regulation and spiritual connection.
+
+---
+
+This profound healing sequence was designed by the Holistic Rising Founder María. This transformative practice encompasses the body holistically, bringing together a wholesome healing experience.
 
 The modalities — including core and pelvic floor activation, Hatha flow, Yin, meditation, Breathwork, Qigong, self-healing and community integration — form an intentional movement system that works through the body and energetic field systematically.
 
 The original five-week rotational energetic foundation remains intact — now expressed through the updated class structure — working through the body physically, emotionally and energetically. Each week focuses on a specific element, paired with a corresponding meridian and a target body region, creating a layered and intentional journey through the Five Holistic Principles designed by the Holistic Rising movement team.
+
+---
 
 ### This Unique Combination Allows For
 
@@ -1699,6 +1707,8 @@ The original five-week rotational energetic foundation remains intact — now ex
 3. Energetic recalibration through meridian focus — integrated into yoga, Yin, Qigong and Breathwork sessions
 4. Integration of body-mind awareness — supported across all classes, including community connection within the Sharing Circle
 
+---
+
 ### Profound Benefits of the Four-Stage System
 
 * Nervous system reset through activation and rest cycles
@@ -1706,15 +1716,17 @@ The original five-week rotational energetic foundation remains intact — now ex
 * Energetic field purification through Qigong, meditation and conscious Breathwork integration
 * Embodied integration of emotional and behavioural patterns through movement, breath and community support
 
-> "This is movement-based healing in its truest sense: holistic, sacred, communal and transformational — a practice designed to purify, rebalance, integrate and restore flow so you can step forward feeling more aligned, aware and energetically cohesive."`,
+---
+
+This is movement-based healing in its truest sense: holistic, sacred, communal and transformational — a practice designed to purify, rebalance, integrate and restore flow so you can step forward feeling more aligned, aware and energetically cohesive.`,
   },
   {
     slug: "maternal-massage",
     hero: {
-      title: "Maternity Massage (Prenatal & Postnatal)",
+      title: "MATERNAL MASSAGES FOR PRENATAL, MATERNAL & POSTNATAL MASSAGE TREATMENTS",
       subtitle: "Specialised Maternity Care",
       description:
-        "Tailored care for mothers before and after birth, focusing on the mental and emotional needs of this sacred transition while offering physical comfort and support.",
+        "At Holistic Rising, we offer specialised maternity massage treatments from as early as 4 to 6 weeks of pregnancy, continuing right through to 39 to 40 weeks.",
       youtubeVideoId: "S_-e1AOuPug",
     },
     subservices: [
@@ -1724,28 +1736,33 @@ The original five-week rotational energetic foundation remains intact — now ex
         description:
           "This deeply nurturing and integrative treatment is designed for women in the preconception phase, offering physical, emotional, and energetic preparation for pregnancy. The Prenatal Massage Treatment at Holistic Rising combines ancient wisdom and therapeutic bodywork to regulate menstrual flow, enhance fertility, and support the body in its readiness to conceive.",
         fullDescription:
-          "This deeply nurturing and integrative treatment is designed for women in the preconception phase, offering physical, emotional, and energetic preparation for pregnancy. The Prenatal Massage Treatment at Holistic Rising combines ancient wisdom and therapeutic bodywork to regulate menstrual flow, enhance fertility, and support the body in its readiness to conceive.",
-        image:
-          "/new_assets/IMG_5594.jpg",
+          "This deeply nurturing and integrative treatment is designed for women in the preconception phase, offering physical, emotional, and energetic preparation for pregnancy. The Prenatal Massage Treatment at Holistic Rising combines ancient wisdom and therapeutic bodywork to regulate menstrual flow, enhance fertility, and support the body in its readiness to conceive.\n\nThis holistic session blends a number of complementary practices, including:\nGua Sha – to improve circulation and encourage detoxification\nHijama (dry cupping) – to relieve stagnation and stimulate energetic flow\nTrauma release therapy – to address and clear emotional blockages stored in the body\nYogic healing – using breath and gentle movement to open energy lines\nAyurvedic hot oil compresses – to nourish and alkalinise the womb and abdominal area\n\nAt the core of this treatment is womb healing – a sacred and essential process that works across the physical, emotional, and energetic levels. The massage supports a woman’s connection to her womb, clearing any sexual trauma, ancestral imprints, or energetic density that may inhibit conception.\n\nThis treatment helps to:\nRe-establish a healthy and regular menstrual cycle\nBalance hormonal fluctuations\nDetoxify the body on both a physical and emotional level\nAlleviate tension and anxiety around fertility\nReignite a sense of feminine power and inner stability\nCultivate a sense of wholeness, grounding, and readiness to welcome life\n\nTailored to each client’s individual needs, this treatment honours the unique rhythms and wisdom of the female body. Whether you are just beginning your fertility journey or preparing the womb for conception, this massage offers gentle yet powerful support, working in harmony with your body’s natural cycles.",
+        image: "/new_assets/IMG_5594.jpg",
         ctaLabel: "Prenatal Massage Treatment",
         benefits: [
-          "Deeply nurturing and integrative treatment",
-          "Designed for preconception phase",
-          "Physical, emotional, and energetic preparation",
-          "Regulates menstrual flow",
-          "Enhances fertility",
-          "Supports body's readiness to conceive",
+          "Deeply nurturing and integrative treatment for preconception",
+          "Regulates menstrual flow and enhances fertility",
+          "Includes Gua Sha, Hijama, and Trauma release therapy",
+          "Incorporates Yogic healing and Ayurvedic hot oil compresses",
+          "Supports womb healing and clears energetic density",
+          "Re-establishes healthy menstrual cycles and balances hormones",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
-            price: "£70.00",
+            price: "£80.00",
             bookingUrl:
               "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
-            price: "£100.00",
+            price: "£110.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£140.00",
             bookingUrl:
               "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
@@ -1757,28 +1774,33 @@ The original five-week rotational energetic foundation remains intact — now ex
         description:
           "Our treatments go beyond the typical gentle stroking techniques often associated with maternity massage. While we use safe and soothing strokes, we also incorporate rhythmic and supportive techniques designed to relieve tension, mobilise the hips and ankles, and drain excess fluid — all of which are essential to ease the natural heaviness of pregnancy. We draw from light Swedish massage, lymphatic drainage, and gentle myofascial work, always adapted with care to suit each stage of pregnancy. These methods help reduce swelling, support circulation, ease back and pelvic discomfort, and promote restful sleep and emotional balance.",
         fullDescription:
-          "Our treatments go beyond the typical gentle stroking techniques often associated with maternity massage. While we use safe and soothing strokes, we also incorporate rhythmic and supportive techniques designed to relieve tension, mobilise the hips and ankles, and drain excess fluid — all of which are essential to ease the natural heaviness of pregnancy. We draw from light Swedish massage, lymphatic drainage, and gentle myofascial work, always adapted with care to suit each stage of pregnancy. These methods help reduce swelling, support circulation, ease back and pelvic discomfort, and promote restful sleep and emotional balance.",
-        image:
-          "/new_assets/IMG_5720.jpg",
+          "At Holistic Rising, we offer specialised maternity massage treatments from as early as 4 to 6 weeks of pregnancy, continuing right through to 39 to 40 weeks. Our focus is on nurturing the overall well-being and deep relaxation of the mother during this sacred and transformative time of bringing life into the world.\n\nOur treatments go beyond the typical gentle stroking techniques often associated with maternity massage. While we use safe and soothing strokes, we also incorporate rhythmic and supportive techniques designed to relieve tension, mobilise the hips and ankles, and drain excess fluid — all of which are essential to ease the natural heaviness of pregnancy. We draw from light Swedish massage, lymphatic drainage, and gentle myofascial work, always adapted with care to suit each stage of pregnancy. These methods help reduce swelling, support circulation, ease back and pelvic discomfort, and promote restful sleep and emotional balance.\n\nAt Holistic Rising, we understand that pregnancy can be both beautiful and physically demanding. That’s why we tailor each session to meet the unique needs of the mother — not only to soothe the body, but to honour and respect the growing baby by fully supporting the mother.\n\nWe offer an exceptional support service throughout your journey and provide a special discounted rate for all mothers, as a heartfelt thank you from Holistic Rising for the incredible role you play.",
+        image: "/new_assets/IMG_5720.jpg",
         ctaLabel: "Maternity Massage",
         benefits: [
-          "Goes beyond typical gentle techniques",
-          "Relieves tension and mobilises hips and ankles",
-          "Drains excess fluid",
+          "Specialised treatments from 4-6 weeks to 39-40 weeks",
+          "Incorporates rhythmic and supportive techniques",
+          "Relieves tension, mobilises hips and ankles",
+          "Drains excess fluid to ease heaviness",
           "Reduces swelling and supports circulation",
-          "Eases back and pelvic discomfort",
           "Promotes restful sleep and emotional balance",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
-            price: "£70.00",
+            price: "£50.00",
             bookingUrl:
               "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
-            price: "£100.00",
+            price: "£70.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£90.00",
             bookingUrl:
               "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
@@ -1786,32 +1808,37 @@ The original five-week rotational energetic foundation remains intact — now ex
       },
       {
         slug: "postnatal-massage",
-        title: "Postnatal Massage",
+        title: "Postnatal Massage Treatment",
         description:
           "At Holistic Rising, our postnatal treatments are thoughtfully designed to support new mothers in healing holistically from the profound experience of birth—an experience that brings both transformation and new life into the world. In this nurturing space, we focus on rebalancing hormones using therapeutic oils and hot oil compresses, helping the body and mind return to a state of harmony.",
         fullDescription:
-          "At Holistic Rising, our postnatal treatments are thoughtfully designed to support new mothers in healing holistically from the profound experience of birth—an experience that brings both transformation and new life into the world. In this nurturing space, we focus on rebalancing hormones using therapeutic oils and hot oil compresses, helping the body and mind return to a state of harmony.",
-        image:
-          "/new_assets/IMG_5719.jpg",
+          "At Holistic Rising, our postnatal treatments are thoughtfully designed to support new mothers in healing holistically from the profound experience of birth—an experience that brings both transformation and new life into the world.\n\nIn this nurturing space, we focus on rebalancing hormones using therapeutic oils and hot oil compresses, helping the body and mind return to a state of harmony. We gently address physical misalignments in the hips and shoulders, often caused by the demands of pregnancy and breastfeeding, easing tension and restoring balance. For those recovering from a caesarean birth, we offer specialised massage and guided movement to aid in scar healing and mobility. Most importantly, we provide a safe and sacred environment for mothers to decompress, release, and begin their journey of renewal and restoration. Postnatal treatments are available at our Romford Clinic and our London Clinic.",
+        image: "/new_assets/IMG_5719.jpg",
         ctaLabel: "Book Postnatal Massage",
         benefits: [
-          "Supports holistic healing from birth",
-          "Thoughtfully designed for new mothers",
-          "Rebalances hormones",
-          "Uses therapeutic oils and hot oil compresses",
-          "Helps body and mind return to harmony",
-          "Nurturing space for transformation",
+          "Supports holistic healing from birth experience",
+          "Rebalances hormones with therapeutic oils and hot compresses",
+          "Addresses physical misalignments in hips and shoulders",
+          "Specialised support for caesarean scar healing and mobility",
+          "Safe environment for decompression and release",
+          "Available at Romford and London Clinics",
         ],
         pricingOptions: [
           {
             duration: "60 minutes",
-            price: "£70.00",
+            price: "£80.00",
             bookingUrl:
               "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
           {
             duration: "90 minutes",
-            price: "£100.00",
+            price: "£110.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£140.00",
             bookingUrl:
               "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
           },
@@ -1835,17 +1862,16 @@ The original five-week rotational energetic foundation remains intact — now ex
         description:
           "At Holistic Rising, our Gentle & Deep Tissue 2x4 treatment is a harmonious fusion of therapies, designed to restore balance by addressing both the surface and deeper layers of the body — simultaneously. This cohesive energetic exchange not only enhances physical healing but also invites a profound sense of wholeness, clarity, and calm.",
         fullDescription:
-          "At Holistic Rising, our Gentle & Deep Tissue 2x4 treatment is a harmonious fusion of therapies, designed to restore balance by addressing both the surface and deeper layers of the body — simultaneously. This cohesive energetic exchange not only enhances physical healing but also invites a profound sense of wholeness, clarity, and calm.",
-        image:
-          "/new_assets/IMG_5705.jpg",
-        videoId: "S_-e1Full Body Gentle Balance & Release RitualAOuPug",
+          "At Holistic Rising, our Gentle & Deep Tissue 2x4 treatment is a harmonious fusion of therapies, designed to restore balance by addressing both the surface and deeper layers of the body — simultaneously.\n\nDelivered by two skilled therapists working in perfect synchronicity, this unique treatment allows the body to experience a gentle dance of healing. One therapist focuses on soothing and calming the nervous system through relaxation techniques, while the other works into the deeper layers of muscular tension, releasing long-held stress and restriction.\n\nThis complementary dual approach creates a dynamic rhythm of push and pull, release and restore, echoing the natural flow of energy found in the waves of the sea. Like the ocean’s tide, the treatment moves with intention and grace, encouraging the body to surrender, soften, and realign.\n\nWhile one therapist may be easing the shoulders with a nurturing touch, the other could be applying firmer pressure to the legs or hips — creating a unique and balancing contrast that treats the body as a whole. This cohesive energetic exchange not only enhances physical healing but also invites a profound sense of wholeness, clarity, and calm.\n\nStep into a space where tension dissolves, energy flows freely, and your body returns to its natural rhythm — with the Gentle & Deep Tissue 2x4 experience.",
+        image: "/new_assets/IMG_5705.jpg",
+        videoId: "S_-e1AOuPug",
         ctaLabel: "Gentle & Deep Tissue 2by4",
         benefits: [
           "Harmonious fusion of therapies",
           "Addresses surface and deeper layers simultaneously",
           "Cohesive energetic exchange",
           "Enhances physical healing",
-          "Invites wholeness, clarity, and calm",
+          "Invites a profound sense of wholeness, clarity, and calm",
           "Restores balance throughout the body",
         ],
         pricingOptions: [
@@ -1869,17 +1895,48 @@ The original five-week rotational energetic foundation remains intact — now ex
         description:
           "The 2x4 method not only amplifies the therapeutic impact but also reduces the intensity often associated with traditional deep sports massage. The result? A more effective, efficient, and comfortable experience that supports recovery, performance, and long-term musculoskeletal health.",
         fullDescription:
-          "The 2x4 method not only amplifies the therapeutic impact but also reduces the intensity often associated with traditional deep sports massage. The result? A more effective, efficient, and comfortable experience that supports recovery, performance, and long-term musculoskeletal health.",
-        image:
-          "/new_assets/IMG_5706.jpg",
+          "At Holistic Rising, our Sports & Stretch 2by4 Treatment is a dynamic and highly effective approach designed to support your body’s mobility, strength, and overall performance.\n\nThis unique treatment combines the benefits of sports massage with assisted stretching techniques, delivered simultaneously by two experienced therapists working cohesively. Sports massage plays a vital role in enhancing mobility — not just within the muscles but also throughout the joints — by opening up restricted areas, increasing range of motion, and improving both strength and endurance.\n\nWhen paired with targeted stretching, the treatment goes even deeper. The stretching techniques are designed to release the fascia — the connective tissue surrounding muscles — which often holds tension that restricts movement and contributes to discomfort. By addressing both the muscles and the surrounding fascial structures at once, we create a comprehensive and balanced treatment.\n\nThe 2by4 method not only amplifies the therapeutic impact but also reduces the intensity often associated with traditional deep sports massage. The result? A more effective, efficient, and comfortable experience that enhances recovery, performance, and long-term musculoskeletal health.",
+        image: "/new_assets/IMG_5706.jpg",
         ctaLabel: "Sports & Stretch 2by4",
         benefits: [
-          "Amplifies therapeutic impact",
-          "Reduces intensity of deep sports massage",
-          "More effective and efficient",
-          "Comfortable experience",
-          "Supports recovery and performance",
-          "Promotes long-term musculoskeletal health",
+          "Dynamic and highly effective approach",
+          "Supports mobility, strength, and overall performance",
+          "Combines sports massage with assisted stretching",
+          "Enhances mobility within muscles and joints",
+          "Opens restricted areas and increases range of motion",
+          "Releases fascia and connective tissue tension",
+        ],
+        pricingOptions: [
+          {
+            duration: "90 minutes",
+            price: "£120.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+          {
+            duration: "120 minutes",
+            price: "£160.00",
+            bookingUrl:
+              "https://www.vagaro.com/cl/S3CT69cN2eG3sWgHZY7At7su2ZAafur52NoJs1KkStw=",
+          },
+        ],
+      },
+      {
+        slug: "feet-hand-therapy-deep-tissue",
+        title: "Feet Therapy or Hand Therapy & Therapeutic Deep Tissue Massage",
+        description:
+          "Indulge and restore with our deeply nourishing Feet or Hand Therapy, thoughtfully combined with a therapeutic deep tissue massage to create a full-body sense of release, balance, and renewal. This bespoke treatment begins with your choice of focused therapy for the hands or feet — areas that often work harder than any other part of the body and carry a surprising amount of tension.",
+        fullDescription:
+          "Indulge and restore with our deeply nourishing Feet or Hand Therapy, thoughtfully combined with a therapeutic deep tissue massage to create a full-body sense of release, balance, and renewal. This bespoke treatment begins with your choice of focused therapy for the hands or feet — areas that often work harder than any other part of the body and carry a surprising amount of tension.\n\nWe tailor the session using a variety of advanced techniques, including:\nTraditional Thai reflexology\nHot stone reflexology\nFascia release therapy, targeting specific concerns such as arthritis, osteoporosis, or joint impingements in the smaller bones of the hands and feet\n\nReflexology in this treatment goes beyond relaxation; it is used to rejuvenate the internal body as a whole by stimulating key meridians and energy lines. By activating these reflex points, the therapy supports the body’s natural healing processes, helping to restore energetic flow and balance across all systems.\n\nThese specialised methods work to untangle restriction, promote circulation, and free the delicate yet vital structures within the extremities. As the session continues, it is seamlessly blended with a therapeutic deep tissue massage, allowing the rest of the body to benefit from the improved energetic and structural flow initiated in the hands or feet.\n\nAs the extremities open and release, the body responds with greater efficiency and fluidity — a ripple effect that grounds, centres, and rejuvenates. Giving focused attention to these often-overlooked areas invites a deep and wholesome sense of well-being that radiates throughout the entire body.",
+        image: "/new_assets/IMG_5600.jpg",
+        ctaLabel: "Feet/Hand Therapy & Massage",
+        benefits: [
+          "Deeply nourishing Feet or Hand Therapy",
+          "Combined with therapeutic deep tissue massage",
+          "Creates a full-body sense of release, balance, and renewal",
+          "Tailored session using advanced techniques",
+          "Rejuvenates internal body through reflexology",
+          "Promotes circulation and frees delicate structures",
         ],
         pricingOptions: [
           {
@@ -1902,17 +1959,16 @@ The original five-week rotational energetic foundation remains intact — now ex
         description:
           "Experience the body-sculpting benefits of our Sculpt treatment, paired with the refreshing lift of the Ayurvedic Face Lift. These two treatments are ideal for those wishing to enhance their silhouette, rejuvenate their appearance, and restore a radiant, youthful glow.",
         fullDescription:
-          "Experience the body-sculpting benefits of our Sculpt treatment, paired with the refreshing lift of the Ayurvedic Face Lift. These two treatments are ideal for those wishing to enhance their silhouette, rejuvenate their appearance, and restore a radiant, youthful glow.",
-        image:
-          "/new_assets/IMG_5708.jpg",
+          "Experience the weight loss benefits of the Sculpt treatment alongside the refresh and uplift of the Ayurveda Face Lift. These 2 treatments are ideal for those wanting to revamp their appearance, improve the silhouette, and enhance their youthful glow. Our sculpture specialists and Ayurveda specialists treat in synchronisation to revive and replenish with the herbal nectars of Ayurveda and the detoxing effects of Sculpt.",
+        image: "/new_assets/IMG_5708.jpg",
         ctaLabel: "Sculpt & Ayurveda Face Lift",
         benefits: [
-          "Body-sculpting benefits",
-          "Refreshing Ayurvedic Face Lift",
-          "Enhances silhouette",
-          "Rejuvenates appearance",
-          "Restores radiant, youthful glow",
-          "Ideal combination treatment",
+          "Weight loss benefits of Sculpt treatment",
+          "Refresh and uplift of Ayurveda Face Lift",
+          "Revamp appearance and improve silhouette",
+          "Enhance youthful glow",
+          "Revive and replenish with herbal nectars",
+          "Detoxing effects of Sculpt",
         ],
         pricingOptions: [
           {
@@ -1935,17 +1991,16 @@ The original five-week rotational energetic foundation remains intact — now ex
         description:
           "Our 2x4 Trauma Release is a powerful, holistic treatment designed to release trauma stored in the body's fascia and energetic system. Trauma is often embedded deep within physical tissues and energetic pathways, particularly when left unresolved. This treatment works with the body's natural breath rhythm, allowing for a safe and cohesive release of trapped emotional and physical tension.",
         fullDescription:
-          "Our 2x4 Trauma Release is a powerful, holistic treatment designed to release trauma stored in the body's fascia and energetic system. Trauma is often embedded deep within physical tissues and energetic pathways, particularly when left unresolved. This treatment works with the body's natural breath rhythm, allowing for a safe and cohesive release of trapped emotional and physical tension.",
-        image:
-          "/new_assets/IMG_5709.jpg",
+          "Our 2by4 Trauma Release is a powerful, holistic treatment designed to release trauma stored in the body’s fascia and energetic system. Trauma is often embedded deep within the physical tissues and energetic pathways, especially when left unresolved. This treatment works with the body’s natural breath rhythm, allowing for a safe and cohesive release of trapped emotional and physical tension.\n\nBy gently guiding the client through breathwork, subtle meditative techniques, and allowing space for emotional expression, the body is supported in letting go in a profound way.\n\nWhen combined with the ancient practice of Ayurvedic Indian Head Massage, this treatment becomes truly transformative. The Ayurvedic approach calms the nervous system and supports the brain’s ability to release. While the heart is open, abundant and ready to heal, it is often the mind that holds on, attempting to protect the self from further harm. This massage helps relax mental tension, bringing a sense of stillness that allows the body and soul to integrate the healing process fully.\n\nAyurveda, with its healing focus on balance and the mind–body connection, supports the brain’s natural healing processes—making this treatment ideal for those navigating deep emotional wounds, trauma, stress, or mental fatigue.",
+        image: "/new_assets/IMG_5709.jpg",
         ctaLabel: "Trauma Release Massage & Ayurveda Head Massage",
         benefits: [
-          "Powerful, holistic treatment",
           "Releases trauma stored in fascia and energetic system",
-          "Works with body's natural breath rhythm",
-          "Safe and cohesive release",
-          "Addresses trapped emotional and physical tension",
-          "Combined with Ayurvedic head massage",
+          "Works with body’s natural breath rhythm",
+          "Safe and cohesive release of trapped tension",
+          "Calms the nervous system with Ayurvedic Head Massage",
+          "Supports the brain’s ability to release",
+          "Ideal for emotional wounds, stress, or mental fatigue",
         ],
         pricingOptions: [
           {
@@ -1966,19 +2021,18 @@ The original five-week rotational energetic foundation remains intact — now ex
         slug: "gentle-massage-energy-healing",
         title: "Gentle Massage with Energy Healing",
         description:
-          'Discover the most luxurious way to relax and invigorate your energy we offer relaxing, aromatherapy or hot stone massage alongside any of our energy healing treatments. If you wish to choose either aromatherapy, hot stones, crystal healing or shamanic healing. *Please note your preferences (e.g. aromatherapy, hot stones, crystal healing or shamanic healing) in the "Form" below when booking.*',
+          "Discover the most luxurious way to relax and invigorate your energy we offer relaxing, aromatherapy or hot stone massage alongside any of our energy healing treatments. If you wish to choose either aromatherapy, hot stones, crystal healing or shamanic healing. Please note your preferences (e.g. aromatherapy, hot stones, crystal healing or shamanic healing) in the \"Form\" below when booking.",
         fullDescription:
-          'Discover the most luxurious way to relax and invigorate your energy we offer relaxing, aromatherapy or hot stone massage alongside any of our energy healing treatments. If you wish to choose either aromatherapy, hot stones, crystal healing or shamanic healing. *Please note your preferences (e.g. aromatherapy, hot stones, crystal healing or shamanic healing) in the "Form" below when booking.*',
-        image:
-          "/new_assets/IMG_5711.jpg",
+          "At Holistic Rising, our Relaxing Massage with Energy Healing is a deeply restorative and spiritually uplifting treatment that works on both the physical and energetic levels. It is designed for those seeking a more profound connection and transformative healing experience.\n\nIn this unique session, two therapists work in harmony to create a powerful energetic space. One therapist focuses on a gentle, relaxing massage, encouraging the body to release tension, calm the nervous system, and bring the client into a state of ease and surrender. Simultaneously, the second therapist offers energy healing, which may be drawn from a blend of holistic traditions such as Reiki, crystal healing, shamanic healing, Buddhist or yogic practices—tailored intuitively to what the client needs most in that moment.\n\nThe relaxing nature of the massage allows the brain to quieten, the heart to open, and the body to let go of resistance. This softening effect creates the perfect internal environment for energy healing to penetrate more deeply, amplifying its effect and allowing the client to receive on all levels—physically, emotionally, and energetically.\n\nThis treatment is especially beneficial for those who seek more than physical relief but who are also looking to shift emotional or energetic heaviness, recalibrate their inner balance, or reconnect with their higher self. The presence of three energies—the two therapists and the client—forms a powerful triangle, creating a field of support, resonance, and release. This energetic alignment promotes a natural decompression of dense or stagnant energies held within the body.",
+        image: "/new_assets/IMG_5711.jpg",
         ctaLabel: "Gentle Massage with Energy Healing",
         benefits: [
-          "Most luxurious way to relax",
-          "Invigorates your energy",
-          "Combines massage with energy healing",
-          "Choose aromatherapy, hot stones, or crystal healing",
-          "Shamanic healing options available",
-          "Personalised treatment experience",
+          "Deeply restorative and spiritually uplifting",
+          "Works on physical and energetic levels",
+          "Two therapists work in harmony",
+          "Combines relaxing massage with energy healing",
+          "Allows energy healing to penetrate more deeply",
+          "Promotes natural decompression of stagnant energies",
         ],
         pricingOptions: [
           {

@@ -28,7 +28,7 @@ const NAV_GROUPS = [
       { label: "Energy Healing", href: "/services/energy-healing" },
       { label: "Holistic Therapies", href: "/services/holistic-therapies" },
       { label: "Natural Glow", href: "/services/natural-glow" },
-      { label: "2x4", href: "/services/2by4" },
+      { label: "2by4", href: "/services/2by4" },
       { label: "Healing Movement", href: "/services/healing-movement" },
       { label: "Maternal Massage", href: "/services/maternal-massage" },
       { label: "The Essence", href: "/the-essence" },
